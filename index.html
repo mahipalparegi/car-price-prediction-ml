@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <title>CarValue ML | Price Predictor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    :root {
+      --font-body: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --font-display: "Trebuchet MS", "Segoe UI", Verdana, sans-serif;
+      --canvas: #101a1c;
+      --paper: #172427;
+      --ink: #e9f1f2;
+      --muted: #9aabae;
+      --line: #2c3c3f;
+      --teal: #13a094;
+      --teal-dark: #6fd3c6;
+      --coral: #e2694f;
+      --error: #ff9384;
+      --field: #101b1d;
+      --field-border: #35474a;
+      --field-focus: #16262a;
+      --soft: #1d2c2f;
+      --soft-hover: #2c211e;
+      --pill: #103734;
+      --ok-bg: #12312c;
+      --ok-border: #2f7a6c;
+      --ok-ink: #9fe6d6;
+      --err-bg: #33201d;
+      --err-border: #7a3b33;
+      --plate: #ffffff;
+      --on-accent: #ffffff;
+      --grid-line: rgba(255, 255, 255, 0.04);
+      --shadow: rgba(0, 0, 0, 0.45);
+    }
+    [data-theme="light"] {
+      --canvas: #e8eef0;
+      --paper: #ffffff;
+      --ink: #142629;
+      --muted: #5b6c70;
+      --line: #c6d2d4;
+      --teal: #08736e;
+      --teal-dark: #075953;
+      --coral: #dc5a40;
+      --error: #b42318;
+      --field: #fbfcfc;
+      --field-border: #aebdc0;
+      --field-focus: #ffffff;
+      --soft: #eef2f2;
+      --soft-hover: #fff5f2;
+      --pill: #e0f0ee;
+      --ok-bg: #e2f3ee;
+      --ok-border: #79b7a8;
+      --ok-ink: #084d47;
+      --err-bg: #fff0ed;
+      --err-border: #e2a096;
+      --grid-line: rgba(20, 38, 41, 0.05);
+      --shadow: rgba(20, 38, 41, 0.14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: var(--font-body);
+      background-color: var(--canvas);
+      background-image:
+        linear-gradient(var(--grid-line) 1px, transparent 1px),
+        linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+      background-size: 32px 32px;
+      color: var(--ink);
+      display: flex;
+      justify-content: center;
+      padding: 32px 24px;
+    }
+    .card {
+      background: var(--paper);
+      border-radius: 8px;
+      max-width: 1080px;
+      width: 100%;
+      padding: 32px;
+      box-shadow: 0 18px 50px var(--shadow);
+      border: 1px solid var(--line);
+      border-top: 6px solid var(--coral);
+    }
+    .page-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .header-side {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    h1 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: 2rem;
+      line-height: 1.1;
+      letter-spacing: 0;
+    }
+    p.sub {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    .model-stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(120px, 1fr));
+      margin: 24px 0 4px;
+      border-block: 1px solid var(--line);
+    }
+    .stat {
+      padding: 14px 12px;
+      color: var(--muted);
+      font-size: 0.78rem;
+      text-transform: uppercase;
+    }
+    .stat + .stat { border-left: 1px solid var(--line); }
+    .stat strong {
+      display: block;
+      margin-bottom: 2px;
+      color: var(--ink);
+      font-family: var(--font-display);
+      font-size: 1.15rem;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+    }
+    label {
+      display: block;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0;
+      color: var(--muted);
+      margin-bottom: 6px;
+      font-weight: 600;
+    }
+    select, input {
+      width: 100%;
+      min-height: 42px;
+      padding: 9px 11px;
+      border-radius: 5px;
+      border: 1px solid var(--field-border);
+      background: var(--field);
+      color: var(--ink);
+      font-size: 0.95rem;
+      outline: none;
+      transition: border 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+    }
+    select:focus, input:focus {
+      border-color: var(--teal);
+      box-shadow: 0 0 0 3px rgba(19, 160, 148, 0.18);
+      background: var(--field-focus);
+    }
+    .input-error {
+      border-color: var(--error) !important;
+      box-shadow: 0 0 0 3px rgba(180, 35, 24, 0.12);
+    }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 7px 10px;
+      border-radius: 4px;
+      background: var(--pill);
+      color: var(--teal-dark);
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    .btn-row {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 18px;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    button {
+      min-height: 42px;
+      border-radius: 5px;
+      padding: 9px 18px;
+      border: 1px solid var(--teal);
+      cursor: pointer;
+      font-size: 0.95rem;
+      font-family: inherit;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--teal);
+      color: var(--on-accent);
+      box-shadow: 0 6px 14px rgba(8, 115, 110, 0.2);
+      transition: transform 0.1s ease, box-shadow 0.1s ease, filter 0.1s ease;
+    }
+    #resetBtn, #themeBtn {
+      border-color: var(--field-border);
+      background: var(--soft);
+      color: var(--ink);
+      box-shadow: none;
+    }
+    #themeBtn {
+      min-height: 34px;
+      padding: 6px 12px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+    button:hover {
+      transform: translateY(-1px);
+      filter: brightness(0.96);
+      box-shadow: 0 9px 18px rgba(8, 115, 110, 0.24);
+    }
+    button:active {
+      transform: translateY(0);
+      box-shadow: 0 3px 8px rgba(8, 115, 110, 0.2);
+    }
+    button:disabled {
+      cursor: wait;
+      filter: grayscale(0.35);
+      opacity: 0.65;
+      transform: none;
+    }
+    .result-box {
+      margin-top: 18px;
+      padding: 16px;
+      border-radius: 5px;
+      background: var(--ok-bg);
+      border: 1px solid var(--ok-border);
+      color: var(--ok-ink);
+      display: none;
+      font-family: var(--font-display);
+      font-size: 1.15rem;
+      font-weight: 700;
+    }
+    .error-box {
+      margin-top: 14px;
+      padding: 10px 14px;
+      border-radius: 5px;
+      background: var(--err-bg);
+      border: 1px solid var(--err-border);
+      color: var(--error);
+      font-size: 0.9rem;
+      display: none;
+      white-space: pre-line;
+    }
+    .hint {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-top: 3px;
+    }
+    .section-title {
+      margin: 24px 0 10px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0;
+      color: var(--teal-dark);
+    }
+    #km-group.hidden {
+      display: none;
+    }
+    .condition-group {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 8px;
+    }
+    .condition-btn {
+      flex: 1;
+      padding: 9px 12px;
+      border-radius: 5px;
+      border: 1px solid var(--field-border);
+      background: var(--soft);
+      color: var(--ink);
+      font-size: 0.95rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      outline: none;
+    }
+    .condition-btn:hover {
+      border-color: var(--coral);
+      background: var(--soft-hover);
+      box-shadow: none;
+    }
+    .condition-btn:focus-visible {
+      outline: 3px solid var(--teal);
+      outline-offset: 2px;
+    }
+    .condition-btn.active {
+      background: var(--coral);
+      border-color: var(--coral);
+      color: var(--on-accent);
+      font-weight: 600;
+      box-shadow: none;
+    }
+    .evidence {
+      margin-top: 32px;
+      padding-top: 8px;
+      border-top: 1px solid var(--line);
+    }
+    .evidence-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+    figure { margin: 0; min-width: 0; }
+    figure img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: contain;
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      background: var(--plate);
+    }
+    figcaption {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    @media (max-width: 680px) {
+      body { padding: 12px; }
+      .card { padding: 20px 16px; }
+      .model-stats { grid-template-columns: 1fr; }
+      .stat + .stat { border-left: 0; border-top: 1px solid var(--line); }
+      .evidence-grid { grid-template-columns: 1fr; }
+      .btn-row button { flex: 1; justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="page-header">
+      <div>
+        <h1>CarValue ML</h1>
+        <p class="sub">
+          Machine-learning car price estimates in <strong>USD</strong>.
+        </p>
+      </div>
+      <div class="header-side">
+        <div class="pill">
+          Random Forest pipeline
+        </div>
+        <button type="button" id="themeBtn">Light mode</button>
+      </div>
+    </div>
+
+    <div class="model-stats" aria-label="Model summary">
+      <div class="stat"><strong id="training-count">6,000</strong>Training records</div>
+      <div class="stat"><strong>0.82</strong>Validation R2</div>
+      <div class="stat"><strong>10</strong>Input features</div>
+    </div>
+
+    <form id="carForm">
+      <div class="section-title">Basic Details</div>
+      <div class="grid">
+        <div>
+          <label for="company">Company</label>
+          <select id="company" required></select>
+        </div>
+        <div>
+          <label for="model">Model</label>
+          <select id="model" required></select>
+        </div>
+        <div>
+          <label>Condition</label>
+          <div class="condition-group">
+            <button type="button" class="condition-btn active" data-value="Brand New" aria-pressed="true">Brand New</button>
+            <button type="button" class="condition-btn" data-value="Second Hand" aria-pressed="false">Second Hand</button>
+          </div>
+          <input type="hidden" id="condition" value="Brand New" required>
+        </div>
+        <div>
+          <label for="year">Year</label>
+          <input id="year" type="number" value="2020" min="1980" max="2025" required>
+          <div class="hint">Accepted range: 1980 to 2025.</div>
+        </div>
+      </div>
+
+      <div class="section-title">Specifications</div>
+      <div class="grid">
+        <div id="km-group">
+          <label for="km_driven">Kilometers Driven</label>
+          <input id="km_driven" type="number" value="100" min="0" placeholder="e.g. 45000">
+        </div>
+        <div>
+          <label for="fuel_type">Fuel Type</label>
+          <select id="fuel_type" required>
+            <option value="Petrol">Petrol</option>
+            <option value="Diesel">Diesel</option>
+            <option value="Electric">Electric</option>
+            <option value="Hybrid">Hybrid</option>
+          </select>
+        </div>
+        <div>
+          <label for="transmission">Transmission</label>
+          <select id="transmission" required>
+            <option value="Manual">Manual</option>
+            <option value="Automatic">Automatic</option>
+          </select>
+        </div>
+        <div>
+          <label for="engine_cc">Engine (CC)</label>
+          <input id="engine_cc" type="number" step="any" value="1500" min="600" placeholder="e.g. 1498" required>
+        </div>
+        <div>
+          <label for="max_power_bhp">Max Power (bhp)</label>
+          <input id="max_power_bhp" type="number" step="any" value="120" min="30" placeholder="e.g. 118" required>
+        </div>
+        <div>
+          <label for="mileage_kmpl">Mileage (kmpl)</label>
+          <input id="mileage_kmpl" type="number" step="0.1" value="21.5" min="3" placeholder="e.g. 17.5" required>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button type="button" id="resetBtn">Reset</button>
+        <button type="submit" id="predictBtn">
+          Predict Price
+        </button>
+      </div>
+
+      <div id="errorBox" class="error-box" role="alert"></div>
+      <div id="priceResult" class="result-box" aria-live="polite"></div>
+    </form>
+
+    <section class="evidence" aria-labelledby="evidence-title">
+      <div class="section-title" id="evidence-title">Model Evidence</div>
+      <div class="evidence-grid">
+        <figure>
+          <img src="graph_visualizations/1_actual_vs_predicted.png" alt="Scatter plot comparing actual and predicted vehicle prices" loading="lazy">
+          <figcaption>Held-out actual versus predicted prices, validation R2 0.82.</figcaption>
+        </figure>
+        <figure>
+          <img src="graph_visualizations/3_feature_importance.png" alt="Bar chart of the ten most important encoded model features" loading="lazy">
+          <figcaption>Top impurity-based feature importance values.</figcaption>
+        </figure>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const API_BASE = window.location.protocol === "file:"
+      ? "http://127.0.0.1:5000"
+      : "";
+    let carModels = {};
+
+    const companySelect = document.getElementById("company");
+    const modelSelect = document.getElementById("model");
+    const conditionSelect = document.getElementById("condition");
+    const kmGroup = document.getElementById("km-group");
+    const form = document.getElementById("carForm");
+    const errorBox = document.getElementById("errorBox");
+    const priceResult = document.getElementById("priceResult");
+    const predictBtn = document.getElementById("predictBtn");
+    const themeBtn = document.getElementById("themeBtn");
+
+    themeBtn.addEventListener("click", () => {
+      const light = document.documentElement.getAttribute("data-theme") === "light";
+      document.documentElement.setAttribute("data-theme", light ? "dark" : "light");
+      themeBtn.textContent = light ? "Light mode" : "Dark mode";
+    });
+
+    function populateCompanies() {
+      companySelect.innerHTML = "";
+      const companies = Object.keys(carModels).sort();
+      companies.forEach(c => {
+        const opt = document.createElement("option");
+        opt.value = c;
+        opt.textContent = c;
+        companySelect.appendChild(opt);
+      });
+    }
+
+    function populateModels() {
+      const company = companySelect.value;
+      modelSelect.innerHTML = "";
+      if (!company || !carModels[company]) return;
+      carModels[company].forEach(m => {
+        const opt = document.createElement("option");
+        opt.value = m;
+        opt.textContent = m;
+        modelSelect.appendChild(opt);
+      });
+    }
+
+    function populateOptions(id, values) {
+      const select = document.getElementById(id);
+      select.innerHTML = "";
+      values.forEach(value => {
+        const option = document.createElement("option");
+        option.value = value;
+        option.textContent = value;
+        select.appendChild(option);
+      });
+    }
+
+    async function loadMetadata() {
+      predictBtn.disabled = true;
+      predictBtn.textContent = "Loading model data...";
+
+      try {
+        const response = await fetch(`${API_BASE}/api/metadata`);
+        const metadata = await response.json();
+        if (!response.ok || !metadata.success) {
+          throw new Error("Model metadata is unavailable");
+        }
+
+        carModels = metadata.companies;
+        populateCompanies();
+        populateModels();
+        populateOptions("fuel_type", metadata.fuel_types);
+        populateOptions("transmission", metadata.transmissions);
+
+        document.getElementById("training-count").textContent =
+          new Intl.NumberFormat("en-US").format(metadata.training_rows);
+      } catch (error) {
+        showError(error.message + ". Start the Flask application and refresh this page.");
+        predictBtn.textContent = "Predict Price";
+        return;
+      }
+
+      predictBtn.disabled = false;
+      predictBtn.textContent = "Predict Price";
+    }
+
+    function clearErrors() {
+      errorBox.style.display = "none";
+      errorBox.textContent = "";
+      priceResult.style.display = "none";
+      priceResult.textContent = "";
+      document.querySelectorAll(".input-error").forEach(el => {
+        el.classList.remove("input-error");
+      });
+    }
+
+    function showError(messageOrList) {
+      let msg = "";
+      if (Array.isArray(messageOrList)) {
+        msg = messageOrList.join("\n");
+      } else {
+        msg = String(messageOrList || "Unknown error");
+      }
+      errorBox.style.display = "block";
+      errorBox.textContent = msg;
+    }
+
+    function validateInputs() {
+      clearErrors();
+      let ok = true;
+      const messages = [];
+
+      function flag(id, message) {
+        const el = document.getElementById(id);
+        if (el) el.classList.add("input-error");
+        messages.push(message);
+        ok = false;
+      }
+
+      const yearInput = document.getElementById("year");
+      const yearVal = Number(yearInput.value);
+      if (!yearVal || isNaN(yearVal)) {
+        flag("year", "Year is required.");
+      } else if (yearVal < Number(yearInput.min) || yearVal > Number(yearInput.max)) {
+        flag("year", `Year should be between ${yearInput.min} and ${yearInput.max}.`);
+      }
+
+      if (!companySelect.value) {
+        flag("company", "Company is required.");
+      }
+      if (!modelSelect.value) {
+        flag("model", "Model is required.");
+      }
+
+      const cond = conditionSelect.value;
+      const kmInput = document.getElementById("km_driven").value;
+      if (cond === "Second Hand") {
+        const kmVal = Number(kmInput);
+        if (!kmInput && kmInput !== 0) {
+          flag("km_driven", "Kilometers driven is required for Second Hand cars.");
+        } else if (isNaN(kmVal) || kmVal < 0) {
+          flag("km_driven", "Kilometers driven must be a non-negative number.");
+        }
+      }
+
+      const engineVal = Number(document.getElementById("engine_cc").value);
+      if (!engineVal || isNaN(engineVal) || engineVal <= 0) {
+        flag("engine_cc", "Engine CC must be a positive number.");
+      }
+
+      const powerVal = Number(document.getElementById("max_power_bhp").value);
+      if (!powerVal || isNaN(powerVal) || powerVal <= 0) {
+        flag("max_power_bhp", "Max power (bhp) must be a positive number.");
+      }
+
+      const mileageVal = Number(document.getElementById("mileage_kmpl").value);
+      if (!mileageVal || isNaN(mileageVal) || mileageVal <= 0) {
+        flag("mileage_kmpl", "Mileage (kmpl) must be a positive number.");
+      }
+
+      if (!ok) {
+        showError(messages);
+      }
+      return ok;
+    }
+
+    companySelect.addEventListener("change", populateModels);
+
+    // Handle condition buttons
+    document.querySelectorAll(".condition-btn").forEach(btn => {
+      btn.addEventListener("click", (e) => {
+        e.preventDefault();
+        document.querySelectorAll(".condition-btn").forEach(button => {
+          const isActive = button === btn;
+          button.classList.toggle("active", isActive);
+          button.setAttribute("aria-pressed", String(isActive));
+        });
+        conditionSelect.value = btn.dataset.value;
+        updateKmVisibility();
+      });
+    });
+
+    function updateKmVisibility() {
+      const cond = conditionSelect.value;
+      if (cond === "Second Hand") {
+        kmGroup.classList.remove("hidden");
+      } else {
+        kmGroup.classList.add("hidden");
+        document.getElementById("km_driven").value = "0";
+      }
+    }
+
+    document.getElementById("resetBtn").addEventListener("click", () => {
+      form.reset();
+      document.querySelectorAll(".condition-btn").forEach(button => {
+        const isBrandNew = button.dataset.value === "Brand New";
+        button.classList.toggle("active", isBrandNew);
+        button.setAttribute("aria-pressed", String(isBrandNew));
+      });
+      conditionSelect.value = "Brand New";
+      populateCompanies();
+      populateModels();
+      updateKmVisibility();
+      clearErrors();
+      document.getElementById("year").value = "2020";
+    });
+
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      if (!validateInputs()) return;
+
+      clearErrors();
+      priceResult.style.display = "block";
+      priceResult.textContent = "Predicting price...";
+
+      const payload = {
+        company_name: companySelect.value,
+        model: modelSelect.value,
+        condition: conditionSelect.value,
+        year: document.getElementById("year").value,
+        km_driven: document.getElementById("km_driven").value || 0,
+        fuel_type: document.getElementById("fuel_type").value,
+        transmission: document.getElementById("transmission").value,
+        engine_cc: document.getElementById("engine_cc").value,
+        max_power_bhp: document.getElementById("max_power_bhp").value,
+        mileage_kmpl: document.getElementById("mileage_kmpl").value
+      };
+
+      predictBtn.disabled = true;
+      predictBtn.textContent = "Predicting...";
+
+      fetch(`${API_BASE}/predict`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+      })
+      .then(async res => ({ ok: res.ok, data: await res.json() }))
+      .then(({ ok, data }) => {
+        if (!ok || !data.success) {
+          const msgs = data.errors || [data.error || "Unknown server error"];
+          showError(msgs);
+          priceResult.style.display = "none";
+          return;
+        }
+        priceResult.style.display = "block";
+        priceResult.textContent = "Estimated Price: " + new Intl.NumberFormat(
+          "en-US",
+          { style: "currency", currency: "USD" }
+        ).format(data.predicted_price_usd);
+      })
+      .catch(err => {
+        showError("Server error: " + err.message);
+        priceResult.style.display = "none";
+      })
+      .finally(() => {
+        predictBtn.disabled = false;
+        predictBtn.textContent = "Predict Price";
+      });
+    });
+
+    updateKmVisibility();
+    loadMetadata();
+  </script>
+</body>
+</html>
