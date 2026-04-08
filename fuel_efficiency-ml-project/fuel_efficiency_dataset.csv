@@ -1,0 +1,3001 @@
+brand,model,engine_cc,max_power_bhp,kerb_weight_kg,fuel_type,transmission,kilometers_driven,fuel_efficiency_kmpl
+Maruti Suzuki,WagonR,1800,136.4,1775,Diesel,Automatic,106724,22.5
+Volkswagen,Vento,1000,80.7,1657,Diesel,Automatic,149148,24.1
+Nissan,Kicks,1000,76.0,983,Diesel,Automatic,73766,23.3
+Toyota,Corolla,1500,122.3,1399,Petrol,Manual,50012,23.3
+BMW,X3,1800,146.6,1072,Diesel,Automatic,87464,21.0
+Kia,Seltos,1600,134.9,1399,Petrol,Automatic,80696,19.1
+Toyota,Camry,1800,165.6,1840,Petrol,Automatic,8783,19.5
+Tata,Tiago,1800,133.8,1437,Diesel,Manual,123789,23.8
+Honda,WR-V,2000,161.1,1023,Petrol,Manual,163313,19.9
+Kia,Carens,2000,141.0,1304,Diesel,Automatic,199908,18.7
+Kia,Carens,1000,62.0,898,Diesel,Automatic,18705,24.1
+Kia,Sonet,1500,100.9,1753,Petrol,Manual,192574,21.3
+Kia,Sonet,1000,65.6,1023,Petrol,Automatic,178315,21.5
+Nissan,Kicks,1200,70.9,1870,Diesel,Automatic,20433,24.2
+Ford,Freestyle,2000,144.3,1701,Petrol,Manual,147722,20.6
+BMW,320i,2500,235.7,892,Diesel,Automatic,62268,19.6
+Nissan,Sunny,1800,151.4,1136,Diesel,Automatic,181060,20.3
+Nissan,Kicks,2000,119.1,1710,Petrol,Manual,177763,20.1
+Honda,City,2200,191.0,1724,Petrol,Manual,170780,18.8
+Ford,Figo,1600,120.2,1451,Petrol,Manual,132171,22.8
+BMW,320i,1600,91.8,1673,Diesel,Manual,82986,24.9
+Hyundai,Verna,2200,150.3,1468,Petrol,Automatic,33116,18.3
+Nissan,Micra,1000,90.2,1457,Petrol,Automatic,19214,22.3
+Kia,Seltos,2500,144.3,1119,Petrol,Automatic,92376,18.8
+Honda,WR-V,1200,73.3,998,Petrol,Automatic,50519,21.2
+Maruti Suzuki,Swift,1000,85.8,1759,Diesel,Automatic,17141,25.0
+Ford,Ecosport,1000,66.0,1041,Petrol,Automatic,166272,22.6
+Ford,Freestyle,2200,151.9,1518,Petrol,Manual,11382,19.9
+Ford,Figo,1000,94.1,1320,Petrol,Manual,173096,23.7
+Honda,Jazz,1500,121.6,1000,Petrol,Manual,75981,22.7
+Tata,Tiago,1200,71.0,1817,Diesel,Automatic,121244,22.6
+Maruti Suzuki,Baleno,1600,100.6,1868,Petrol,Manual,32953,21.0
+Maruti Suzuki,Ciaz,1000,94.0,870,Diesel,Manual,191683,24.8
+Toyota,Corolla,1200,99.4,1611,Petrol,Manual,125323,23.7
+Hyundai,Verna,1000,82.7,1753,Diesel,Manual,148761,24.3
+Volkswagen,Polo,1000,91.2,1669,Diesel,Manual,113878,25.5
+Kia,Seltos,1500,128.5,1388,Diesel,Automatic,127214,21.7
+Ford,Ecosport,2500,165.7,1125,Petrol,Manual,89546,17.9
+Toyota,Glanza,2000,122.9,1541,Petrol,Manual,93337,19.2
+Maruti Suzuki,WagonR,1500,105.4,1302,Petrol,Manual,142688,23.2
+BMW,X1,1800,154.5,1653,Diesel,Manual,167846,21.9
+Toyota,Yaris,2200,143.7,1534,Diesel,Manual,17873,21.8
+Volkswagen,Vento,1000,76.0,900,Petrol,Automatic,176094,23.7
+Honda,Civic,1200,86.6,1264,Diesel,Automatic,39536,25.1
+Kia,Sonet,2000,180.1,1459,Diesel,Automatic,7856,20.9
+Hyundai,i10,1000,59.8,1425,Diesel,Manual,36916,24.3
+Nissan,Micra,1500,96.0,1542,Diesel,Automatic,67020,22.2
+Ford,Figo,2000,187.9,885,Petrol,Automatic,85815,18.5
+Hyundai,i20,1600,117.9,1220,Diesel,Manual,129937,25.2
+Nissan,Sunny,1800,122.6,1511,Diesel,Manual,60986,22.4
+Tata,Harrier,2000,181.1,1802,Diesel,Manual,149205,21.3
+Kia,Seltos,1800,130.3,1875,Diesel,Manual,10637,22.2
+Nissan,Sunny,2200,152.4,1608,Diesel,Automatic,101639,19.1
+BMW,320i,2200,125.2,1410,Diesel,Automatic,40834,21.9
+Honda,WR-V,1800,115.1,1876,Petrol,Automatic,59137,20.4
+Toyota,Glanza,1600,88.8,954,Diesel,Automatic,189615,22.2
+Tata,Altroz,2000,167.3,938,Petrol,Automatic,149296,20.8
+Volkswagen,Vento,1600,130.0,1386,Petrol,Automatic,120766,20.9
+BMW,520d,1200,80.0,1728,Diesel,Manual,71670,24.1
+Kia,Sonet,1000,60.2,1013,Diesel,Automatic,70455,23.5
+BMW,320i,1800,166.5,1753,Diesel,Automatic,55283,20.8
+Toyota,Camry,2200,187.4,1349,Diesel,Automatic,47340,20.1
+Nissan,Kicks,2200,124.5,1254,Diesel,Automatic,172316,20.2
+Hyundai,Verna,2200,136.9,1461,Diesel,Automatic,81174,20.0
+Hyundai,i10,1200,113.2,1280,Diesel,Automatic,55130,22.6
+Nissan,Sunny,1200,110.8,1392,Petrol,Automatic,93550,23.2
+Honda,Civic,1000,75.3,1825,Diesel,Manual,112298,23.7
+Ford,Figo,1800,141.6,928,Diesel,Manual,39047,22.5
+Honda,City,1500,126.9,1221,Petrol,Manual,88574,21.9
+Volkswagen,Taigun,2000,111.8,1571,Petrol,Manual,77382,19.9
+Honda,Jazz,1000,92.8,1591,Petrol,Automatic,25522,22.9
+Tata,Tiago,1000,73.9,1056,Diesel,Manual,3580,25.3
+Kia,Carens,1600,91.0,1749,Petrol,Automatic,46608,20.6
+Toyota,Corolla,1200,112.1,917,Diesel,Manual,171569,26.3
+Honda,Amaze,1600,112.7,1550,Petrol,Manual,158182,21.4
+Volkswagen,Vento,1600,88.6,1259,Diesel,Manual,157587,25.3
+Nissan,Kicks,1800,134.1,1722,Diesel,Manual,196379,23.2
+Kia,Seltos,1500,124.7,1690,Diesel,Manual,21575,21.9
+Honda,City,1600,121.5,1735,Petrol,Manual,199135,20.4
+Maruti Suzuki,Ciaz,2500,224.6,1131,Petrol,Manual,1266,17.5
+BMW,X1,1000,57.2,1478,Petrol,Manual,128392,22.6
+Tata,Harrier,1500,83.4,1717,Petrol,Manual,32193,23.1
+Honda,City,1800,114.0,998,Petrol,Manual,104767,21.6
+Toyota,Corolla,1200,104.6,1293,Petrol,Manual,130437,24.1
+Kia,Carens,1500,86.5,1411,Petrol,Manual,63913,22.5
+Ford,Aspire,1500,103.8,1458,Diesel,Automatic,123073,20.5
+Toyota,Glanza,1800,137.9,1479,Petrol,Automatic,129372,19.6
+Ford,Freestyle,1500,93.9,909,Diesel,Manual,133249,23.1
+Honda,Amaze,1600,121.3,1678,Diesel,Manual,114016,22.5
+Honda,Amaze,1000,76.2,1756,Diesel,Manual,122050,26.1
+BMW,520d,1500,114.7,1883,Diesel,Automatic,77022,23.2
+Volkswagen,Polo,2000,143.3,1360,Diesel,Manual,27422,21.5
+BMW,520d,2500,223.3,885,Petrol,Automatic,139521,16.7
+Ford,Freestyle,2500,151.6,1495,Petrol,Manual,5563,19.3
+Maruti Suzuki,Swift,1500,94.6,1466,Petrol,Automatic,157996,19.1
+Tata,Harrier,1200,95.4,1818,Diesel,Automatic,178563,24.2
+Maruti Suzuki,Baleno,2500,231.0,1797,Petrol,Automatic,37558,16.6
+Nissan,Kicks,2200,122.6,856,Diesel,Automatic,186359,21.1
+Kia,Sonet,1000,74.5,1783,Diesel,Manual,1387,24.4
+Kia,Sonet,1600,96.6,1734,Petrol,Manual,90534,22.1
+Ford,Figo,2500,141.2,1676,Diesel,Automatic,92837,20.5
+Maruti Suzuki,Baleno,2500,186.7,1143,Petrol,Automatic,42164,17.0
+Hyundai,Creta,2200,170.0,1640,Diesel,Manual,109172,22.6
+Maruti Suzuki,Baleno,1500,112.3,862,Petrol,Automatic,148331,21.7
+Toyota,Glanza,1600,123.6,1042,Diesel,Manual,57072,23.1
+Tata,Nexon,1200,82.7,1147,Petrol,Automatic,102789,21.9
+Nissan,Micra,1600,125.6,1316,Diesel,Manual,67580,22.3
+Ford,Figo,1600,92.2,1782,Petrol,Manual,138085,21.3
+Tata,Altroz,2500,236.8,1822,Diesel,Manual,157378,19.8
+Toyota,Corolla,1200,102.1,1718,Petrol,Automatic,131498,23.2
+Honda,Civic,1500,125.6,1192,Petrol,Automatic,95775,21.1
+Kia,Carens,1600,127.1,1360,Diesel,Manual,98668,23.7
+Nissan,Micra,1000,92.9,1325,Diesel,Automatic,33125,24.4
+Maruti Suzuki,Baleno,2000,174.3,1440,Diesel,Automatic,108443,22.5
+BMW,X3,1000,66.6,1612,Diesel,Manual,147038,24.6
+Ford,Freestyle,2000,132.2,1409,Diesel,Manual,170861,21.3
+Kia,Sonet,1500,105.2,1339,Diesel,Automatic,59510,22.2
+Honda,Amaze,1800,168.0,1377,Diesel,Manual,199584,24.1
+Nissan,Micra,2200,205.6,931,Petrol,Automatic,29381,19.4
+Volkswagen,Vento,2000,184.9,1468,Diesel,Automatic,1860,21.8
+Volkswagen,Polo,1000,70.7,1378,Petrol,Automatic,180280,23.3
+Kia,Carens,1200,68.3,1456,Petrol,Manual,103036,22.3
+Maruti Suzuki,Baleno,2000,184.5,1795,Petrol,Automatic,59027,20.6
+Honda,Jazz,1200,112.8,1161,Diesel,Manual,52698,26.5
+Ford,Ecosport,1600,141.1,1890,Petrol,Manual,32926,20.5
+Hyundai,Verna,1600,123.6,1050,Petrol,Automatic,68361,20.8
+Kia,Seltos,2000,122.9,915,Diesel,Automatic,39433,19.9
+Hyundai,i20,1600,123.2,1826,Petrol,Automatic,105387,19.1
+Maruti Suzuki,Swift,1800,132.6,1898,Diesel,Automatic,123427,22.1
+Tata,Altroz,1200,86.6,1049,Diesel,Automatic,64423,23.6
+Maruti Suzuki,Dzire,1600,121.4,1710,Petrol,Automatic,60012,21.9
+Toyota,Corolla,2500,182.9,1052,Diesel,Automatic,6337,21.0
+Maruti Suzuki,Baleno,1200,102.3,1532,Diesel,Manual,86787,23.4
+Ford,Freestyle,1200,98.0,1725,Diesel,Automatic,161648,23.5
+Maruti Suzuki,WagonR,1200,77.2,855,Diesel,Automatic,85151,23.9
+Maruti Suzuki,Baleno,1600,120.0,1253,Diesel,Automatic,135766,22.1
+Maruti Suzuki,Swift,2000,139.9,1105,Diesel,Automatic,67550,21.5
+Toyota,Corolla,1000,83.4,882,Diesel,Manual,106918,23.9
+Maruti Suzuki,WagonR,1000,79.8,1048,Diesel,Manual,24534,25.6
+BMW,X3,1800,164.9,1294,Diesel,Automatic,11308,22.0
+BMW,X3,2000,171.1,1058,Diesel,Automatic,53977,22.1
+Tata,Tiago,2200,133.2,1814,Petrol,Manual,183659,19.0
+Tata,Nexon,1200,96.5,1081,Petrol,Manual,86573,23.2
+Volkswagen,Taigun,1200,99.2,1807,Petrol,Manual,143163,21.9
+BMW,X3,1500,126.7,1652,Petrol,Manual,125753,22.4
+Kia,Seltos,1200,78.5,1821,Petrol,Manual,27771,23.0
+Tata,Harrier,2000,166.0,858,Diesel,Automatic,192782,20.4
+Honda,Civic,1200,95.5,1168,Diesel,Automatic,100266,22.0
+BMW,520d,1600,139.2,1111,Diesel,Automatic,194194,23.2
+BMW,X3,2500,162.8,907,Petrol,Automatic,182180,16.6
+Ford,Ecosport,1200,101.2,1362,Diesel,Manual,83107,26.5
+Maruti Suzuki,Ciaz,1800,166.4,1516,Petrol,Manual,93717,20.8
+BMW,320i,1600,134.9,1397,Petrol,Automatic,24998,19.0
+Maruti Suzuki,Dzire,1800,125.2,932,Diesel,Automatic,70059,23.7
+Volkswagen,Taigun,2000,158.9,1090,Petrol,Manual,87151,20.2
+Nissan,Sunny,2500,148.9,1138,Petrol,Automatic,150555,18.7
+Maruti Suzuki,WagonR,1000,70.1,1471,Diesel,Manual,153987,24.4
+Hyundai,Venue,1800,166.8,931,Petrol,Automatic,137304,21.5
+Ford,Ecosport,2500,209.7,1326,Diesel,Automatic,15391,18.3
+Hyundai,Creta,1200,76.2,899,Petrol,Automatic,63157,21.3
+Nissan,Micra,1000,90.9,1733,Petrol,Manual,153976,22.7
+Maruti Suzuki,Dzire,2500,173.5,979,Diesel,Manual,160431,20.2
+Nissan,Kicks,1500,129.2,1724,Petrol,Manual,128084,21.4
+Maruti Suzuki,Baleno,1000,73.4,1626,Petrol,Automatic,115812,22.7
+Hyundai,i20,1200,77.9,1627,Diesel,Automatic,45007,22.1
+Kia,Seltos,2200,145.3,1237,Petrol,Manual,42083,21.0
+Volkswagen,Vento,1200,95.0,1014,Diesel,Manual,166732,25.8
+BMW,X1,1800,163.7,1699,Diesel,Automatic,40141,21.7
+Ford,Ecosport,1200,81.2,1443,Diesel,Manual,109192,23.7
+Volkswagen,Polo,1200,96.2,1890,Diesel,Manual,2317,22.5
+Tata,Altroz,1000,80.7,1797,Diesel,Automatic,195690,21.9
+Ford,Freestyle,2200,139.3,1027,Diesel,Automatic,193735,20.4
+Honda,Civic,1600,139.0,1812,Petrol,Manual,7573,21.0
+Hyundai,Venue,2000,110.5,1236,Diesel,Manual,191571,23.1
+BMW,520d,2000,173.2,1581,Petrol,Manual,67066,20.6
+Ford,Aspire,2500,222.9,1196,Diesel,Manual,23414,19.4
+Hyundai,Verna,2500,185.6,1414,Petrol,Manual,108485,19.8
+Maruti Suzuki,Swift,2200,144.3,886,Diesel,Manual,91625,21.9
+Kia,Carens,2200,128.7,1379,Diesel,Automatic,6209,18.5
+Maruti Suzuki,Dzire,2200,122.4,1611,Diesel,Manual,135571,22.0
+Hyundai,i10,2000,162.9,935,Petrol,Manual,48606,21.1
+Toyota,Glanza,1200,113.2,1129,Diesel,Automatic,31072,24.2
+BMW,320i,1000,68.9,1819,Petrol,Automatic,97249,22.6
+Honda,City,2200,135.5,948,Diesel,Automatic,57770,22.8
+Volkswagen,Vento,2500,216.1,947,Petrol,Manual,55808,18.0
+Maruti Suzuki,Ciaz,2500,194.6,1172,Petrol,Manual,153100,19.5
+Tata,Tiago,1800,119.7,1781,Petrol,Manual,143966,20.0
+Maruti Suzuki,Dzire,2000,126.6,1178,Petrol,Automatic,152841,20.3
+Kia,Carens,2200,154.0,1559,Petrol,Manual,29410,19.2
+Nissan,Sunny,2200,202.0,919,Petrol,Manual,67267,19.4
+Toyota,Camry,1200,107.9,1051,Petrol,Manual,126707,21.6
+Ford,Freestyle,1800,131.3,1193,Diesel,Manual,63968,22.6
+Volkswagen,Taigun,1500,92.1,1864,Diesel,Manual,97727,24.6
+Tata,Nexon,1800,152.7,1369,Petrol,Manual,28986,22.4
+Tata,Altroz,1600,148.1,1729,Petrol,Manual,117779,21.2
+Ford,Aspire,1800,165.2,1752,Diesel,Automatic,162598,22.5
+BMW,520d,1000,57.7,1344,Petrol,Manual,24533,23.8
+Volkswagen,Vento,1800,147.1,1585,Diesel,Manual,190640,22.8
+Honda,City,1600,110.9,1304,Diesel,Automatic,123639,22.2
+BMW,X3,2200,160.0,1229,Diesel,Manual,46362,21.3
+Nissan,Kicks,2500,186.6,1266,Diesel,Manual,25332,19.1
+Tata,Nexon,1000,89.6,1407,Diesel,Automatic,172944,23.4
+BMW,X1,1800,101.7,1663,Diesel,Manual,167921,21.0
+Hyundai,Verna,1800,158.9,1262,Petrol,Automatic,84611,18.9
+Maruti Suzuki,Ciaz,1600,144.0,1804,Diesel,Automatic,57101,22.1
+Kia,Sonet,2500,197.4,1255,Petrol,Automatic,133292,17.0
+Kia,Sonet,1500,103.3,1074,Petrol,Manual,114591,23.0
+Maruti Suzuki,Dzire,1500,89.1,1483,Diesel,Manual,43632,23.2
+Maruti Suzuki,WagonR,2000,145.0,1849,Diesel,Automatic,184863,20.2
+Tata,Nexon,1600,115.2,1407,Petrol,Automatic,188945,20.4
+Nissan,Kicks,1600,102.9,1629,Petrol,Manual,8294,21.0
+Hyundai,i20,1000,68.6,910,Petrol,Automatic,42822,23.3
+Kia,Seltos,1000,66.7,1057,Diesel,Manual,118514,26.1
+Ford,Freestyle,1500,108.5,935,Petrol,Manual,98520,23.2
+Kia,Sonet,1800,126.0,1030,Petrol,Manual,171236,20.1
+Toyota,Innova,1000,74.0,1694,Petrol,Automatic,26285,22.9
+Volkswagen,Vento,2500,219.0,1033,Diesel,Manual,156358,22.3
+Toyota,Innova,1200,110.7,1044,Petrol,Manual,181674,23.6
+Volkswagen,Taigun,1000,81.3,1428,Petrol,Manual,45364,23.5
+Honda,WR-V,1600,92.1,1187,Diesel,Automatic,73179,22.7
+Volkswagen,Vento,2500,171.6,1747,Petrol,Automatic,42170,18.7
+Maruti Suzuki,Baleno,2200,150.9,1094,Petrol,Automatic,126204,19.0
+Hyundai,i20,1500,123.1,1180,Petrol,Manual,10781,22.9
+Ford,Freestyle,1800,128.3,998,Petrol,Manual,56369,20.2
+Kia,Sonet,1800,120.2,1384,Petrol,Automatic,69640,19.2
+Nissan,Sunny,2000,142.0,1057,Petrol,Automatic,59442,20.3
+Ford,Freestyle,1600,103.5,1264,Petrol,Manual,19002,22.0
+Maruti Suzuki,Dzire,2500,197.4,1890,Petrol,Manual,47471,19.6
+Hyundai,Creta,2200,152.3,1548,Petrol,Manual,3477,19.9
+Tata,Altroz,1600,134.8,1095,Petrol,Manual,70201,22.8
+Tata,Tiago,1600,115.2,1465,Petrol,Manual,95721,21.1
+Tata,Tiago,2500,192.7,1368,Petrol,Manual,100092,18.7
+BMW,320i,1200,101.2,1644,Diesel,Manual,44020,24.0
+Tata,Altroz,1200,107.5,1807,Diesel,Manual,151712,23.6
+Nissan,Kicks,1500,107.8,1530,Petrol,Automatic,57945,19.8
+Maruti Suzuki,Dzire,2000,178.7,1248,Diesel,Automatic,93531,22.6
+Tata,Harrier,1200,86.1,1106,Petrol,Automatic,185670,21.3
+Ford,Aspire,2200,185.4,1881,Diesel,Automatic,147206,21.5
+Tata,Tiago,1800,158.7,1010,Diesel,Automatic,88989,21.0
+BMW,X3,2500,218.2,1685,Petrol,Automatic,131427,16.6
+Volkswagen,Vento,1800,132.5,1245,Petrol,Manual,78509,22.3
+Nissan,Micra,2500,209.9,942,Diesel,Manual,153528,21.0
+Nissan,Sunny,1000,57.2,1246,Diesel,Automatic,86972,24.2
+Honda,City,2000,143.0,1860,Diesel,Manual,65843,23.1
+Volkswagen,Vento,1500,129.1,1077,Diesel,Automatic,170254,24.1
+Tata,Tiago,1600,141.5,898,Petrol,Automatic,124452,20.2
+BMW,320i,1600,120.8,1529,Diesel,Manual,21075,23.4
+Honda,Civic,2200,162.2,1121,Diesel,Manual,140695,21.3
+Tata,Harrier,1600,126.4,1586,Diesel,Automatic,84351,20.8
+Maruti Suzuki,Dzire,2500,172.5,1738,Diesel,Manual,168740,19.3
+Honda,Jazz,1200,75.0,1375,Petrol,Manual,52884,21.8
+Volkswagen,Vento,1000,62.4,1144,Petrol,Automatic,132987,22.2
+Toyota,Corolla,1500,127.4,1001,Petrol,Automatic,144869,21.2
+BMW,X1,1500,117.1,1185,Petrol,Automatic,106300,20.0
+Volkswagen,Vento,1200,98.1,925,Petrol,Automatic,6322,21.8
+Ford,Ecosport,2000,141.5,1378,Diesel,Automatic,186053,19.3
+Ford,Freestyle,2200,145.8,1857,Petrol,Automatic,70719,18.9
+Kia,Seltos,2000,189.3,1232,Petrol,Manual,34162,21.6
+Honda,Jazz,1500,110.8,1196,Petrol,Automatic,188765,19.8
+Honda,City,2000,155.0,1499,Diesel,Manual,143233,20.5
+BMW,X1,1800,140.6,1520,Petrol,Automatic,139063,20.9
+Maruti Suzuki,Swift,1600,103.0,1126,Diesel,Manual,49765,22.9
+Tata,Altroz,1200,80.4,936,Petrol,Manual,156167,21.9
+Ford,Aspire,1000,87.7,1120,Petrol,Automatic,101055,21.7
+Nissan,Sunny,1800,137.8,1215,Diesel,Manual,137795,23.6
+Nissan,Micra,2500,143.8,1653,Petrol,Manual,79526,18.2
+Maruti Suzuki,Baleno,1800,104.2,1438,Diesel,Manual,167891,24.2
+Ford,Figo,1600,118.9,1392,Petrol,Manual,95591,21.2
+Nissan,Micra,1800,159.8,910,Diesel,Manual,80961,24.1
+Nissan,Sunny,2000,138.0,1172,Diesel,Automatic,144349,20.7
+Hyundai,Creta,2500,199.8,1783,Diesel,Manual,135621,18.6
+Toyota,Camry,1600,103.8,1596,Diesel,Manual,118488,24.6
+Kia,Seltos,2200,149.8,1485,Petrol,Automatic,135949,19.0
+Honda,Amaze,1500,127.0,1814,Petrol,Automatic,191894,20.5
+BMW,520d,1200,96.0,985,Diesel,Manual,145961,24.8
+Honda,WR-V,1600,140.0,1173,Petrol,Manual,127573,21.6
+Kia,Carens,2500,207.7,893,Petrol,Automatic,69124,19.5
+Kia,Sonet,2000,166.3,1205,Petrol,Manual,128745,21.7
+Maruti Suzuki,Swift,1200,108.9,1240,Diesel,Manual,58568,25.9
+Volkswagen,Polo,1000,61.9,883,Diesel,Automatic,100801,24.4
+Maruti Suzuki,Swift,1600,95.6,1422,Petrol,Automatic,52960,21.3
+Ford,Aspire,2200,194.5,1334,Petrol,Automatic,138210,19.7
+BMW,X3,1200,86.4,1269,Diesel,Manual,115718,23.7
+Nissan,Kicks,1800,158.6,1272,Diesel,Manual,138926,23.6
+Hyundai,i20,1500,101.1,1700,Diesel,Automatic,130242,22.7
+Volkswagen,Taigun,2200,169.8,1005,Diesel,Automatic,129783,19.7
+Kia,Seltos,1600,123.0,1153,Petrol,Manual,8399,22.0
+Honda,WR-V,2000,153.9,1608,Diesel,Automatic,70148,21.9
+Ford,Aspire,2200,132.5,912,Petrol,Automatic,72309,18.8
+Ford,Freestyle,2000,117.6,1314,Petrol,Automatic,12011,20.0
+Ford,Ecosport,1800,131.7,1081,Diesel,Manual,55719,21.5
+Tata,Tiago,1500,98.0,1711,Diesel,Automatic,39604,23.3
+Maruti Suzuki,Swift,1800,107.4,1042,Diesel,Automatic,174676,21.2
+Tata,Altroz,2200,206.7,1657,Petrol,Manual,195033,19.5
+Maruti Suzuki,Dzire,1800,156.8,1697,Diesel,Manual,31889,22.4
+Ford,Ecosport,1000,75.7,1168,Petrol,Automatic,173107,22.6
+Ford,Freestyle,1000,57.5,1096,Petrol,Manual,16498,22.3
+Volkswagen,Vento,1600,97.6,1622,Petrol,Automatic,176501,20.9
+BMW,520d,1500,90.1,1095,Petrol,Manual,7687,22.7
+Volkswagen,Polo,2500,235.3,1283,Petrol,Manual,161486,17.4
+Volkswagen,Taigun,2000,125.8,869,Petrol,Manual,33195,19.8
+BMW,X1,2200,168.6,1206,Diesel,Automatic,94389,18.9
+Ford,Figo,1500,83.4,1435,Diesel,Manual,93777,24.5
+BMW,X3,2200,195.4,1441,Petrol,Automatic,84310,17.5
+Maruti Suzuki,Dzire,1000,79.5,1388,Petrol,Automatic,6218,21.3
+BMW,X3,2500,160.3,929,Diesel,Automatic,88052,19.6
+Nissan,Sunny,2500,187.8,1788,Petrol,Manual,134410,18.5
+Maruti Suzuki,Dzire,2200,205.4,1877,Diesel,Manual,170069,20.9
+Maruti Suzuki,WagonR,2000,166.7,1396,Petrol,Manual,58878,19.0
+Ford,Freestyle,2200,164.0,1369,Petrol,Manual,160168,20.7
+Tata,Harrier,1200,80.9,979,Petrol,Automatic,149319,20.6
+Tata,Tiago,1600,95.5,1218,Petrol,Manual,120116,21.8
+Maruti Suzuki,Ciaz,1600,131.6,992,Diesel,Manual,49168,24.1
+Honda,Amaze,1200,112.9,1097,Diesel,Manual,37121,24.5
+Tata,Nexon,2200,160.1,1202,Diesel,Automatic,79745,21.3
+Honda,Jazz,1800,139.3,1213,Petrol,Manual,54309,21.5
+Maruti Suzuki,WagonR,2200,203.7,1383,Diesel,Automatic,79368,20.9
+Kia,Seltos,1800,127.0,1038,Diesel,Manual,13123,24.4
+Maruti Suzuki,Baleno,1800,110.6,1293,Petrol,Manual,69284,21.0
+Kia,Seltos,2000,169.6,1601,Petrol,Automatic,138943,18.6
+Maruti Suzuki,Baleno,1500,111.3,1480,Diesel,Automatic,180939,23.0
+Honda,Amaze,1800,165.1,1091,Diesel,Automatic,112507,22.1
+Maruti Suzuki,Dzire,2000,185.9,1788,Petrol,Automatic,80167,18.6
+Toyota,Yaris,1800,128.4,1048,Petrol,Automatic,143554,20.7
+Ford,Freestyle,2500,203.1,1706,Petrol,Manual,172619,17.9
+BMW,X1,1000,91.4,1345,Petrol,Automatic,92564,21.9
+Kia,Carens,2500,215.2,958,Diesel,Manual,33079,19.9
+Hyundai,i20,1800,123.3,1177,Petrol,Automatic,10370,20.4
+Nissan,Sunny,2000,115.7,971,Petrol,Automatic,53062,18.6
+BMW,X3,1200,102.1,1379,Diesel,Manual,188650,25.9
+Nissan,Kicks,1000,78.6,933,Diesel,Manual,198125,25.4
+Nissan,Sunny,2000,174.2,1740,Petrol,Automatic,2116,19.3
+BMW,X1,2000,189.9,1635,Diesel,Automatic,84578,21.0
+Ford,Aspire,1800,115.0,1077,Petrol,Automatic,24363,19.0
+Maruti Suzuki,Dzire,2500,217.3,1727,Petrol,Manual,71076,19.4
+Ford,Aspire,1500,127.3,1057,Diesel,Automatic,78908,21.6
+Toyota,Corolla,2200,141.3,854,Petrol,Manual,160418,18.8
+Honda,Jazz,2000,177.1,1512,Diesel,Automatic,172442,22.3
+Nissan,Sunny,1500,90.2,1823,Diesel,Manual,56936,24.7
+Ford,Freestyle,1000,58.5,1772,Petrol,Automatic,190469,21.3
+BMW,X1,1800,121.4,887,Diesel,Automatic,194228,20.4
+Toyota,Innova,2200,134.3,1686,Diesel,Manual,68155,21.0
+BMW,X3,1200,89.6,1818,Petrol,Manual,103098,22.9
+Kia,Sonet,2500,193.6,1215,Petrol,Automatic,25531,16.7
+Volkswagen,Polo,2000,134.0,1560,Diesel,Automatic,38775,21.1
+Tata,Tiago,2000,134.2,1394,Diesel,Automatic,51196,21.1
+Ford,Freestyle,1200,77.3,1535,Petrol,Manual,174399,22.9
+Nissan,Micra,1000,69.7,1119,Petrol,Automatic,120651,21.3
+Ford,Figo,2200,136.6,1165,Diesel,Manual,26193,22.0
+Toyota,Glanza,2500,214.4,965,Petrol,Automatic,113671,18.5
+Tata,Nexon,2500,200.5,900,Diesel,Manual,72987,21.4
+Nissan,Sunny,1000,68.4,1662,Diesel,Manual,113619,26.1
+Maruti Suzuki,Swift,2500,204.4,1502,Petrol,Automatic,38680,16.5
+Toyota,Yaris,1500,116.1,1676,Diesel,Manual,167671,24.6
+Toyota,Corolla,1600,94.3,1692,Diesel,Automatic,44477,21.5
+Volkswagen,Taigun,2500,210.0,1198,Petrol,Automatic,98030,18.4
+Tata,Nexon,1600,140.2,1890,Diesel,Automatic,125673,22.9
+BMW,520d,2000,153.1,1338,Diesel,Manual,2946,21.9
+Honda,Amaze,2500,195.0,1879,Diesel,Manual,56629,21.5
+Kia,Sonet,1600,120.8,1326,Petrol,Manual,134602,23.0
+BMW,320i,2500,194.3,1660,Diesel,Manual,12031,21.9
+Maruti Suzuki,Ciaz,2500,151.4,1226,Petrol,Automatic,42684,17.9
+BMW,X3,1000,71.9,1212,Petrol,Automatic,65907,22.5
+Kia,Sonet,1200,107.9,1096,Diesel,Manual,91472,24.1
+Ford,Freestyle,1800,130.2,1079,Petrol,Automatic,163219,21.5
+Nissan,Sunny,1600,138.4,1369,Diesel,Manual,37471,24.3
+Honda,Amaze,1500,128.9,1660,Diesel,Automatic,722,20.9
+Maruti Suzuki,WagonR,1600,129.7,922,Diesel,Manual,128903,24.2
+Volkswagen,Taigun,1200,84.2,1452,Petrol,Manual,69951,23.7
+Volkswagen,Polo,2500,143.8,1238,Diesel,Manual,124032,18.8
+BMW,X3,1200,84.2,1373,Diesel,Automatic,143309,22.5
+Volkswagen,Taigun,1500,90.3,1435,Petrol,Automatic,73543,19.6
+Nissan,Sunny,1600,88.7,1608,Diesel,Manual,29803,22.5
+Ford,Figo,2000,173.4,1805,Petrol,Manual,140780,19.3
+Kia,Seltos,2000,144.6,1129,Diesel,Automatic,73714,21.8
+Ford,Ecosport,2000,174.9,1252,Petrol,Manual,132321,20.9
+Volkswagen,Vento,1600,101.2,939,Petrol,Manual,115680,23.0
+Ford,Aspire,2500,179.2,1273,Diesel,Automatic,11552,18.4
+Hyundai,Venue,1500,102.3,1508,Petrol,Manual,192619,23.1
+Hyundai,Venue,2500,231.6,1308,Diesel,Automatic,164899,18.8
+BMW,320i,1500,91.8,1208,Petrol,Manual,98779,23.3
+Toyota,Innova,1200,88.1,889,Diesel,Manual,21752,26.1
+Nissan,Micra,2500,184.4,1730,Petrol,Manual,158753,17.5
+Kia,Carens,1800,121.3,1401,Diesel,Manual,128719,22.8
+Tata,Altroz,1600,127.6,1242,Diesel,Manual,110407,22.5
+Toyota,Yaris,2000,181.7,1869,Petrol,Automatic,71845,18.2
+Hyundai,Verna,1500,111.6,1560,Diesel,Manual,97306,24.4
+Nissan,Micra,1800,144.4,1276,Diesel,Manual,20373,22.8
+Ford,Figo,1600,148.8,1809,Diesel,Automatic,155179,21.7
+Nissan,Micra,1200,73.1,1589,Petrol,Automatic,195385,22.7
+Maruti Suzuki,WagonR,1200,76.0,1408,Diesel,Automatic,64311,22.8
+Honda,WR-V,1000,79.0,1072,Diesel,Manual,100297,25.9
+Tata,Nexon,2000,179.3,1239,Diesel,Manual,53168,22.3
+Hyundai,i10,1800,152.2,1890,Petrol,Manual,100511,20.8
+Volkswagen,Polo,1000,70.6,1231,Petrol,Automatic,130761,22.5
+Kia,Seltos,2000,168.9,959,Diesel,Manual,56796,21.9
+BMW,X3,1600,135.5,1025,Diesel,Automatic,190760,23.2
+Kia,Seltos,2200,162.9,1296,Diesel,Automatic,83486,20.4
+Volkswagen,Vento,2500,228.9,1394,Diesel,Manual,156201,21.6
+Tata,Harrier,2200,150.0,980,Diesel,Automatic,109895,20.9
+Honda,Civic,1200,77.6,1231,Diesel,Automatic,195830,22.9
+Ford,Aspire,1800,106.0,1264,Petrol,Automatic,152741,20.1
+Volkswagen,Vento,2200,191.1,1111,Diesel,Manual,22935,21.0
+Hyundai,Venue,1600,109.1,1255,Petrol,Automatic,70566,22.4
+Kia,Carens,2500,152.0,851,Petrol,Automatic,18610,16.8
+Tata,Nexon,1000,55.3,1640,Petrol,Manual,62482,23.0
+Nissan,Sunny,1800,148.8,1736,Diesel,Manual,18144,21.5
+Hyundai,Venue,2000,110.2,967,Diesel,Manual,127716,22.7
+Ford,Figo,1600,94.1,1886,Diesel,Manual,16661,23.1
+Ford,Freestyle,1600,102.5,1542,Diesel,Manual,147608,22.1
+Toyota,Camry,2500,140.9,1128,Diesel,Automatic,47617,19.3
+Toyota,Innova,1000,62.5,1405,Diesel,Manual,42414,26.5
+Nissan,Kicks,2200,202.4,1853,Diesel,Automatic,70861,20.4
+Volkswagen,Taigun,2500,150.4,939,Petrol,Automatic,167045,17.6
+Honda,WR-V,1500,136.1,1472,Diesel,Manual,146424,23.6
+Nissan,Micra,1800,149.7,1486,Petrol,Automatic,81156,21.4
+Honda,Civic,1000,76.8,938,Diesel,Automatic,65234,23.3
+Kia,Sonet,1200,90.8,1733,Petrol,Manual,99205,22.0
+Maruti Suzuki,Dzire,1600,89.0,1286,Petrol,Automatic,187167,19.8
+Ford,Figo,1000,86.9,1425,Petrol,Manual,39209,22.5
+Volkswagen,Vento,1500,118.7,1870,Diesel,Manual,113755,22.5
+Ford,Figo,1500,137.5,1472,Diesel,Automatic,116436,22.0
+Kia,Sonet,2200,194.5,854,Petrol,Automatic,109068,20.0
+Kia,Carens,1600,150.3,1310,Petrol,Automatic,102965,20.4
+BMW,520d,1000,69.8,1742,Petrol,Manual,153141,24.2
+Toyota,Innova,2200,128.6,1564,Diesel,Manual,17051,22.2
+BMW,X3,2000,158.0,1771,Diesel,Automatic,38205,19.8
+Kia,Seltos,2500,218.1,1853,Petrol,Manual,149171,17.9
+Kia,Seltos,1000,85.1,1544,Diesel,Automatic,70947,25.1
+Honda,Amaze,2000,162.6,1539,Petrol,Automatic,89497,18.9
+Kia,Carens,1000,84.1,975,Petrol,Manual,71687,24.4
+Kia,Seltos,2500,222.8,1208,Diesel,Manual,33608,20.2
+Maruti Suzuki,Dzire,1500,99.2,1481,Diesel,Manual,21625,22.5
+Kia,Sonet,1500,84.1,1128,Petrol,Manual,104957,22.9
+Hyundai,Venue,1500,102.1,1191,Diesel,Automatic,56642,22.6
+BMW,X1,1800,123.0,1368,Diesel,Automatic,138609,22.8
+Hyundai,Creta,1500,132.8,1097,Petrol,Automatic,172438,22.3
+Ford,Aspire,1500,132.8,1158,Petrol,Manual,180236,22.6
+Tata,Nexon,2200,122.0,1221,Diesel,Automatic,71698,20.7
+Nissan,Micra,1500,135.1,1698,Petrol,Automatic,189140,20.7
+BMW,X3,2500,159.4,1203,Petrol,Automatic,105594,19.1
+Honda,Amaze,2200,179.0,1225,Diesel,Automatic,123817,21.9
+Volkswagen,Taigun,1200,88.5,1307,Petrol,Automatic,199976,22.6
+Tata,Nexon,1000,90.3,1872,Petrol,Manual,115955,23.6
+Volkswagen,Taigun,1200,111.6,1243,Petrol,Manual,26321,22.5
+Tata,Harrier,1600,116.8,1821,Diesel,Automatic,11689,21.5
+Nissan,Micra,2000,137.0,1707,Diesel,Manual,184180,22.2
+Toyota,Yaris,1000,90.7,1212,Diesel,Automatic,49979,24.9
+Nissan,Micra,1500,86.5,1160,Diesel,Automatic,94993,23.3
+Tata,Altroz,1200,66.6,1759,Diesel,Automatic,76867,24.7
+Maruti Suzuki,Baleno,1000,86.1,1883,Diesel,Automatic,187151,26.5
+Maruti Suzuki,Swift,1000,77.1,1271,Petrol,Automatic,64204,22.7
+Toyota,Camry,2200,196.9,995,Diesel,Manual,184569,22.0
+Toyota,Yaris,2000,158.9,1316,Diesel,Manual,22663,22.7
+Ford,Ecosport,2000,188.9,1156,Diesel,Manual,192351,22.4
+Nissan,Micra,2000,164.7,1777,Petrol,Automatic,43610,18.4
+Hyundai,i20,1800,152.2,1240,Petrol,Automatic,82187,20.2
+Honda,Civic,1000,60.5,1348,Petrol,Automatic,5763,23.7
+Maruti Suzuki,WagonR,1200,109.3,1124,Diesel,Automatic,40993,24.3
+Hyundai,Verna,1000,89.3,1158,Diesel,Automatic,155647,24.0
+Maruti Suzuki,Baleno,1600,109.4,1040,Diesel,Manual,140340,22.6
+Tata,Nexon,1800,136.8,1309,Petrol,Manual,126941,20.1
+Volkswagen,Vento,1500,140.8,1196,Diesel,Automatic,172527,21.8
+Honda,City,1800,158.8,1738,Diesel,Manual,125938,21.2
+Nissan,Kicks,1200,94.8,1197,Petrol,Manual,15763,21.7
+Honda,WR-V,2500,229.6,1505,Diesel,Manual,125704,20.8
+Toyota,Glanza,1200,107.9,1191,Petrol,Manual,91507,23.2
+Honda,Amaze,2000,177.4,1074,Diesel,Manual,145317,21.5
+Tata,Altroz,1500,132.3,1498,Diesel,Manual,182001,25.1
+Nissan,Kicks,1500,97.7,1178,Petrol,Automatic,110066,20.9
+BMW,520d,2000,128.4,1243,Petrol,Manual,18799,19.4
+Nissan,Micra,2000,118.2,1720,Petrol,Automatic,10150,20.6
+Hyundai,i10,2200,125.8,1452,Petrol,Automatic,77741,17.7
+Tata,Nexon,1000,78.0,850,Diesel,Automatic,172915,24.8
+Toyota,Corolla,1800,118.5,1675,Diesel,Automatic,33415,22.2
+Tata,Tiago,2000,130.5,1721,Petrol,Automatic,109952,20.1
+Nissan,Kicks,1800,109.4,1103,Petrol,Automatic,115382,18.6
+BMW,520d,1600,150.1,1413,Petrol,Manual,82189,22.8
+Toyota,Corolla,1200,102.1,1155,Diesel,Manual,111892,23.1
+Volkswagen,Vento,1800,122.6,1273,Diesel,Manual,7960,23.5
+Toyota,Yaris,1500,116.0,1757,Petrol,Manual,114575,23.0
+Hyundai,Venue,2200,159.9,1479,Petrol,Automatic,51441,18.2
+Honda,WR-V,1200,102.2,1523,Petrol,Manual,144784,22.6
+Toyota,Glanza,2200,201.4,1742,Diesel,Automatic,183179,19.9
+Honda,Amaze,1000,67.1,1830,Diesel,Automatic,103744,25.5
+Tata,Tiago,2000,145.2,1034,Petrol,Automatic,14611,19.9
+Tata,Tiago,2000,162.4,1414,Petrol,Automatic,146448,18.3
+Toyota,Camry,1200,89.2,951,Petrol,Manual,56666,24.3
+Maruti Suzuki,Swift,2500,187.4,1094,Diesel,Automatic,180753,18.6
+Honda,City,1500,96.8,1125,Diesel,Automatic,55301,23.1
+Nissan,Micra,1000,73.4,1196,Petrol,Automatic,103239,21.7
+Volkswagen,Polo,1200,76.0,912,Diesel,Manual,36846,24.2
+Tata,Tiago,1600,146.7,1106,Petrol,Manual,53624,20.8
+Ford,Freestyle,2200,196.1,1412,Petrol,Automatic,106128,17.3
+Nissan,Sunny,2500,214.8,1285,Diesel,Manual,31151,19.5
+Toyota,Yaris,2200,191.5,1149,Petrol,Manual,110208,19.0
+Honda,City,1000,86.1,872,Diesel,Automatic,65113,24.7
+Honda,WR-V,1800,159.3,1183,Petrol,Automatic,94261,18.7
+BMW,X1,1200,96.7,1227,Diesel,Manual,11588,22.8
+Ford,Freestyle,2000,117.9,1585,Diesel,Manual,177042,22.4
+Volkswagen,Taigun,2200,190.2,973,Petrol,Automatic,55862,19.5
+Tata,Altroz,2200,171.8,1482,Diesel,Automatic,66779,20.4
+Hyundai,Verna,1800,161.3,1372,Petrol,Manual,156834,20.2
+Kia,Carens,1600,106.1,1522,Diesel,Automatic,160383,23.7
+Tata,Nexon,2000,130.8,1392,Diesel,Manual,180460,22.2
+BMW,X1,2200,188.8,1385,Diesel,Manual,31625,19.9
+Hyundai,i10,2200,136.9,1745,Diesel,Manual,110528,20.6
+Ford,Figo,2000,153.4,1446,Petrol,Automatic,65307,17.8
+Toyota,Camry,2500,229.6,1483,Petrol,Manual,22807,18.2
+Hyundai,Creta,2200,127.9,1580,Diesel,Automatic,13710,21.6
+Maruti Suzuki,WagonR,1600,143.2,1182,Diesel,Manual,96078,22.8
+Kia,Seltos,1600,93.6,920,Diesel,Manual,197757,24.3
+Nissan,Sunny,1000,65.2,1433,Petrol,Automatic,195170,23.6
+Kia,Seltos,1600,134.2,1613,Petrol,Manual,178932,22.6
+Hyundai,i10,2000,141.3,1333,Petrol,Manual,194282,20.4
+Volkswagen,Polo,1200,90.1,1529,Diesel,Manual,153961,23.9
+Kia,Sonet,1600,109.4,905,Diesel,Manual,18489,22.0
+Tata,Harrier,1500,127.8,1273,Diesel,Automatic,114116,21.9
+Kia,Carens,1500,110.7,1765,Diesel,Automatic,24239,22.8
+Kia,Carens,2200,190.1,924,Diesel,Manual,147906,20.6
+Kia,Carens,1200,73.2,940,Diesel,Automatic,70058,23.1
+Nissan,Kicks,2000,127.1,1091,Petrol,Manual,33816,20.6
+Hyundai,Venue,1800,156.2,1002,Diesel,Manual,16471,23.9
+Hyundai,i10,1000,80.4,1862,Petrol,Manual,91816,24.4
+Tata,Altroz,1000,94.0,1168,Diesel,Manual,20048,24.5
+Kia,Carens,2000,114.8,1804,Diesel,Automatic,106975,21.5
+Toyota,Yaris,1600,149.7,1523,Petrol,Manual,11263,21.9
+Honda,WR-V,2200,174.7,1890,Diesel,Automatic,135549,20.5
+BMW,520d,2000,132.7,1420,Petrol,Manual,34245,20.7
+Maruti Suzuki,Baleno,2200,122.9,923,Diesel,Automatic,12945,21.2
+Volkswagen,Vento,1600,119.2,1222,Diesel,Manual,85994,24.6
+Ford,Ecosport,1600,117.4,1646,Petrol,Manual,160322,21.6
+Hyundai,Venue,2000,117.4,1839,Petrol,Automatic,149576,19.5
+Tata,Nexon,2000,159.0,1794,Petrol,Manual,63497,20.6
+Hyundai,Verna,2500,225.8,1005,Diesel,Automatic,80035,20.5
+BMW,X3,2500,144.8,960,Petrol,Manual,122922,20.1
+Volkswagen,Polo,1800,148.7,1818,Diesel,Manual,19326,22.1
+Nissan,Micra,2200,147.9,1810,Petrol,Manual,144196,18.3
+Maruti Suzuki,Ciaz,2000,140.7,1081,Diesel,Automatic,85938,20.7
+BMW,X3,1200,101.4,1286,Diesel,Manual,124584,26.0
+BMW,X3,1800,148.2,1666,Petrol,Manual,75465,21.9
+Maruti Suzuki,Dzire,1500,122.0,1542,Petrol,Automatic,102581,20.6
+Tata,Harrier,1500,131.8,1473,Petrol,Manual,41540,22.4
+Hyundai,i10,1000,61.1,1535,Petrol,Automatic,18000,21.8
+Hyundai,i20,1600,89.8,919,Diesel,Manual,111118,24.9
+Nissan,Kicks,2200,174.8,1270,Petrol,Automatic,172500,19.6
+Tata,Nexon,2000,150.5,1212,Diesel,Manual,190777,23.9
+Volkswagen,Vento,2500,199.5,1090,Diesel,Automatic,113084,20.1
+Toyota,Innova,2200,128.3,1858,Petrol,Automatic,66360,17.1
+Toyota,Camry,2500,214.2,1726,Petrol,Manual,121716,20.1
+Tata,Tiago,2500,190.6,1337,Petrol,Manual,119393,18.0
+Ford,Ecosport,1600,144.7,1584,Petrol,Manual,68517,22.2
+Tata,Nexon,2500,217.8,960,Petrol,Manual,78005,20.1
+Hyundai,i20,2500,175.0,1214,Petrol,Automatic,18596,16.7
+Ford,Ecosport,2000,122.2,1074,Petrol,Manual,104220,19.3
+BMW,520d,1500,100.8,1147,Petrol,Manual,54626,23.4
+Maruti Suzuki,Dzire,1200,92.4,1606,Petrol,Automatic,3988,21.7
+Honda,Amaze,2000,135.4,1278,Petrol,Automatic,64012,20.0
+Ford,Freestyle,2500,216.5,1419,Petrol,Automatic,161182,18.0
+Ford,Figo,1000,71.0,1596,Petrol,Automatic,20523,23.2
+Maruti Suzuki,WagonR,2200,175.6,993,Diesel,Automatic,188556,20.0
+Kia,Carens,2500,187.6,1637,Petrol,Automatic,130460,18.2
+Maruti Suzuki,Dzire,1600,98.7,1232,Petrol,Automatic,194708,21.1
+Maruti Suzuki,WagonR,2200,203.7,1600,Petrol,Automatic,168764,17.7
+Volkswagen,Vento,1800,113.0,1646,Petrol,Automatic,163739,19.0
+Maruti Suzuki,WagonR,1800,151.5,950,Diesel,Manual,85207,21.6
+Volkswagen,Taigun,2000,149.6,1632,Diesel,Manual,165747,21.5
+Honda,WR-V,1800,167.5,1775,Petrol,Manual,186704,21.9
+Toyota,Corolla,2000,152.7,1768,Diesel,Manual,157521,23.2
+Hyundai,Venue,1600,133.3,1028,Petrol,Manual,21904,20.2
+Maruti Suzuki,Swift,1200,97.1,1895,Petrol,Manual,42363,22.0
+Kia,Seltos,2500,183.5,1432,Diesel,Manual,26802,20.0
+Ford,Figo,1500,134.7,917,Petrol,Manual,196607,22.6
+Maruti Suzuki,Swift,1800,126.8,1346,Diesel,Automatic,77705,21.0
+Tata,Tiago,1500,117.3,936,Diesel,Manual,31067,22.4
+Ford,Freestyle,1500,93.0,994,Petrol,Automatic,19676,19.7
+Tata,Nexon,1000,93.6,1390,Petrol,Automatic,193894,21.0
+Nissan,Kicks,1500,142.1,1412,Diesel,Automatic,22319,21.2
+Volkswagen,Vento,1200,66.7,1359,Petrol,Automatic,39343,21.7
+Tata,Harrier,2500,172.2,1730,Diesel,Manual,56034,18.8
+Maruti Suzuki,Baleno,2000,132.7,1139,Diesel,Manual,172300,23.0
+Kia,Seltos,1000,74.5,1246,Petrol,Automatic,56750,22.9
+Hyundai,i10,1600,97.8,1407,Petrol,Manual,20910,22.2
+Tata,Tiago,1200,98.2,1898,Diesel,Manual,153993,24.7
+Volkswagen,Vento,2000,164.4,1728,Diesel,Automatic,35707,21.5
+Nissan,Micra,1600,101.9,1281,Diesel,Manual,180111,22.7
+BMW,X3,1000,94.9,1878,Diesel,Automatic,192088,22.6
+Honda,Civic,2200,128.1,1568,Petrol,Manual,92168,21.0
+Honda,City,1000,59.5,1741,Petrol,Automatic,111768,22.8
+Hyundai,i20,1600,89.3,1208,Petrol,Manual,78419,22.9
+Nissan,Sunny,1500,112.2,1833,Petrol,Manual,132326,20.4
+Kia,Carens,1200,69.0,1385,Diesel,Manual,13157,26.3
+Kia,Sonet,2500,205.3,1165,Petrol,Manual,155134,19.2
+Volkswagen,Vento,1000,61.9,1346,Diesel,Automatic,1575,23.0
+BMW,X1,2500,187.0,1814,Diesel,Manual,18913,20.4
+Maruti Suzuki,Swift,1500,111.1,1624,Diesel,Manual,87068,23.1
+Volkswagen,Vento,2000,174.3,1350,Diesel,Automatic,95366,21.0
+Ford,Ecosport,1200,102.9,1283,Petrol,Automatic,77914,22.0
+Volkswagen,Taigun,2200,203.4,1573,Diesel,Manual,193475,22.1
+Ford,Figo,2200,174.4,1752,Petrol,Automatic,132929,17.8
+Toyota,Yaris,2200,138.5,909,Diesel,Automatic,25135,21.2
+Ford,Freestyle,1200,90.1,1406,Diesel,Manual,113101,23.8
+Tata,Harrier,1200,98.1,1814,Petrol,Automatic,86124,20.8
+Volkswagen,Vento,2500,235.8,1661,Petrol,Manual,20837,17.8
+Kia,Seltos,1500,99.1,906,Petrol,Manual,86240,23.1
+Volkswagen,Polo,1000,60.0,1024,Diesel,Automatic,165370,24.4
+Ford,Figo,1500,117.9,1459,Diesel,Manual,21802,23.9
+Nissan,Sunny,1800,164.8,1233,Diesel,Automatic,110904,22.6
+Kia,Carens,2000,174.3,1370,Diesel,Manual,118570,22.3
+Tata,Nexon,2500,230.9,1893,Diesel,Automatic,52232,18.8
+Hyundai,Creta,1800,105.0,1799,Petrol,Automatic,156165,20.6
+Nissan,Kicks,1500,123.4,1394,Petrol,Manual,96688,20.9
+Toyota,Corolla,2200,204.8,1755,Petrol,Manual,134475,19.6
+Maruti Suzuki,Dzire,1500,133.4,1420,Petrol,Automatic,12426,19.3
+Volkswagen,Vento,2000,185.8,1821,Diesel,Automatic,35297,21.4
+Ford,Aspire,1800,142.2,1221,Petrol,Manual,74279,22.3
+Maruti Suzuki,Ciaz,1600,93.0,1452,Petrol,Manual,110898,22.0
+Kia,Carens,1800,129.7,1501,Diesel,Automatic,126955,20.2
+Nissan,Micra,1500,129.5,896,Petrol,Automatic,194581,19.8
+Tata,Altroz,1200,105.0,1742,Diesel,Manual,108683,25.9
+Nissan,Sunny,1500,135.7,1439,Petrol,Manual,63054,22.2
+Honda,Civic,2000,132.2,1417,Diesel,Automatic,52552,21.3
+Kia,Seltos,1200,88.4,1567,Diesel,Manual,62130,25.1
+Kia,Carens,1000,62.3,1226,Petrol,Automatic,168866,22.5
+BMW,X1,1000,72.7,1778,Petrol,Manual,151545,23.5
+Maruti Suzuki,Ciaz,2000,176.8,1060,Petrol,Automatic,52972,19.5
+Toyota,Glanza,1600,113.1,880,Diesel,Manual,154089,24.5
+Tata,Altroz,2000,133.3,1066,Petrol,Automatic,91913,18.4
+Toyota,Camry,2200,190.0,1003,Petrol,Automatic,145649,18.3
+Maruti Suzuki,Swift,2500,212.6,1882,Diesel,Manual,137785,20.4
+Toyota,Corolla,1800,105.9,1306,Diesel,Automatic,100492,23.5
+Honda,Amaze,1200,89.6,1213,Petrol,Automatic,76589,20.7
+Volkswagen,Taigun,1600,113.2,1363,Diesel,Automatic,139561,23.5
+Toyota,Innova,1200,78.6,1600,Diesel,Manual,110360,23.8
+Kia,Seltos,1800,109.5,989,Diesel,Manual,182272,23.1
+Kia,Carens,2200,201.7,1030,Diesel,Manual,26160,22.9
+Maruti Suzuki,Swift,1800,121.0,1064,Petrol,Automatic,39236,18.4
+Hyundai,Venue,1800,142.5,1890,Petrol,Automatic,93105,18.4
+Tata,Harrier,2200,190.6,1614,Diesel,Automatic,133473,21.7
+Volkswagen,Taigun,1200,79.5,1368,Diesel,Manual,128320,24.2
+Volkswagen,Taigun,1800,115.3,1199,Petrol,Manual,14331,19.5
+BMW,320i,1500,120.3,1265,Petrol,Automatic,4415,20.6
+Nissan,Sunny,1500,115.5,1480,Petrol,Manual,69741,21.7
+BMW,X1,2000,187.5,1132,Petrol,Automatic,107964,18.4
+Honda,City,1000,84.1,1880,Diesel,Manual,129849,25.9
+Honda,Civic,2000,144.1,1834,Petrol,Automatic,16186,19.0
+BMW,520d,1800,168.4,875,Petrol,Manual,63720,22.5
+Maruti Suzuki,Swift,1500,98.0,1092,Diesel,Manual,21650,23.7
+Ford,Aspire,1500,82.6,851,Petrol,Automatic,70873,20.2
+Maruti Suzuki,Ciaz,2500,237.1,860,Petrol,Automatic,169064,16.8
+BMW,520d,1200,84.1,1395,Diesel,Automatic,166019,24.4
+Tata,Harrier,1500,97.7,1421,Diesel,Automatic,30633,23.4
+Toyota,Yaris,1000,78.7,1095,Diesel,Automatic,19574,25.1
+Honda,Amaze,2500,201.3,1049,Petrol,Automatic,94427,18.8
+Toyota,Corolla,2200,172.0,1401,Diesel,Manual,153662,21.2
+Hyundai,Creta,1600,103.8,911,Petrol,Automatic,45727,22.5
+Nissan,Micra,1500,122.5,1369,Petrol,Automatic,5983,19.1
+Hyundai,Creta,2000,188.0,1513,Diesel,Manual,48932,22.1
+Kia,Seltos,1600,109.9,957,Diesel,Manual,154316,24.3
+BMW,520d,1000,84.6,986,Petrol,Manual,70835,24.2
+Kia,Carens,1600,121.4,1623,Petrol,Manual,194475,21.1
+Ford,Figo,2200,156.5,1184,Petrol,Automatic,169150,18.2
+Volkswagen,Vento,1800,103.6,932,Petrol,Manual,191587,22.0
+BMW,520d,2200,143.6,1526,Petrol,Automatic,113958,17.6
+Maruti Suzuki,Swift,1000,63.2,1568,Diesel,Automatic,177689,25.2
+Nissan,Micra,2500,230.1,1800,Diesel,Manual,150381,21.9
+Volkswagen,Taigun,1800,150.2,1288,Petrol,Manual,29331,22.2
+Honda,City,1000,65.0,1142,Diesel,Automatic,159679,23.5
+Nissan,Kicks,1800,162.3,1564,Petrol,Automatic,137875,19.7
+Honda,City,1600,115.5,1037,Petrol,Automatic,80229,21.5
+Toyota,Yaris,2000,129.0,1519,Diesel,Automatic,132984,20.8
+Volkswagen,Polo,1800,161.6,1569,Petrol,Manual,158998,20.8
+Maruti Suzuki,Baleno,1000,68.2,1624,Petrol,Automatic,124551,22.1
+Volkswagen,Polo,1500,100.4,987,Petrol,Automatic,23468,21.9
+BMW,520d,2500,235.0,1282,Petrol,Manual,107354,18.8
+Tata,Nexon,2500,168.5,1652,Diesel,Automatic,118730,19.6
+Tata,Nexon,2500,152.7,983,Diesel,Manual,24614,20.8
+BMW,320i,1200,98.9,966,Diesel,Manual,53064,25.6
+Nissan,Sunny,1200,93.5,1709,Petrol,Manual,66409,24.1
+Hyundai,Creta,2200,185.1,1657,Petrol,Manual,94707,18.9
+Maruti Suzuki,Ciaz,2500,217.2,1503,Diesel,Manual,121926,20.6
+Volkswagen,Polo,1000,69.6,1652,Petrol,Manual,140218,22.9
+Tata,Altroz,1200,82.2,1543,Diesel,Manual,149142,23.4
+Ford,Aspire,2000,138.2,1609,Petrol,Manual,5873,19.1
+Toyota,Camry,1200,82.9,892,Petrol,Manual,31160,22.6
+Tata,Tiago,1000,62.6,1419,Diesel,Automatic,42626,25.1
+Volkswagen,Polo,2500,222.3,1344,Diesel,Manual,73951,20.8
+Nissan,Kicks,2500,228.3,1757,Petrol,Automatic,36819,15.9
+Hyundai,i20,2200,207.7,1672,Diesel,Automatic,159792,21.5
+Nissan,Micra,2500,217.8,1681,Diesel,Manual,79492,19.5
+Honda,WR-V,1600,117.5,1502,Petrol,Manual,172776,20.8
+Ford,Aspire,2500,151.7,1283,Diesel,Automatic,44482,19.5
+Nissan,Kicks,1800,158.5,1474,Diesel,Manual,151307,23.7
+Kia,Seltos,1800,114.8,1498,Diesel,Manual,99531,23.6
+BMW,320i,1200,104.5,1715,Diesel,Manual,112373,24.2
+Tata,Altroz,2000,181.0,1780,Diesel,Automatic,193417,18.7
+Hyundai,i20,2500,192.7,1388,Petrol,Automatic,71791,18.3
+Ford,Aspire,1000,60.8,1368,Diesel,Manual,173372,27.3
+BMW,X3,1600,136.4,947,Diesel,Manual,87806,24.2
+Kia,Sonet,2500,198.6,1294,Diesel,Manual,4512,20.7
+Nissan,Kicks,1600,92.3,1197,Petrol,Manual,186839,22.0
+Ford,Freestyle,1000,85.6,1417,Diesel,Manual,6596,26.2
+Volkswagen,Polo,1500,117.8,1604,Diesel,Automatic,161973,21.0
+Tata,Tiago,1600,128.2,1516,Petrol,Automatic,131177,19.5
+Hyundai,Venue,2500,163.0,1425,Petrol,Automatic,12318,17.1
+Volkswagen,Vento,2000,160.4,1403,Diesel,Manual,10502,22.7
+BMW,X3,2500,177.9,1894,Diesel,Automatic,74069,18.3
+Honda,Amaze,1000,66.0,1840,Petrol,Manual,165953,22.3
+Hyundai,Venue,1600,95.8,1204,Petrol,Automatic,77441,20.6
+Nissan,Micra,2500,195.9,1683,Diesel,Automatic,198326,18.6
+Toyota,Innova,2000,162.9,989,Diesel,Manual,106039,21.1
+Kia,Carens,2500,172.7,1454,Diesel,Automatic,138345,19.1
+Honda,City,1800,137.0,1329,Diesel,Manual,177214,22.1
+Kia,Sonet,1000,60.3,1059,Petrol,Automatic,192016,22.2
+Honda,City,2000,126.3,1446,Petrol,Automatic,41237,19.0
+Hyundai,i10,1000,73.7,889,Diesel,Manual,31272,25.5
+Ford,Freestyle,2000,122.9,1450,Petrol,Manual,110001,21.1
+BMW,320i,1600,122.0,1390,Diesel,Automatic,18867,23.1
+Nissan,Kicks,2200,182.2,1268,Petrol,Automatic,78094,18.3
+Kia,Carens,2000,162.7,928,Petrol,Manual,57638,19.1
+Maruti Suzuki,WagonR,1200,111.1,1341,Petrol,Manual,67230,23.1
+Toyota,Corolla,1500,101.8,1044,Petrol,Automatic,161213,21.3
+Maruti Suzuki,Ciaz,2500,214.6,1426,Diesel,Automatic,17411,18.7
+Hyundai,i20,1200,106.7,1548,Petrol,Manual,91539,23.4
+Nissan,Kicks,1500,118.9,981,Diesel,Automatic,985,21.9
+Honda,Amaze,2500,139.8,1784,Petrol,Automatic,24033,18.7
+Kia,Seltos,1800,133.2,1356,Petrol,Automatic,49568,20.3
+Maruti Suzuki,WagonR,2500,145.6,1171,Petrol,Automatic,1468,19.2
+Kia,Seltos,2500,163.9,1138,Diesel,Manual,6847,21.2
+Kia,Carens,2200,207.5,1353,Diesel,Automatic,66010,20.9
+Tata,Nexon,1800,123.9,917,Petrol,Manual,75218,21.4
+Hyundai,Verna,1600,124.2,1384,Diesel,Automatic,75188,23.1
+Nissan,Kicks,1200,79.2,1868,Petrol,Automatic,90160,22.4
+Maruti Suzuki,Baleno,1200,90.0,1206,Petrol,Automatic,36266,20.8
+Ford,Aspire,2500,190.6,1335,Petrol,Manual,76825,19.2
+BMW,320i,1500,138.1,1862,Diesel,Manual,84390,23.6
+Volkswagen,Polo,1800,114.8,947,Petrol,Manual,50007,22.1
+Tata,Harrier,2500,215.8,1080,Petrol,Manual,14933,18.1
+Tata,Tiago,1800,170.1,1805,Diesel,Manual,89564,22.8
+Maruti Suzuki,Baleno,2000,160.8,1414,Diesel,Automatic,7805,21.4
+Maruti Suzuki,Baleno,2000,157.0,1374,Diesel,Automatic,78442,20.2
+BMW,X1,2500,171.0,1763,Petrol,Manual,138180,17.3
+Ford,Figo,1800,152.0,1867,Petrol,Manual,103031,20.4
+BMW,X1,1000,94.7,1749,Petrol,Manual,79880,22.1
+Ford,Aspire,2000,116.7,1547,Diesel,Automatic,140576,21.5
+Maruti Suzuki,Ciaz,2000,132.6,1411,Diesel,Automatic,34215,19.9
+Kia,Carens,2200,191.6,1413,Petrol,Automatic,5123,18.7
+Kia,Seltos,1500,82.8,1427,Diesel,Manual,41896,25.2
+Hyundai,Creta,1200,99.7,1095,Petrol,Manual,186685,23.3
+Honda,Jazz,2200,145.2,1576,Petrol,Automatic,50407,18.1
+Honda,Amaze,1800,127.6,1369,Petrol,Manual,169044,20.7
+Toyota,Corolla,1000,76.1,890,Diesel,Automatic,19328,23.4
+BMW,320i,1500,86.7,1395,Petrol,Manual,130258,22.5
+Hyundai,Verna,1600,150.4,1436,Diesel,Automatic,196018,23.8
+Ford,Ecosport,2000,124.5,907,Petrol,Automatic,127051,18.1
+Ford,Freestyle,1600,133.5,1697,Diesel,Manual,83199,25.0
+Toyota,Yaris,1800,99.4,876,Diesel,Manual,110255,24.4
+BMW,X1,1800,128.0,1855,Petrol,Manual,10401,20.5
+Volkswagen,Taigun,1800,123.4,1701,Petrol,Automatic,18240,18.7
+Kia,Seltos,1600,115.3,1185,Diesel,Manual,154044,22.4
+Ford,Ecosport,2000,171.6,987,Diesel,Manual,115076,23.4
+Volkswagen,Vento,2200,150.5,1230,Diesel,Automatic,103698,21.6
+Tata,Harrier,2000,144.8,1317,Diesel,Manual,145630,22.5
+Nissan,Micra,1200,103.6,1432,Petrol,Automatic,9129,20.0
+Kia,Carens,1200,70.1,1558,Diesel,Automatic,62432,25.0
+Nissan,Micra,1800,101.4,1381,Diesel,Automatic,118446,20.1
+Nissan,Sunny,1600,124.5,1339,Diesel,Manual,70078,22.2
+BMW,X3,2200,165.3,1127,Petrol,Automatic,73952,18.9
+Tata,Tiago,1800,153.4,1204,Petrol,Manual,19400,22.2
+Tata,Harrier,1600,110.5,1602,Diesel,Automatic,47715,22.4
+Ford,Freestyle,1500,97.4,1843,Petrol,Manual,2527,21.1
+Volkswagen,Taigun,1600,144.6,1537,Diesel,Manual,113694,23.2
+Hyundai,Creta,1600,114.6,1743,Petrol,Automatic,3840,19.7
+Tata,Nexon,2200,170.6,1598,Diesel,Automatic,28365,19.5
+Honda,Civic,2000,146.5,966,Diesel,Manual,40236,21.3
+Hyundai,i10,2500,185.7,1814,Petrol,Manual,5975,17.7
+Volkswagen,Polo,1200,93.3,860,Diesel,Automatic,153556,23.2
+Honda,City,2500,223.8,1693,Petrol,Automatic,182343,17.7
+Ford,Figo,1200,109.1,1462,Petrol,Manual,152501,23.6
+Maruti Suzuki,WagonR,1000,56.0,1295,Petrol,Automatic,174084,20.9
+Hyundai,i10,1500,85.6,1514,Petrol,Manual,149772,22.6
+Tata,Harrier,2000,115.7,1073,Petrol,Manual,120724,21.7
+Nissan,Sunny,1800,151.4,1542,Petrol,Automatic,95128,21.6
+Toyota,Yaris,2000,135.8,1243,Petrol,Automatic,45434,19.4
+Honda,Civic,2500,179.4,1547,Diesel,Automatic,45106,19.9
+Maruti Suzuki,Baleno,1200,101.1,889,Petrol,Manual,37976,23.3
+Tata,Harrier,1600,110.2,1897,Petrol,Manual,191858,21.6
+Tata,Harrier,1800,168.5,931,Petrol,Automatic,68404,20.4
+BMW,X3,1800,125.0,1688,Petrol,Automatic,61498,20.0
+Tata,Nexon,2000,159.0,1197,Petrol,Manual,189032,20.3
+BMW,X1,2500,159.4,1728,Diesel,Manual,23396,19.8
+Maruti Suzuki,Baleno,1500,114.2,995,Petrol,Automatic,108084,20.9
+Toyota,Innova,2500,203.8,987,Petrol,Automatic,172501,17.1
+Maruti Suzuki,WagonR,1200,78.5,1063,Diesel,Automatic,148530,23.3
+Honda,Amaze,1200,106.9,1240,Petrol,Automatic,43585,21.6
+Volkswagen,Vento,1800,130.9,1209,Diesel,Manual,157016,21.4
+Volkswagen,Vento,1500,95.7,1411,Petrol,Manual,83982,22.0
+Volkswagen,Taigun,2200,121.8,1129,Petrol,Manual,107148,18.8
+Volkswagen,Taigun,1500,101.2,1421,Petrol,Automatic,67870,22.2
+Ford,Ecosport,1500,123.7,1250,Petrol,Manual,96944,22.2
+Toyota,Yaris,2000,119.1,1209,Petrol,Automatic,148962,20.5
+Kia,Seltos,2500,150.7,1588,Diesel,Automatic,125520,18.4
+Maruti Suzuki,Dzire,1800,119.8,1249,Petrol,Automatic,166110,19.9
+Honda,Amaze,1600,122.0,1409,Diesel,Manual,130487,24.2
+Maruti Suzuki,Baleno,1200,82.8,1166,Diesel,Manual,9305,24.4
+Toyota,Innova,1800,162.3,961,Diesel,Manual,157824,21.0
+Honda,WR-V,1600,118.5,1185,Diesel,Manual,67828,23.1
+Volkswagen,Vento,2200,159.7,1779,Diesel,Automatic,181205,20.8
+Ford,Ecosport,1600,104.3,1557,Diesel,Manual,14969,22.0
+Toyota,Innova,1600,96.6,1871,Petrol,Automatic,180628,20.9
+BMW,X3,2000,168.3,1215,Petrol,Automatic,153987,17.5
+Toyota,Camry,2000,177.2,1046,Petrol,Manual,15202,19.4
+Volkswagen,Polo,2200,183.4,1833,Diesel,Manual,154406,21.2
+Hyundai,i10,2200,159.0,1561,Petrol,Manual,64443,19.2
+Nissan,Micra,2500,174.2,1778,Diesel,Automatic,141754,17.9
+Maruti Suzuki,Swift,2500,192.9,935,Diesel,Automatic,81991,18.5
+Kia,Carens,2500,158.6,1229,Diesel,Manual,117459,18.4
+Volkswagen,Vento,1200,108.0,882,Diesel,Automatic,178605,25.4
+BMW,320i,2000,146.8,1028,Petrol,Manual,155117,19.9
+Kia,Seltos,1500,100.9,1293,Petrol,Automatic,141743,20.3
+Maruti Suzuki,WagonR,2500,209.7,1612,Diesel,Manual,196687,21.9
+Maruti Suzuki,Swift,2500,222.9,1301,Petrol,Manual,27751,18.9
+Honda,WR-V,2200,125.7,1104,Diesel,Automatic,90038,21.0
+Nissan,Micra,1000,70.6,1627,Diesel,Manual,148821,23.7
+Kia,Seltos,1200,84.3,1850,Diesel,Automatic,17690,22.1
+Hyundai,i10,1000,88.7,1418,Diesel,Manual,82767,24.5
+Tata,Tiago,2500,167.6,1851,Petrol,Manual,141179,18.1
+Nissan,Kicks,1000,56.4,1136,Petrol,Automatic,167158,21.6
+Honda,Civic,1600,100.9,947,Diesel,Automatic,167640,23.4
+Toyota,Corolla,1600,132.3,965,Diesel,Automatic,115305,22.6
+Tata,Harrier,2000,157.5,1590,Diesel,Manual,48729,20.3
+Maruti Suzuki,Baleno,2000,183.2,1053,Petrol,Manual,131784,20.4
+Hyundai,Verna,1500,114.3,1745,Diesel,Manual,47502,22.7
+Toyota,Innova,2200,165.0,1768,Diesel,Automatic,73574,19.7
+Honda,Amaze,1200,83.4,892,Diesel,Automatic,54858,24.4
+Toyota,Camry,2500,149.5,1358,Diesel,Manual,72234,19.3
+BMW,X1,1600,107.3,1030,Diesel,Manual,82515,22.8
+Volkswagen,Polo,1200,105.7,967,Petrol,Manual,188371,22.4
+Kia,Carens,1000,78.1,1743,Diesel,Automatic,80132,25.6
+BMW,X1,1000,64.6,1471,Petrol,Manual,50363,24.7
+Toyota,Corolla,1200,109.2,1499,Petrol,Manual,196916,21.7
+Hyundai,i20,2500,162.8,1232,Diesel,Manual,30926,21.4
+Hyundai,Verna,1500,116.7,1064,Diesel,Manual,40191,23.6
+BMW,520d,1200,110.1,1342,Petrol,Automatic,28642,20.8
+Ford,Ecosport,2500,143.3,1138,Petrol,Manual,103069,17.6
+Honda,WR-V,2000,115.1,1290,Diesel,Automatic,88729,21.2
+Ford,Freestyle,2500,180.7,1010,Petrol,Manual,38779,17.8
+Volkswagen,Vento,1600,117.6,1748,Diesel,Automatic,117147,20.7
+Maruti Suzuki,Ciaz,2000,160.8,1235,Petrol,Manual,98188,20.8
+Ford,Aspire,1500,84.8,1553,Petrol,Manual,11797,21.7
+Honda,City,1200,106.0,979,Petrol,Automatic,24418,23.2
+Volkswagen,Taigun,1600,138.6,853,Diesel,Automatic,122627,22.8
+Nissan,Kicks,1800,130.9,1733,Diesel,Automatic,26901,21.9
+BMW,520d,2200,186.2,1320,Petrol,Automatic,86424,18.8
+Honda,City,1000,64.7,1367,Diesel,Automatic,95513,22.6
+Kia,Carens,2000,125.8,1348,Diesel,Automatic,144697,21.0
+Volkswagen,Vento,1600,143.8,976,Petrol,Automatic,82297,20.6
+Toyota,Corolla,1600,131.8,1053,Diesel,Automatic,183877,22.9
+Ford,Aspire,1800,156.3,1398,Diesel,Automatic,65348,20.6
+Nissan,Sunny,1200,101.9,1885,Petrol,Manual,97473,22.2
+Toyota,Glanza,1600,147.4,1721,Petrol,Automatic,184225,20.9
+Kia,Sonet,1800,157.5,1146,Diesel,Manual,124631,22.4
+Hyundai,Verna,1600,144.1,1502,Diesel,Manual,197803,22.3
+BMW,320i,1000,56.7,1582,Petrol,Automatic,139124,22.5
+Ford,Figo,1600,89.1,1399,Diesel,Manual,17730,22.2
+Hyundai,i10,2500,210.6,1396,Petrol,Manual,25350,19.8
+Kia,Carens,2500,221.1,1755,Petrol,Automatic,192542,18.6
+Hyundai,Verna,2500,151.1,1186,Petrol,Automatic,197232,17.1
+Nissan,Kicks,1000,72.9,1233,Diesel,Manual,17850,24.6
+Maruti Suzuki,Baleno,2000,155.4,1724,Petrol,Automatic,86987,20.5
+Honda,Amaze,1800,127.2,1328,Petrol,Automatic,55736,18.7
+Honda,Civic,1800,134.6,1602,Diesel,Automatic,152979,23.5
+Kia,Carens,2500,200.5,1071,Petrol,Manual,199188,19.8
+Ford,Aspire,1200,107.8,860,Diesel,Manual,94502,24.6
+Maruti Suzuki,Ciaz,2500,146.1,1589,Petrol,Manual,198780,18.7
+Ford,Aspire,1200,95.4,1803,Diesel,Manual,142093,24.0
+BMW,520d,2200,197.8,1678,Petrol,Automatic,114883,19.3
+Toyota,Yaris,1800,144.5,1169,Diesel,Automatic,12666,21.6
+Honda,WR-V,2200,197.2,1373,Petrol,Automatic,32521,17.7
+Honda,Jazz,1800,113.0,1417,Diesel,Automatic,15815,22.7
+Kia,Carens,1500,119.9,1021,Diesel,Manual,139337,24.3
+Maruti Suzuki,Dzire,2500,202.0,853,Petrol,Manual,20935,17.5
+BMW,320i,1200,66.1,1028,Petrol,Manual,81325,22.3
+Toyota,Corolla,1600,149.2,1010,Diesel,Automatic,82162,23.5
+Maruti Suzuki,WagonR,1000,65.9,1397,Petrol,Automatic,59646,21.3
+Hyundai,i20,1000,71.4,1679,Petrol,Manual,22291,22.4
+Maruti Suzuki,WagonR,1200,68.6,1475,Diesel,Automatic,95606,23.9
+Honda,Amaze,2200,132.9,1312,Petrol,Automatic,157797,19.0
+Toyota,Corolla,1000,76.3,1647,Diesel,Automatic,95570,23.6
+Toyota,Camry,2000,169.5,1263,Petrol,Automatic,89654,18.4
+Maruti Suzuki,Baleno,1600,117.6,1207,Petrol,Manual,33509,22.2
+Ford,Aspire,1500,126.3,1519,Diesel,Automatic,40786,24.3
+Toyota,Yaris,1500,106.3,1454,Diesel,Automatic,14249,23.8
+Kia,Sonet,1200,86.8,1850,Diesel,Manual,33753,23.0
+BMW,X3,1500,118.8,988,Diesel,Automatic,132779,21.5
+Toyota,Camry,1500,112.1,1229,Diesel,Automatic,132890,22.0
+Maruti Suzuki,Dzire,2200,153.9,1371,Petrol,Manual,126796,19.1
+Honda,City,2200,162.3,1348,Diesel,Automatic,52529,19.5
+Maruti Suzuki,Ciaz,2000,177.5,1093,Petrol,Automatic,144406,19.5
+Volkswagen,Polo,1600,89.5,1251,Petrol,Manual,30925,20.9
+Kia,Carens,1200,108.6,850,Diesel,Automatic,23454,26.0
+BMW,X3,2200,189.2,1182,Diesel,Automatic,142359,19.5
+Tata,Tiago,1800,133.4,1792,Petrol,Manual,81379,19.4
+Ford,Aspire,1200,97.4,1551,Petrol,Automatic,116702,22.8
+Hyundai,Venue,1600,145.9,891,Diesel,Automatic,171936,22.3
+Honda,Civic,1800,140.3,1162,Petrol,Automatic,148133,19.7
+Hyundai,Creta,1000,73.6,1141,Diesel,Automatic,164132,22.2
+Honda,Civic,1800,137.0,1472,Petrol,Manual,25245,20.0
+Honda,Jazz,1500,119.1,1193,Diesel,Manual,113033,24.1
+Maruti Suzuki,Ciaz,2000,167.8,1036,Diesel,Automatic,81150,21.4
+Maruti Suzuki,Ciaz,2000,172.1,1379,Diesel,Manual,137862,22.6
+Tata,Altroz,1800,106.5,1764,Petrol,Manual,154102,21.8
+Ford,Ecosport,2200,122.5,1169,Petrol,Automatic,31010,18.7
+BMW,X3,2500,222.7,1227,Petrol,Automatic,42696,18.2
+BMW,X3,1800,125.5,1867,Petrol,Manual,137983,19.9
+Maruti Suzuki,Dzire,1600,125.2,1771,Petrol,Automatic,152024,21.4
+Volkswagen,Polo,2000,187.5,982,Diesel,Automatic,164646,20.9
+Maruti Suzuki,Dzire,1200,82.1,1167,Petrol,Automatic,85792,21.2
+Nissan,Sunny,1500,123.9,1413,Diesel,Manual,20499,24.1
+Toyota,Innova,1000,77.9,1357,Petrol,Automatic,195679,23.9
+Toyota,Yaris,2000,132.0,1642,Petrol,Automatic,49287,18.7
+Nissan,Sunny,2000,140.8,1804,Petrol,Automatic,65704,20.5
+Toyota,Camry,1800,121.4,1249,Diesel,Manual,114440,23.2
+Maruti Suzuki,Dzire,2200,167.7,1698,Petrol,Manual,58896,20.5
+Tata,Nexon,1000,68.4,1165,Diesel,Manual,104705,24.7
+Maruti Suzuki,Swift,1800,114.5,1168,Diesel,Automatic,160036,22.6
+Nissan,Kicks,2200,173.2,1137,Diesel,Manual,53051,21.3
+Honda,Amaze,1600,88.9,1226,Petrol,Automatic,122674,22.2
+Maruti Suzuki,Baleno,1200,103.3,1142,Petrol,Automatic,110359,20.7
+Ford,Freestyle,2200,133.2,1536,Petrol,Automatic,159906,19.3
+Toyota,Camry,2000,183.4,1480,Diesel,Automatic,75868,21.3
+Maruti Suzuki,Swift,1000,86.0,1819,Diesel,Automatic,53955,23.1
+Hyundai,Verna,2500,234.1,1814,Diesel,Manual,186814,19.9
+BMW,520d,2200,124.8,936,Diesel,Manual,23222,22.0
+Toyota,Glanza,2500,141.9,1044,Diesel,Manual,86969,21.9
+Ford,Aspire,2200,174.7,1659,Petrol,Manual,61503,20.0
+Nissan,Kicks,2000,150.9,1119,Diesel,Automatic,70445,20.0
+Maruti Suzuki,Baleno,1200,85.9,1439,Diesel,Automatic,107283,22.5
+Volkswagen,Vento,1200,87.3,1817,Petrol,Automatic,88399,20.8
+Toyota,Glanza,1600,149.0,1142,Petrol,Automatic,75852,19.0
+Tata,Tiago,1200,107.5,1357,Diesel,Manual,147560,25.6
+Hyundai,Creta,1000,91.9,1881,Petrol,Manual,2880,23.2
+Maruti Suzuki,Swift,1500,107.4,1444,Diesel,Manual,125986,23.8
+BMW,520d,2500,184.7,1033,Petrol,Manual,117529,19.4
+BMW,X1,1800,101.0,1050,Diesel,Automatic,149923,22.4
+Hyundai,i10,1000,88.0,1516,Petrol,Manual,198798,24.3
+Honda,Jazz,1500,120.9,1842,Petrol,Manual,78359,20.4
+Kia,Sonet,1200,67.7,1781,Diesel,Manual,155212,26.2
+Ford,Ecosport,1600,101.1,1033,Petrol,Manual,187162,21.8
+Maruti Suzuki,Dzire,1800,127.7,911,Petrol,Manual,159100,21.1
+BMW,X3,1200,111.1,1752,Diesel,Automatic,39060,21.7
+Nissan,Kicks,2200,206.8,879,Diesel,Manual,2163,21.1
+Hyundai,Creta,1000,72.7,1726,Petrol,Automatic,171149,23.3
+Nissan,Kicks,1000,94.2,1449,Diesel,Automatic,139069,23.5
+Nissan,Micra,2000,120.5,921,Petrol,Automatic,124905,19.6
+Hyundai,Venue,1500,96.3,1819,Petrol,Automatic,160980,21.4
+Tata,Tiago,1200,67.1,862,Diesel,Manual,31611,24.6
+Nissan,Kicks,2000,156.0,874,Petrol,Manual,77996,21.0
+Honda,Civic,1200,71.7,879,Diesel,Manual,46870,25.6
+Honda,WR-V,2200,152.0,1471,Petrol,Automatic,149775,17.1
+Kia,Seltos,1600,114.8,1113,Petrol,Automatic,107669,20.4
+Maruti Suzuki,Dzire,2000,120.9,1266,Petrol,Manual,4211,19.9
+BMW,320i,1500,125.1,1196,Petrol,Automatic,96768,20.5
+Maruti Suzuki,Swift,1000,72.0,1483,Diesel,Automatic,183959,23.6
+Nissan,Sunny,2000,117.5,1053,Diesel,Automatic,79491,22.6
+Ford,Aspire,1000,88.4,924,Diesel,Manual,147856,23.3
+Honda,WR-V,2500,220.7,1639,Diesel,Automatic,26834,20.7
+Tata,Nexon,1200,101.0,1797,Diesel,Automatic,53213,24.3
+Honda,City,1600,119.8,1442,Diesel,Manual,79746,22.7
+Honda,Jazz,2200,127.3,1275,Diesel,Automatic,102201,20.0
+BMW,X1,1500,141.1,1166,Petrol,Manual,71793,21.0
+Nissan,Sunny,1200,102.1,1697,Petrol,Manual,145825,22.1
+Maruti Suzuki,Ciaz,1000,57.9,1614,Petrol,Manual,177066,23.1
+Kia,Carens,2200,186.6,957,Petrol,Automatic,41323,18.9
+Kia,Sonet,2200,201.7,1790,Petrol,Manual,85167,19.6
+BMW,X3,2000,137.4,1439,Diesel,Manual,105178,21.0
+BMW,X3,2000,114.7,1261,Diesel,Manual,8844,21.1
+Toyota,Yaris,2500,165.8,1232,Petrol,Automatic,159449,16.6
+Toyota,Innova,1600,116.1,1063,Petrol,Automatic,75662,21.7
+Volkswagen,Taigun,2000,112.3,1638,Petrol,Automatic,44248,18.5
+Hyundai,Venue,2500,226.0,1168,Petrol,Automatic,115561,17.7
+Ford,Figo,2500,236.3,947,Petrol,Manual,7181,17.8
+Hyundai,i10,1000,61.0,889,Diesel,Manual,197816,24.7
+Hyundai,Verna,1000,91.4,1008,Diesel,Automatic,1538,26.3
+Hyundai,i20,1600,132.4,951,Diesel,Manual,144054,23.6
+Toyota,Yaris,2200,182.3,1199,Petrol,Manual,137983,21.2
+Honda,City,1200,113.6,949,Petrol,Manual,176306,24.4
+Ford,Ecosport,1500,83.0,1136,Diesel,Manual,177208,24.3
+Maruti Suzuki,WagonR,1000,75.3,1013,Petrol,Automatic,38368,22.7
+Nissan,Kicks,1000,81.9,1334,Petrol,Manual,126480,22.6
+Tata,Tiago,1000,78.2,1433,Diesel,Automatic,184560,24.4
+Kia,Seltos,2200,200.6,904,Petrol,Automatic,140748,17.6
+Tata,Nexon,1800,134.5,1557,Petrol,Automatic,143459,20.3
+Maruti Suzuki,Swift,2200,142.3,1273,Petrol,Manual,81721,18.8
+Ford,Figo,1800,143.4,1706,Diesel,Manual,139483,22.2
+Ford,Aspire,1800,121.1,1714,Diesel,Automatic,32317,22.8
+BMW,520d,1200,92.4,1787,Petrol,Automatic,131903,21.8
+Maruti Suzuki,Baleno,1000,70.6,1004,Petrol,Manual,99311,24.5
+Tata,Nexon,2200,135.4,1538,Diesel,Automatic,82163,18.6
+Maruti Suzuki,WagonR,1600,104.6,1834,Petrol,Automatic,146413,20.4
+BMW,320i,1200,86.2,1471,Petrol,Manual,174251,24.1
+Tata,Harrier,2000,167.5,880,Petrol,Automatic,111073,18.0
+Hyundai,i20,1500,131.0,1236,Petrol,Automatic,178161,20.4
+Tata,Harrier,1800,151.9,917,Petrol,Automatic,102332,19.0
+Volkswagen,Vento,1500,142.4,1526,Diesel,Manual,199064,23.2
+Kia,Sonet,1200,112.4,1169,Diesel,Manual,86030,23.8
+Kia,Seltos,2500,158.6,971,Diesel,Manual,119887,19.8
+BMW,X1,1200,95.8,1654,Diesel,Automatic,14652,23.0
+Kia,Seltos,2200,192.5,1655,Diesel,Automatic,73915,18.8
+Ford,Freestyle,1800,117.5,1888,Petrol,Manual,171907,20.5
+Kia,Carens,1600,94.6,1436,Diesel,Manual,118343,24.3
+BMW,X3,1200,81.4,1194,Diesel,Automatic,121097,23.5
+Toyota,Glanza,1600,140.2,1882,Diesel,Manual,121564,21.8
+Kia,Sonet,2000,156.1,1591,Petrol,Automatic,123782,20.2
+Tata,Harrier,2000,188.7,1384,Diesel,Manual,26425,21.6
+Maruti Suzuki,Dzire,1600,97.1,1697,Petrol,Automatic,122327,21.2
+Tata,Nexon,1800,163.7,1898,Diesel,Manual,47091,20.9
+Toyota,Corolla,2200,152.7,1182,Petrol,Manual,75133,19.0
+Ford,Freestyle,2200,162.7,1602,Diesel,Manual,20051,22.8
+Honda,WR-V,2200,124.4,1650,Diesel,Manual,176364,19.7
+Volkswagen,Vento,1500,97.3,1287,Diesel,Automatic,9164,21.7
+Tata,Nexon,1000,60.6,1406,Diesel,Automatic,174271,23.5
+Nissan,Sunny,1600,146.5,1865,Diesel,Automatic,152474,22.8
+Volkswagen,Taigun,1800,128.9,1263,Petrol,Automatic,53103,19.0
+Ford,Aspire,1600,97.9,985,Petrol,Automatic,185002,20.9
+BMW,520d,1800,103.4,1040,Petrol,Manual,4044,20.7
+Tata,Tiago,1000,92.6,862,Petrol,Automatic,66069,23.5
+Honda,Civic,1200,92.9,1558,Petrol,Manual,119146,21.7
+BMW,520d,2000,132.8,1357,Petrol,Automatic,93375,19.1
+Maruti Suzuki,Dzire,1600,126.4,953,Petrol,Manual,151773,20.6
+Honda,WR-V,1200,81.2,901,Petrol,Manual,115581,24.1
+BMW,X1,2500,198.1,1331,Diesel,Automatic,134787,18.6
+Honda,City,1600,126.8,1445,Diesel,Automatic,40953,21.1
+Volkswagen,Taigun,1500,106.9,1168,Diesel,Manual,165384,24.5
+Hyundai,Venue,2000,149.8,1656,Petrol,Automatic,127144,20.2
+Maruti Suzuki,WagonR,2000,140.7,1840,Petrol,Automatic,55483,19.8
+Volkswagen,Taigun,1500,108.0,1262,Petrol,Automatic,150503,21.6
+Ford,Freestyle,1200,67.9,856,Petrol,Manual,180775,22.7
+Maruti Suzuki,Baleno,2500,200.9,1392,Diesel,Automatic,18798,18.7
+Honda,Amaze,2200,176.2,1658,Diesel,Manual,160345,21.6
+Hyundai,Creta,1200,113.4,1572,Diesel,Manual,35880,23.5
+Tata,Tiago,1500,113.6,1435,Petrol,Automatic,156639,20.2
+BMW,320i,1200,106.9,1498,Petrol,Automatic,80182,22.5
+Nissan,Sunny,2000,169.8,1315,Diesel,Manual,148609,21.0
+Hyundai,i10,1500,93.9,1151,Diesel,Manual,118902,25.5
+Ford,Figo,1600,89.3,933,Diesel,Manual,89710,22.0
+Maruti Suzuki,Baleno,2500,223.9,1211,Petrol,Manual,148128,20.0
+Hyundai,Creta,1600,148.7,1308,Diesel,Automatic,48864,21.6
+Maruti Suzuki,Swift,2500,180.5,1294,Petrol,Automatic,79217,19.4
+Toyota,Corolla,1200,104.4,1342,Petrol,Automatic,172897,23.2
+BMW,X1,2500,202.1,1495,Diesel,Manual,9879,21.2
+Kia,Carens,1500,86.5,1017,Petrol,Manual,130048,20.8
+Kia,Sonet,2000,163.7,1713,Petrol,Manual,166706,20.3
+Maruti Suzuki,Swift,1200,102.9,1185,Diesel,Automatic,89845,24.3
+Nissan,Sunny,1200,71.4,1791,Petrol,Manual,27304,23.5
+Ford,Ecosport,1500,100.9,1496,Diesel,Manual,71822,22.7
+Tata,Tiago,1000,71.9,1432,Petrol,Automatic,82829,20.7
+Honda,City,2000,141.4,1687,Diesel,Automatic,102665,21.2
+Tata,Nexon,1600,144.0,1812,Diesel,Automatic,133240,22.8
+Maruti Suzuki,Swift,1500,121.0,1491,Diesel,Manual,113877,23.9
+Toyota,Corolla,2000,120.1,1552,Petrol,Manual,177497,20.2
+Toyota,Yaris,2200,169.4,1625,Diesel,Manual,180749,23.1
+Ford,Freestyle,2500,184.6,1149,Diesel,Automatic,149270,20.4
+Hyundai,Verna,2500,178.3,1056,Diesel,Manual,74043,19.1
+Toyota,Camry,1800,116.4,873,Petrol,Automatic,173802,21.0
+Kia,Sonet,2500,140.4,1311,Diesel,Automatic,42438,18.8
+Honda,WR-V,2500,139.1,1720,Petrol,Manual,43553,18.4
+Honda,Civic,1200,97.3,1564,Diesel,Automatic,23632,24.0
+Nissan,Kicks,1000,81.2,1860,Petrol,Automatic,79056,22.2
+Tata,Harrier,1000,69.6,1216,Petrol,Automatic,165858,23.3
+BMW,320i,2500,168.4,1510,Diesel,Manual,111018,21.4
+Volkswagen,Polo,2200,182.4,1013,Diesel,Automatic,985,18.8
+Ford,Aspire,2500,166.2,1575,Diesel,Manual,18893,19.4
+Kia,Sonet,2200,184.5,1056,Diesel,Automatic,87799,20.5
+Hyundai,Creta,1000,73.3,1102,Diesel,Manual,48136,26.0
+Maruti Suzuki,WagonR,1600,107.9,1896,Petrol,Manual,9632,20.2
+Hyundai,i10,1200,86.2,1822,Petrol,Manual,95262,22.7
+BMW,X1,1200,89.9,1712,Diesel,Automatic,165645,23.3
+Volkswagen,Taigun,1600,137.6,1667,Petrol,Automatic,68137,21.8
+Tata,Nexon,2200,132.2,1534,Petrol,Manual,98955,18.7
+Tata,Tiago,1000,73.9,992,Diesel,Manual,21917,27.4
+Toyota,Corolla,2200,207.1,1138,Petrol,Manual,71452,20.3
+BMW,X1,2200,197.3,1535,Petrol,Manual,146098,19.6
+Volkswagen,Taigun,1600,109.5,1705,Diesel,Automatic,69754,21.2
+Ford,Freestyle,2500,155.5,1071,Diesel,Manual,3246,19.6
+BMW,320i,1600,136.4,1640,Petrol,Manual,38983,21.8
+Ford,Ecosport,2200,121.4,1774,Diesel,Automatic,143982,19.4
+Hyundai,i10,1200,75.3,1409,Petrol,Manual,48411,23.3
+Honda,City,2200,146.1,1187,Petrol,Automatic,60254,19.0
+Ford,Aspire,2500,197.0,1375,Petrol,Manual,198044,17.4
+Honda,Amaze,1600,130.0,1879,Petrol,Manual,3293,22.3
+Maruti Suzuki,Baleno,2200,124.8,1312,Diesel,Automatic,1741,19.3
+Hyundai,Creta,1500,97.0,854,Diesel,Manual,192554,25.2
+Tata,Tiago,1000,83.5,1299,Petrol,Manual,49441,24.2
+Volkswagen,Polo,2500,191.3,1849,Petrol,Manual,161725,17.6
+Honda,Civic,1200,108.3,1095,Diesel,Automatic,65584,23.9
+Maruti Suzuki,Swift,2500,228.7,1887,Petrol,Automatic,48562,16.9
+Toyota,Camry,1800,119.2,1559,Diesel,Automatic,92576,20.9
+Maruti Suzuki,WagonR,2000,167.4,1564,Petrol,Manual,195053,21.4
+Tata,Nexon,2500,192.2,1655,Petrol,Automatic,115050,16.5
+Nissan,Sunny,1800,127.7,1129,Petrol,Automatic,143602,20.2
+Tata,Nexon,1000,71.7,1494,Petrol,Manual,141223,22.0
+BMW,320i,1000,83.5,994,Diesel,Automatic,39152,23.2
+Tata,Nexon,2000,171.2,1568,Petrol,Automatic,91453,19.1
+Nissan,Micra,2000,112.7,1872,Diesel,Automatic,67661,20.0
+Toyota,Innova,1000,94.7,1044,Diesel,Automatic,70913,22.5
+Kia,Carens,1500,82.6,1278,Diesel,Manual,105879,23.4
+Volkswagen,Vento,1600,130.2,955,Petrol,Automatic,17724,19.8
+Toyota,Camry,1600,144.4,1151,Petrol,Automatic,22490,19.6
+Honda,WR-V,1600,93.6,882,Diesel,Automatic,84289,23.0
+Ford,Ecosport,1500,122.5,1735,Petrol,Automatic,33090,20.2
+Ford,Figo,1800,110.5,1231,Diesel,Automatic,191949,22.1
+Volkswagen,Taigun,2000,147.5,1251,Diesel,Automatic,20131,19.4
+Maruti Suzuki,Swift,1800,120.4,1075,Petrol,Manual,60933,21.1
+Honda,Civic,1000,62.4,1296,Petrol,Automatic,178644,20.9
+Hyundai,i20,1500,134.6,917,Petrol,Automatic,155303,20.5
+Volkswagen,Polo,2000,144.0,1515,Diesel,Manual,35428,20.7
+Ford,Ecosport,1500,97.1,1746,Petrol,Manual,169241,21.6
+Tata,Altroz,1500,140.1,1506,Petrol,Automatic,166672,20.3
+Hyundai,i20,1200,70.9,1127,Diesel,Manual,132994,22.6
+Kia,Seltos,2200,165.0,909,Diesel,Automatic,18158,20.2
+Toyota,Corolla,2000,169.4,1378,Diesel,Automatic,71670,20.1
+Volkswagen,Polo,1500,140.8,1331,Diesel,Automatic,106432,22.8
+Hyundai,Venue,2000,143.3,1648,Petrol,Manual,177650,20.5
+Nissan,Micra,2500,219.3,1515,Petrol,Manual,115195,18.8
+BMW,X3,1000,79.2,1330,Diesel,Manual,61064,23.9
+Maruti Suzuki,Dzire,2200,177.0,852,Diesel,Manual,113431,21.6
+Ford,Aspire,1200,74.8,1336,Diesel,Automatic,107435,22.0
+Tata,Altroz,1500,105.3,1758,Diesel,Manual,193030,24.1
+Honda,City,1200,96.3,1199,Petrol,Manual,76255,22.6
+Tata,Harrier,2200,123.5,1746,Petrol,Automatic,142889,18.4
+Tata,Nexon,1600,116.6,1396,Diesel,Automatic,25020,24.3
+Tata,Altroz,2000,156.4,976,Petrol,Automatic,32593,19.8
+Ford,Freestyle,1600,108.8,1659,Diesel,Manual,7271,23.3
+Hyundai,Venue,2000,168.6,1522,Petrol,Manual,11421,19.6
+Tata,Tiago,1600,114.8,1577,Diesel,Manual,8744,21.5
+Tata,Nexon,2000,153.3,903,Diesel,Manual,1873,22.7
+Kia,Carens,1000,68.8,1505,Petrol,Automatic,44710,23.8
+Nissan,Micra,2200,189.4,968,Petrol,Manual,191667,21.2
+Nissan,Micra,1800,157.9,1709,Petrol,Automatic,29846,20.0
+Maruti Suzuki,WagonR,2000,131.0,1476,Diesel,Automatic,194537,19.5
+Hyundai,i10,1800,149.8,854,Diesel,Manual,183975,22.8
+Toyota,Glanza,1800,152.2,1807,Diesel,Manual,184151,23.3
+Honda,Civic,1500,113.7,1505,Diesel,Automatic,175860,21.9
+Toyota,Corolla,1200,113.0,1812,Petrol,Manual,164772,24.2
+Toyota,Camry,2000,164.6,1578,Petrol,Automatic,194728,18.6
+Tata,Altroz,1000,91.5,1367,Petrol,Manual,117278,23.7
+Volkswagen,Polo,2500,184.7,1266,Diesel,Manual,127381,20.0
+Hyundai,i20,2200,202.9,956,Diesel,Automatic,106407,21.0
+Hyundai,i10,1000,57.1,1237,Diesel,Manual,195681,26.3
+Tata,Tiago,1500,86.9,1370,Petrol,Automatic,137940,21.4
+Hyundai,i20,1600,104.4,1647,Petrol,Automatic,190398,20.2
+Ford,Aspire,2200,179.0,1235,Petrol,Automatic,161934,19.5
+Kia,Sonet,1600,132.9,1877,Diesel,Manual,46930,21.8
+Maruti Suzuki,WagonR,1600,147.2,1602,Diesel,Manual,121191,23.9
+Maruti Suzuki,Ciaz,1000,59.4,877,Diesel,Manual,15173,26.7
+Nissan,Sunny,2000,117.3,1344,Petrol,Automatic,166572,20.5
+Toyota,Glanza,1800,163.2,1015,Petrol,Manual,87007,22.3
+Kia,Sonet,1200,69.3,1078,Diesel,Manual,98576,25.2
+Volkswagen,Vento,1500,131.2,1079,Diesel,Manual,773,22.1
+Kia,Seltos,1000,60.8,1006,Petrol,Manual,101663,23.3
+Kia,Seltos,1800,170.7,943,Petrol,Manual,110870,20.2
+Honda,WR-V,1200,84.7,1223,Petrol,Automatic,48874,22.8
+Toyota,Yaris,1000,71.9,1051,Petrol,Automatic,50153,21.8
+Kia,Sonet,2200,197.2,892,Petrol,Manual,37558,19.7
+Hyundai,Verna,2000,119.2,1740,Petrol,Manual,130230,21.1
+Kia,Sonet,1500,112.6,1007,Petrol,Automatic,113132,21.5
+Honda,Civic,2500,230.3,1791,Diesel,Automatic,177116,20.9
+Hyundai,i10,1600,108.7,890,Diesel,Manual,154316,21.5
+Kia,Sonet,2000,177.4,1172,Petrol,Automatic,152190,20.3
+BMW,X3,2500,174.2,1430,Diesel,Manual,52398,19.6
+Kia,Sonet,1200,93.2,1190,Diesel,Manual,96189,23.3
+Volkswagen,Polo,1600,101.4,1460,Petrol,Automatic,197925,21.7
+Nissan,Micra,1200,94.5,867,Diesel,Automatic,140002,24.7
+Kia,Sonet,2200,147.3,1340,Diesel,Manual,192294,21.9
+BMW,520d,1500,89.8,1690,Petrol,Automatic,125583,20.8
+Ford,Freestyle,1000,78.6,978,Petrol,Manual,178977,24.4
+Kia,Carens,1200,108.9,1232,Petrol,Automatic,199461,20.4
+Volkswagen,Vento,2500,210.7,1347,Petrol,Manual,94237,18.9
+Volkswagen,Polo,2200,162.3,1075,Diesel,Automatic,186057,22.5
+Honda,Jazz,1500,133.2,1329,Petrol,Automatic,148607,19.8
+Toyota,Yaris,2000,115.1,1462,Petrol,Automatic,95378,18.4
+Toyota,Glanza,1200,87.7,1268,Diesel,Automatic,48392,22.8
+Volkswagen,Vento,1600,144.4,1679,Petrol,Manual,145370,22.5
+Volkswagen,Taigun,2200,172.8,1241,Diesel,Automatic,174681,20.4
+BMW,520d,1000,67.3,1617,Diesel,Manual,72834,26.4
+Volkswagen,Vento,1500,121.4,1508,Diesel,Manual,178634,24.2
+Maruti Suzuki,Dzire,1800,148.4,1608,Petrol,Manual,107348,20.7
+BMW,320i,2200,153.7,873,Petrol,Manual,148928,20.8
+Volkswagen,Vento,1000,84.9,1733,Petrol,Automatic,172918,22.2
+Toyota,Corolla,1200,106.3,1473,Petrol,Automatic,49007,23.4
+Kia,Carens,1600,134.5,1152,Diesel,Manual,85513,22.2
+Toyota,Corolla,1600,101.6,1393,Petrol,Manual,89914,23.0
+Volkswagen,Taigun,1500,96.2,1837,Petrol,Automatic,155291,19.2
+Tata,Nexon,2000,155.8,1576,Diesel,Automatic,173795,20.8
+Maruti Suzuki,Swift,1600,121.0,1488,Diesel,Automatic,71135,21.8
+Ford,Aspire,2000,125.9,1051,Petrol,Automatic,185175,18.0
+Maruti Suzuki,Baleno,2500,187.8,1152,Petrol,Automatic,113525,17.6
+Volkswagen,Taigun,1000,84.5,1861,Diesel,Manual,41932,23.9
+Nissan,Sunny,2000,180.0,1146,Petrol,Automatic,193995,19.5
+Hyundai,Venue,2200,130.2,1757,Diesel,Manual,73744,22.1
+Tata,Altroz,2000,134.8,880,Petrol,Manual,114005,19.8
+Volkswagen,Taigun,1800,112.3,1440,Diesel,Manual,187549,23.2
+Honda,WR-V,2500,206.6,1190,Diesel,Automatic,76897,21.2
+Ford,Figo,2500,228.8,1403,Petrol,Automatic,140755,17.4
+BMW,X3,1600,150.0,1215,Petrol,Automatic,96679,20.9
+Ford,Freestyle,1500,130.1,1335,Petrol,Automatic,131217,20.7
+Nissan,Micra,1000,55.6,1143,Petrol,Manual,20782,24.1
+BMW,X1,1200,90.3,1723,Diesel,Manual,193838,24.2
+BMW,320i,1800,162.3,1642,Petrol,Automatic,155471,20.4
+Tata,Harrier,2000,132.3,1782,Diesel,Automatic,19369,19.5
+Hyundai,Venue,2000,184.7,1025,Petrol,Manual,157100,19.4
+Volkswagen,Taigun,1000,60.3,1481,Petrol,Manual,175540,22.1
+Toyota,Innova,2500,219.6,1893,Diesel,Automatic,46108,18.9
+Volkswagen,Taigun,2000,114.0,951,Diesel,Manual,72364,24.2
+Hyundai,Creta,1500,139.1,1407,Diesel,Manual,157733,23.9
+Maruti Suzuki,Ciaz,2500,149.0,1562,Petrol,Automatic,189517,18.1
+Ford,Freestyle,1500,132.6,1006,Petrol,Automatic,156486,20.0
+BMW,X1,1800,169.5,904,Diesel,Automatic,30860,21.9
+Kia,Seltos,1500,108.6,1542,Petrol,Automatic,6912,19.9
+Toyota,Glanza,1600,115.5,1899,Petrol,Manual,98425,22.2
+Maruti Suzuki,Ciaz,2200,159.3,1093,Diesel,Manual,67967,22.7
+Kia,Seltos,1800,164.6,1863,Petrol,Automatic,107349,18.6
+Toyota,Yaris,2200,155.3,1506,Diesel,Manual,35975,21.5
+Honda,Amaze,2500,183.5,1105,Petrol,Manual,176376,18.8
+Kia,Carens,1800,121.4,996,Petrol,Automatic,22250,19.5
+Honda,WR-V,2200,173.7,1438,Petrol,Automatic,159220,20.0
+Tata,Harrier,2500,137.9,1714,Petrol,Manual,4353,19.4
+BMW,X1,1200,97.3,953,Diesel,Automatic,120989,23.8
+Kia,Carens,2500,221.9,1061,Petrol,Automatic,138133,16.9
+Nissan,Micra,2000,113.2,1772,Petrol,Automatic,68290,20.3
+Ford,Ecosport,2500,142.8,1289,Petrol,Manual,31585,17.4
+Hyundai,i10,1000,57.9,1319,Petrol,Manual,165812,22.5
+Ford,Figo,1800,104.7,997,Diesel,Automatic,57135,19.7
+Volkswagen,Polo,1600,141.8,1759,Diesel,Automatic,134143,22.5
+Tata,Nexon,1000,57.3,1803,Petrol,Manual,144722,24.5
+Tata,Nexon,1600,123.1,1707,Petrol,Automatic,183803,21.8
+Hyundai,Creta,2000,183.6,1885,Diesel,Manual,136599,23.4
+Tata,Tiago,1000,89.8,1270,Diesel,Manual,24396,26.7
+Maruti Suzuki,WagonR,1800,142.9,1499,Diesel,Manual,41231,21.9
+Honda,WR-V,1500,110.7,1839,Petrol,Manual,110049,21.8
+Tata,Altroz,2200,191.2,1395,Diesel,Manual,140438,22.5
+Toyota,Glanza,1000,56.7,1823,Diesel,Automatic,195688,23.2
+Volkswagen,Vento,2000,177.3,996,Petrol,Manual,131288,19.0
+Tata,Harrier,2000,165.8,1486,Diesel,Manual,179364,22.7
+Maruti Suzuki,WagonR,2200,177.5,1727,Diesel,Manual,140709,22.3
+Maruti Suzuki,Baleno,1000,90.9,1397,Diesel,Manual,23677,26.3
+Volkswagen,Taigun,1600,110.7,1641,Diesel,Manual,199210,24.9
+Maruti Suzuki,Ciaz,1800,125.6,1562,Petrol,Manual,68986,21.2
+Tata,Nexon,1500,122.5,1497,Petrol,Automatic,115817,21.5
+Toyota,Innova,2000,183.8,1726,Diesel,Manual,52065,21.8
+Tata,Harrier,1500,121.8,992,Diesel,Automatic,166325,23.5
+Ford,Aspire,1600,107.2,1868,Petrol,Manual,158734,20.4
+Nissan,Kicks,2000,118.0,1746,Diesel,Manual,178667,23.4
+Tata,Altroz,2000,174.3,1193,Petrol,Automatic,2294,19.3
+Honda,Amaze,2200,121.7,1549,Diesel,Manual,137632,20.3
+Maruti Suzuki,Ciaz,1200,87.6,1405,Petrol,Manual,528,21.9
+Nissan,Micra,1600,110.6,1800,Diesel,Automatic,18095,21.4
+Toyota,Innova,2500,198.1,1743,Diesel,Manual,100769,21.8
+BMW,520d,2200,193.8,1291,Petrol,Automatic,176107,17.9
+Toyota,Corolla,2200,142.7,1160,Diesel,Automatic,178303,20.3
+Ford,Figo,2200,126.6,1007,Petrol,Manual,139596,20.5
+Volkswagen,Vento,1600,106.5,1206,Petrol,Manual,168996,20.9
+Kia,Seltos,1500,124.3,861,Petrol,Manual,24150,22.8
+Volkswagen,Taigun,2000,154.5,1873,Petrol,Automatic,72179,20.4
+Kia,Carens,1800,168.9,858,Petrol,Manual,157392,22.1
+BMW,520d,1600,124.8,1415,Diesel,Automatic,42098,22.0
+Maruti Suzuki,Dzire,1500,89.6,1745,Petrol,Automatic,153002,20.2
+Toyota,Glanza,2200,204.0,1541,Diesel,Automatic,139107,18.8
+Ford,Aspire,2000,143.0,1464,Petrol,Manual,66337,20.8
+Tata,Nexon,1600,141.0,1471,Diesel,Manual,66339,22.2
+Tata,Altroz,1600,141.6,897,Petrol,Automatic,157070,20.7
+Maruti Suzuki,Dzire,1200,68.2,948,Petrol,Automatic,98878,21.9
+Maruti Suzuki,WagonR,1600,112.2,1226,Petrol,Automatic,95631,21.1
+Nissan,Kicks,2200,129.7,1715,Diesel,Manual,110278,20.5
+Nissan,Kicks,1500,129.2,1795,Diesel,Manual,130942,24.5
+Volkswagen,Vento,1200,86.0,1561,Petrol,Manual,151217,23.8
+Maruti Suzuki,Baleno,1000,63.1,1358,Diesel,Automatic,31019,24.7
+Ford,Freestyle,1600,92.1,1615,Petrol,Automatic,193871,20.0
+Kia,Seltos,1600,141.9,1293,Diesel,Manual,51322,24.3
+Ford,Aspire,2500,229.2,1264,Petrol,Manual,29368,18.4
+Kia,Seltos,2000,181.1,1222,Petrol,Automatic,74469,18.5
+BMW,320i,1500,83.0,1159,Petrol,Automatic,43126,20.6
+Toyota,Innova,2000,188.6,944,Petrol,Automatic,111291,18.3
+Toyota,Camry,1500,141.2,1274,Diesel,Automatic,21095,21.6
+Honda,City,2200,155.7,1449,Diesel,Manual,22234,23.5
+Ford,Ecosport,2000,149.7,1489,Petrol,Manual,8753,20.6
+Kia,Carens,2200,198.6,1583,Petrol,Manual,31758,18.6
+Tata,Altroz,1800,111.2,1528,Diesel,Automatic,152487,20.4
+Ford,Ecosport,1200,104.6,916,Petrol,Automatic,83649,21.2
+BMW,520d,1200,78.6,1874,Petrol,Manual,80410,22.7
+Hyundai,Venue,1000,91.0,1702,Petrol,Manual,127129,22.0
+Toyota,Yaris,2500,202.6,1802,Petrol,Automatic,157861,19.3
+Tata,Altroz,2200,165.0,1807,Diesel,Manual,138233,23.3
+Ford,Figo,1500,127.9,1069,Petrol,Automatic,99082,19.7
+Toyota,Glanza,1000,66.3,1072,Diesel,Manual,158744,24.6
+Volkswagen,Polo,2200,188.5,1755,Diesel,Manual,158791,21.9
+Ford,Aspire,1600,111.4,1025,Petrol,Manual,128527,21.0
+Toyota,Innova,1500,97.2,975,Petrol,Automatic,16017,19.6
+Kia,Seltos,2500,144.7,1321,Diesel,Automatic,42757,19.4
+Toyota,Camry,2500,218.0,1658,Petrol,Automatic,123171,18.7
+Tata,Harrier,2500,153.5,1879,Petrol,Manual,37001,18.6
+Hyundai,Verna,1000,74.0,1655,Diesel,Manual,52799,23.8
+BMW,X3,1800,150.2,1432,Petrol,Manual,30495,22.2
+Tata,Altroz,1800,139.5,1125,Petrol,Automatic,98425,19.1
+Kia,Carens,2000,150.8,1450,Petrol,Automatic,144203,17.8
+Hyundai,i10,1800,108.3,1149,Diesel,Automatic,188109,21.8
+Toyota,Glanza,2500,209.7,1663,Diesel,Manual,196370,20.9
+Volkswagen,Polo,1600,133.4,1776,Petrol,Manual,162214,22.2
+Nissan,Kicks,1600,133.9,1529,Diesel,Manual,196921,22.3
+Hyundai,Venue,2500,229.0,1583,Diesel,Automatic,122809,19.0
+Honda,Amaze,1000,57.6,1563,Diesel,Automatic,85674,24.7
+BMW,520d,2000,185.0,1230,Petrol,Automatic,51029,17.9
+Toyota,Corolla,2500,157.6,1378,Petrol,Automatic,125135,16.7
+Tata,Altroz,1600,113.9,1663,Diesel,Automatic,192076,21.8
+Hyundai,Creta,1000,83.4,1650,Petrol,Automatic,37606,21.5
+Ford,Freestyle,1600,107.2,1423,Petrol,Manual,112611,20.4
+Ford,Aspire,2000,164.2,1639,Petrol,Manual,118509,20.5
+Maruti Suzuki,WagonR,1600,140.5,1805,Diesel,Manual,120966,21.6
+Toyota,Corolla,1600,103.8,850,Petrol,Manual,99384,22.7
+Hyundai,Verna,2200,144.6,951,Petrol,Manual,80267,20.5
+Hyundai,Verna,2200,192.5,1433,Petrol,Manual,16065,20.2
+Toyota,Camry,1800,108.3,902,Petrol,Automatic,114396,19.1
+BMW,520d,1200,77.4,1897,Diesel,Manual,80161,26.5
+Volkswagen,Polo,1200,107.4,969,Diesel,Automatic,107565,25.2
+Volkswagen,Taigun,1600,96.3,995,Diesel,Automatic,131766,23.2
+Honda,Jazz,1200,74.4,1750,Diesel,Manual,196134,24.7
+Kia,Seltos,1600,130.2,1379,Petrol,Manual,160344,23.1
+Hyundai,Venue,1000,83.1,1585,Petrol,Automatic,172378,21.7
+Nissan,Kicks,1600,121.7,1280,Diesel,Automatic,41711,21.0
+Kia,Carens,2500,169.5,1442,Diesel,Manual,152546,18.6
+Toyota,Yaris,2000,147.4,1572,Petrol,Manual,32252,19.1
+Maruti Suzuki,WagonR,2000,143.1,862,Diesel,Manual,27652,20.7
+Kia,Seltos,1500,120.2,1483,Diesel,Manual,15338,24.3
+Ford,Aspire,1000,89.9,1873,Petrol,Automatic,170075,22.0
+Toyota,Camry,1000,94.5,1732,Petrol,Automatic,12797,23.3
+Ford,Aspire,1000,65.4,1008,Petrol,Manual,56867,24.4
+Kia,Sonet,2500,204.6,1894,Diesel,Manual,164320,19.9
+BMW,X1,2200,208.3,1715,Diesel,Manual,117528,22.1
+Volkswagen,Polo,2500,211.1,1277,Petrol,Manual,11232,17.5
+Nissan,Sunny,1000,58.4,1483,Petrol,Automatic,183619,21.9
+Toyota,Corolla,1200,100.9,1143,Petrol,Manual,99337,22.6
+Ford,Aspire,2500,162.7,1833,Petrol,Automatic,74846,17.3
+Hyundai,Verna,1600,131.4,1274,Petrol,Manual,163989,20.2
+Ford,Freestyle,2200,192.6,1818,Petrol,Automatic,180168,17.5
+BMW,520d,2000,130.4,948,Diesel,Automatic,167807,22.5
+Maruti Suzuki,Baleno,2200,127.4,968,Diesel,Automatic,105412,19.7
+Tata,Nexon,2200,174.3,1505,Diesel,Manual,65884,21.2
+BMW,X1,2200,205.6,926,Diesel,Automatic,124462,21.0
+Honda,WR-V,1600,114.3,1881,Petrol,Manual,141184,22.8
+Volkswagen,Taigun,2200,175.4,1855,Petrol,Automatic,105753,17.7
+BMW,320i,2200,161.4,1857,Diesel,Manual,71934,21.2
+Ford,Aspire,1500,110.2,1379,Diesel,Automatic,89508,23.9
+Volkswagen,Polo,2200,182.9,1309,Petrol,Automatic,800,19.1
+Nissan,Kicks,2500,148.9,1308,Petrol,Automatic,55631,17.6
+Ford,Figo,1500,110.2,1425,Petrol,Automatic,34131,20.8
+Kia,Seltos,2000,183.7,917,Petrol,Automatic,43038,19.4
+Tata,Tiago,2000,188.1,1651,Petrol,Manual,178594,20.7
+Honda,WR-V,2000,156.2,1533,Petrol,Manual,5444,20.8
+Ford,Aspire,2500,237.5,1454,Diesel,Manual,180634,22.1
+Ford,Ecosport,1200,73.9,1683,Petrol,Manual,21305,22.2
+BMW,X3,1800,109.5,874,Diesel,Manual,70249,21.6
+Kia,Sonet,2000,129.3,1248,Diesel,Automatic,26352,22.1
+Kia,Carens,1200,98.3,1368,Petrol,Automatic,22624,20.3
+Maruti Suzuki,Dzire,1000,88.9,1699,Diesel,Automatic,2366,25.3
+Ford,Figo,1600,141.3,1494,Diesel,Automatic,139373,23.8
+Toyota,Innova,1800,133.7,1805,Diesel,Automatic,56214,20.9
+Honda,Jazz,1600,130.9,1176,Petrol,Manual,193118,20.7
+Nissan,Sunny,1500,88.0,1494,Petrol,Manual,161849,20.6
+Maruti Suzuki,Baleno,2500,224.7,1865,Diesel,Automatic,80107,18.7
+Ford,Ecosport,1000,71.8,1761,Petrol,Automatic,113586,22.7
+Honda,City,2000,157.4,1125,Diesel,Automatic,170679,22.1
+BMW,X1,2200,131.8,1481,Petrol,Automatic,52467,19.6
+Honda,City,2500,185.6,1465,Petrol,Automatic,62138,17.7
+Ford,Figo,1000,86.2,1627,Petrol,Manual,100595,24.4
+Volkswagen,Vento,1600,122.4,1433,Petrol,Manual,16881,20.9
+Maruti Suzuki,Ciaz,2000,131.8,1803,Diesel,Automatic,107229,20.1
+Hyundai,Venue,1800,107.8,1420,Petrol,Automatic,168530,20.2
+Hyundai,Creta,1000,81.6,1006,Petrol,Manual,37206,23.1
+Toyota,Innova,2500,203.2,1465,Diesel,Manual,192055,19.8
+Hyundai,i20,1200,68.7,1870,Petrol,Manual,58327,21.9
+Kia,Carens,1200,81.2,868,Diesel,Automatic,65876,24.5
+Tata,Tiago,1200,71.4,1041,Diesel,Automatic,10232,25.2
+Toyota,Camry,1200,72.1,1044,Petrol,Automatic,138141,20.5
+Maruti Suzuki,Ciaz,1800,131.9,1334,Diesel,Automatic,86062,21.4
+Nissan,Kicks,1500,84.0,1342,Diesel,Automatic,110108,22.4
+Toyota,Camry,1800,160.4,1826,Diesel,Manual,32671,22.9
+Toyota,Corolla,2200,205.3,1870,Petrol,Manual,4260,18.5
+Honda,Civic,1500,106.7,1071,Petrol,Automatic,109250,20.5
+Nissan,Sunny,1600,96.6,1429,Petrol,Automatic,19497,20.6
+Toyota,Camry,1600,120.0,1239,Diesel,Manual,27248,21.2
+Tata,Nexon,2200,121.9,1445,Petrol,Automatic,178990,17.8
+Kia,Sonet,1200,72.2,1196,Petrol,Manual,62030,23.1
+BMW,520d,1800,109.1,1227,Petrol,Manual,160087,22.1
+Nissan,Sunny,2000,176.7,1729,Diesel,Automatic,140277,21.4
+Ford,Freestyle,1800,136.0,1729,Diesel,Manual,121623,22.8
+Maruti Suzuki,Dzire,1800,153.4,1833,Petrol,Manual,115245,21.4
+Tata,Altroz,2500,155.8,1156,Diesel,Manual,100281,19.6
+Honda,City,2000,159.2,1792,Diesel,Automatic,53980,22.5
+Ford,Freestyle,2500,237.4,1146,Diesel,Automatic,2320,18.1
+Ford,Freestyle,1600,100.7,893,Diesel,Automatic,50678,23.7
+Maruti Suzuki,Baleno,1500,93.4,1251,Diesel,Automatic,117856,21.5
+Ford,Ecosport,1600,115.4,1096,Diesel,Manual,3637,23.9
+Maruti Suzuki,Ciaz,1800,135.7,881,Diesel,Manual,41725,23.7
+Volkswagen,Polo,1500,85.0,1247,Diesel,Manual,54891,24.3
+Toyota,Innova,1500,134.3,886,Diesel,Manual,150506,23.4
+Maruti Suzuki,Swift,2500,195.4,861,Diesel,Automatic,92673,19.0
+Honda,Civic,1600,132.0,877,Diesel,Manual,6797,23.9
+Ford,Freestyle,1200,95.7,1366,Petrol,Automatic,16365,23.0
+Nissan,Sunny,2500,217.8,1806,Petrol,Manual,185453,19.5
+Honda,City,2500,155.7,1372,Petrol,Automatic,41079,17.5
+Kia,Carens,1500,91.4,1638,Diesel,Manual,186419,24.2
+Toyota,Glanza,2200,182.9,1844,Diesel,Automatic,67225,22.2
+Hyundai,i10,1600,123.5,909,Diesel,Manual,65154,24.2
+Ford,Figo,1000,88.3,1082,Diesel,Manual,187773,24.5
+Hyundai,Verna,1200,95.3,1115,Diesel,Automatic,84277,21.8
+Kia,Seltos,2000,185.0,1499,Diesel,Manual,111985,21.3
+Honda,Civic,2000,182.3,1400,Diesel,Manual,152333,23.6
+Ford,Aspire,1800,110.5,1503,Diesel,Automatic,178622,21.9
+Toyota,Corolla,1000,73.2,1248,Diesel,Manual,138219,24.5
+Ford,Figo,1200,95.4,1525,Petrol,Manual,70893,21.9
+Ford,Aspire,1500,117.9,1561,Diesel,Automatic,80057,22.3
+Kia,Carens,1000,90.7,1190,Diesel,Manual,160600,26.0
+Maruti Suzuki,Swift,1200,98.7,932,Petrol,Automatic,189319,22.5
+Hyundai,i20,1800,122.3,1870,Petrol,Manual,153414,20.8
+Ford,Figo,1800,123.2,1703,Diesel,Automatic,117255,23.1
+Volkswagen,Taigun,1500,90.5,1269,Diesel,Automatic,127409,23.9
+Tata,Altroz,2000,163.7,1879,Diesel,Automatic,12846,19.2
+Toyota,Innova,1500,132.3,1745,Diesel,Manual,6782,23.3
+Tata,Altroz,1600,104.7,1849,Petrol,Automatic,161145,21.0
+Volkswagen,Taigun,1600,149.0,1781,Petrol,Manual,74860,22.1
+Toyota,Camry,2000,176.5,1656,Petrol,Automatic,110436,19.0
+Volkswagen,Taigun,2000,154.7,1758,Petrol,Automatic,196503,19.5
+Ford,Freestyle,1200,80.5,1189,Diesel,Manual,48414,23.8
+Hyundai,Creta,1800,103.9,1243,Petrol,Automatic,146227,20.3
+Tata,Harrier,1800,160.7,1039,Diesel,Manual,75736,23.7
+Ford,Freestyle,2200,127.3,961,Diesel,Manual,190201,20.3
+Honda,WR-V,2000,125.0,1240,Petrol,Automatic,62473,17.9
+BMW,520d,2000,175.8,1313,Diesel,Automatic,156429,22.1
+Ford,Ecosport,2500,170.6,1305,Diesel,Automatic,179558,19.1
+Tata,Harrier,1000,61.5,1822,Petrol,Automatic,123471,22.5
+Tata,Tiago,1600,144.7,1146,Petrol,Manual,4286,21.8
+Honda,City,1500,87.4,1807,Petrol,Manual,138506,21.7
+Ford,Freestyle,1800,168.7,1653,Diesel,Automatic,124252,23.2
+BMW,X3,2500,162.8,884,Petrol,Manual,113343,18.9
+Toyota,Glanza,1000,65.2,857,Petrol,Manual,139421,23.7
+Kia,Sonet,1600,141.4,1757,Diesel,Automatic,164553,22.7
+Ford,Aspire,1000,62.9,1417,Petrol,Manual,24866,23.8
+BMW,X1,1200,69.9,1391,Petrol,Automatic,21120,23.2
+Maruti Suzuki,WagonR,2000,123.0,1549,Diesel,Automatic,91550,20.9
+Ford,Aspire,1000,87.3,924,Diesel,Manual,185082,25.5
+BMW,X1,1600,147.7,1502,Diesel,Manual,112722,22.1
+Nissan,Micra,2000,143.4,1803,Diesel,Automatic,82326,19.8
+BMW,320i,1500,87.2,889,Diesel,Manual,124157,23.1
+Kia,Sonet,1500,127.5,1697,Petrol,Manual,161456,23.1
+Toyota,Corolla,1600,96.3,894,Diesel,Manual,69899,22.9
+Volkswagen,Polo,2000,153.3,1663,Petrol,Automatic,70533,17.5
+Honda,Amaze,1600,100.5,1675,Diesel,Automatic,67539,22.1
+Ford,Ecosport,1500,102.1,1381,Petrol,Manual,167366,21.6
+Maruti Suzuki,Swift,2200,183.5,1372,Diesel,Manual,100597,20.6
+Kia,Carens,1000,84.8,1496,Petrol,Manual,106081,24.3
+BMW,X3,1800,140.6,1431,Petrol,Automatic,11721,21.4
+Nissan,Sunny,1500,104.5,1680,Petrol,Manual,150383,21.2
+Maruti Suzuki,Baleno,1800,115.0,1183,Petrol,Automatic,144460,20.2
+Hyundai,i10,1200,67.5,1738,Diesel,Manual,96623,24.7
+Toyota,Yaris,1500,135.7,1357,Petrol,Automatic,131910,20.9
+Maruti Suzuki,Dzire,2000,114.0,1305,Diesel,Manual,184717,20.5
+Tata,Nexon,1200,79.8,1675,Diesel,Automatic,53256,23.3
+Toyota,Corolla,1500,88.5,1337,Petrol,Manual,36791,22.2
+Tata,Nexon,2200,147.4,944,Petrol,Automatic,97381,19.0
+Hyundai,Venue,2500,200.8,1799,Diesel,Manual,137639,19.5
+Kia,Carens,1000,60.3,1043,Petrol,Manual,7240,24.4
+BMW,X3,2200,175.5,1259,Diesel,Automatic,155604,18.8
+Tata,Nexon,1500,118.8,1456,Petrol,Automatic,53617,19.5
+Nissan,Sunny,2500,193.9,1497,Diesel,Automatic,65420,20.0
+Ford,Figo,2000,172.4,927,Diesel,Automatic,111383,20.6
+Kia,Seltos,1000,73.6,1241,Diesel,Automatic,190779,24.3
+Kia,Sonet,1600,116.8,1039,Diesel,Manual,106447,23.8
+Tata,Altroz,1600,109.7,1863,Petrol,Manual,81621,22.2
+Nissan,Kicks,2500,191.2,1379,Petrol,Manual,104880,18.7
+Hyundai,Venue,1600,119.8,1010,Petrol,Manual,48067,20.8
+Toyota,Glanza,2500,151.0,1245,Diesel,Automatic,147665,19.5
+Volkswagen,Taigun,1200,112.9,1329,Diesel,Manual,119434,23.8
+Toyota,Innova,1200,95.4,1484,Petrol,Automatic,94987,21.1
+Tata,Nexon,2200,126.6,1220,Diesel,Automatic,104056,22.0
+Kia,Sonet,1600,98.2,1683,Petrol,Automatic,57245,20.9
+Ford,Freestyle,1800,121.3,1461,Petrol,Automatic,136720,19.0
+Maruti Suzuki,Baleno,2000,168.2,917,Petrol,Automatic,104254,20.9
+Volkswagen,Vento,2000,169.8,1730,Diesel,Manual,72999,23.1
+Ford,Freestyle,2000,124.0,1748,Petrol,Automatic,160621,18.7
+Volkswagen,Polo,1500,117.4,1100,Diesel,Automatic,140418,23.9
+Toyota,Innova,1000,65.5,1088,Diesel,Automatic,15286,25.0
+Tata,Harrier,1600,131.5,912,Diesel,Automatic,1406,21.6
+Maruti Suzuki,WagonR,1000,57.9,1734,Diesel,Manual,17854,23.2
+Honda,Jazz,2200,135.4,1131,Petrol,Automatic,174060,18.1
+Honda,Civic,2200,191.2,1633,Diesel,Manual,120758,20.3
+Volkswagen,Vento,1600,107.7,1871,Petrol,Manual,8869,20.4
+Ford,Freestyle,2000,156.7,919,Petrol,Automatic,12546,20.8
+Volkswagen,Taigun,1000,66.6,959,Petrol,Automatic,64265,22.2
+Ford,Freestyle,1800,148.1,1028,Diesel,Automatic,159565,21.2
+Volkswagen,Vento,1000,57.7,1539,Petrol,Manual,24572,24.2
+Honda,Jazz,1500,132.4,1133,Diesel,Manual,144769,22.5
+Toyota,Innova,2200,158.0,1384,Petrol,Manual,78589,20.4
+BMW,X3,2200,159.1,1151,Diesel,Automatic,112640,22.0
+Tata,Tiago,1800,126.9,1183,Petrol,Automatic,182001,20.9
+Kia,Seltos,1000,88.8,1570,Petrol,Automatic,162716,21.2
+Maruti Suzuki,Swift,1500,135.3,1488,Diesel,Manual,36809,24.5
+Kia,Sonet,1800,108.0,1870,Petrol,Automatic,31084,20.0
+Hyundai,Venue,2200,162.2,1118,Petrol,Manual,38446,21.0
+Tata,Nexon,1500,94.6,1051,Diesel,Automatic,143118,23.7
+Volkswagen,Vento,2000,154.3,1439,Diesel,Automatic,88453,21.3
+Ford,Figo,1600,122.5,1281,Petrol,Automatic,77267,21.3
+Honda,City,2200,191.4,901,Diesel,Manual,107977,20.7
+Kia,Sonet,1200,103.3,1896,Petrol,Automatic,121340,21.4
+Nissan,Kicks,1600,115.8,1674,Diesel,Manual,89206,23.9
+Honda,Amaze,1000,86.8,995,Diesel,Automatic,6347,24.8
+Hyundai,Venue,1200,105.0,1712,Petrol,Manual,84753,22.8
+Toyota,Innova,2000,112.1,936,Diesel,Manual,26525,24.2
+Ford,Freestyle,2000,122.3,854,Diesel,Automatic,118394,21.1
+Kia,Carens,1200,70.1,1115,Petrol,Manual,63219,21.5
+Honda,City,2500,191.6,1886,Diesel,Automatic,41087,19.8
+Nissan,Kicks,1500,95.6,1057,Petrol,Manual,33203,21.3
+Toyota,Camry,1200,104.3,1127,Petrol,Automatic,4800,22.0
+Ford,Ecosport,1500,137.7,1754,Petrol,Manual,42789,22.7
+Volkswagen,Vento,1500,138.7,962,Diesel,Automatic,26409,24.7
+Kia,Seltos,1800,116.4,1763,Petrol,Manual,191548,21.0
+BMW,X1,2200,142.1,1552,Diesel,Automatic,150616,20.3
+Nissan,Micra,1600,118.6,1865,Diesel,Automatic,59449,22.6
+Hyundai,i10,2000,121.7,1002,Petrol,Automatic,66236,20.8
+Toyota,Glanza,1600,147.4,1305,Diesel,Manual,81819,23.5
+BMW,X1,2200,130.7,1886,Diesel,Manual,7419,21.6
+Tata,Nexon,2500,225.2,1283,Diesel,Automatic,105029,18.5
+Toyota,Corolla,1800,149.2,1333,Diesel,Manual,41794,22.5
+Nissan,Micra,2200,127.7,1635,Diesel,Automatic,58818,21.0
+Tata,Altroz,1800,118.4,1257,Diesel,Automatic,185540,22.0
+Kia,Seltos,1600,107.6,1442,Petrol,Manual,124636,22.7
+Hyundai,Venue,1000,82.8,949,Diesel,Manual,198440,23.3
+Toyota,Glanza,2500,226.1,989,Petrol,Manual,188950,19.8
+Kia,Carens,1200,88.5,1840,Petrol,Manual,100690,23.8
+Tata,Altroz,1500,118.1,1581,Diesel,Automatic,184933,22.8
+Hyundai,i20,1200,98.5,1142,Diesel,Automatic,192461,23.6
+Volkswagen,Taigun,2500,212.1,1724,Petrol,Manual,17547,18.9
+Ford,Aspire,1200,111.8,1621,Diesel,Automatic,55177,24.4
+Volkswagen,Vento,1500,111.4,1614,Diesel,Manual,133849,22.6
+BMW,X1,1600,133.3,1050,Diesel,Automatic,101270,23.2
+Volkswagen,Vento,2000,165.2,1179,Diesel,Automatic,22988,20.9
+Hyundai,Venue,2200,189.0,1637,Petrol,Manual,101248,20.1
+Tata,Harrier,1500,94.8,1254,Petrol,Automatic,92228,20.2
+Tata,Tiago,2500,141.4,1620,Diesel,Manual,136699,19.3
+Honda,Civic,1800,120.3,1456,Diesel,Automatic,140218,21.7
+Volkswagen,Taigun,1200,91.8,1786,Diesel,Automatic,76293,22.7
+Maruti Suzuki,Ciaz,1200,111.4,1655,Petrol,Automatic,38496,21.5
+Ford,Aspire,2200,181.3,1644,Petrol,Manual,156949,19.2
+Maruti Suzuki,Ciaz,2200,179.7,1836,Petrol,Automatic,23148,19.3
+Maruti Suzuki,WagonR,1500,129.9,1086,Petrol,Automatic,114539,20.4
+Nissan,Sunny,2000,122.5,1646,Diesel,Automatic,35244,21.4
+Maruti Suzuki,Ciaz,1000,65.1,1095,Petrol,Manual,111399,23.7
+Ford,Freestyle,1000,56.1,1797,Diesel,Manual,185031,25.4
+Maruti Suzuki,Ciaz,2200,130.4,1294,Diesel,Manual,51913,22.4
+Hyundai,Venue,1600,119.7,1759,Diesel,Manual,104503,21.5
+Ford,Ecosport,1800,113.4,1131,Petrol,Manual,175801,21.6
+Maruti Suzuki,Ciaz,1200,81.4,1559,Petrol,Automatic,41159,20.3
+Hyundai,i10,2000,132.3,949,Diesel,Automatic,168596,20.4
+Honda,City,1500,116.2,882,Diesel,Automatic,140335,22.5
+Toyota,Glanza,1000,76.9,1695,Diesel,Manual,71092,25.7
+BMW,520d,2200,130.5,1240,Diesel,Automatic,114119,21.7
+Maruti Suzuki,Ciaz,1800,144.9,1219,Diesel,Manual,50267,22.7
+BMW,X3,2000,164.3,1238,Petrol,Manual,86358,21.3
+Maruti Suzuki,WagonR,1600,119.4,1750,Petrol,Manual,15694,21.1
+Volkswagen,Taigun,1200,88.0,1013,Petrol,Automatic,1293,22.5
+Volkswagen,Taigun,2500,201.4,1587,Diesel,Automatic,178563,18.4
+Hyundai,i10,1200,76.0,1462,Diesel,Manual,128643,25.5
+Toyota,Yaris,2000,150.0,1371,Diesel,Automatic,6109,23.1
+Nissan,Micra,1800,156.2,1604,Petrol,Automatic,57221,20.6
+Volkswagen,Vento,1600,142.4,1029,Diesel,Automatic,129604,24.0
+Tata,Altroz,1000,70.5,1113,Petrol,Automatic,48008,21.4
+Nissan,Micra,1000,58.4,1512,Diesel,Manual,87594,25.2
+Kia,Carens,1200,113.2,1260,Diesel,Automatic,80897,23.6
+Maruti Suzuki,WagonR,1000,69.8,1752,Diesel,Automatic,140088,23.9
+Honda,Civic,2200,146.9,1860,Petrol,Automatic,147787,19.5
+BMW,X3,2000,110.1,1017,Diesel,Manual,141049,22.6
+BMW,X3,2000,160.9,1516,Petrol,Manual,99236,21.5
+Nissan,Kicks,1800,139.7,1574,Diesel,Automatic,197556,20.7
+Nissan,Sunny,2200,183.8,1441,Petrol,Automatic,135056,19.7
+Tata,Harrier,1000,70.7,1428,Diesel,Manual,178240,23.9
+Ford,Figo,1800,125.7,1005,Diesel,Automatic,163180,21.9
+Toyota,Corolla,1600,139.9,1234,Diesel,Automatic,155709,21.6
+Hyundai,Verna,1200,88.0,1747,Diesel,Automatic,22770,22.2
+Tata,Altroz,1200,86.4,1203,Petrol,Manual,111909,21.5
+Kia,Carens,1800,152.0,1060,Petrol,Manual,69733,21.5
+Tata,Nexon,2000,144.0,1062,Diesel,Automatic,148581,20.5
+BMW,520d,2200,150.0,1640,Petrol,Automatic,34110,19.5
+BMW,X3,1500,105.6,892,Petrol,Automatic,57121,20.8
+Maruti Suzuki,WagonR,1500,125.9,1655,Petrol,Manual,109839,21.6
+Toyota,Innova,2000,135.6,1336,Diesel,Automatic,156583,22.4
+Toyota,Innova,2500,211.1,1204,Diesel,Automatic,161668,18.4
+Volkswagen,Taigun,2200,143.8,994,Diesel,Automatic,41026,19.1
+Ford,Aspire,1500,91.0,1026,Diesel,Automatic,58578,21.2
+Maruti Suzuki,WagonR,1000,60.3,1768,Diesel,Manual,147086,23.7
+Hyundai,i20,1500,118.8,900,Petrol,Automatic,138983,20.7
+Toyota,Camry,1000,92.3,1607,Petrol,Manual,79880,22.7
+Hyundai,Venue,2000,125.7,1496,Petrol,Manual,132713,19.3
+Volkswagen,Taigun,2200,148.2,1291,Diesel,Manual,39060,20.1
+Nissan,Kicks,1800,112.3,1421,Diesel,Automatic,7894,20.5
+Nissan,Kicks,1500,125.2,1157,Petrol,Automatic,165479,20.8
+Hyundai,Venue,1800,154.9,1678,Diesel,Manual,62867,20.9
+Honda,Jazz,1000,92.2,1826,Petrol,Automatic,163490,23.1
+Honda,Jazz,2200,165.5,954,Diesel,Manual,152359,23.1
+Volkswagen,Vento,1500,108.9,852,Petrol,Automatic,99395,20.7
+Tata,Altroz,1800,139.8,1620,Diesel,Automatic,193776,21.1
+Hyundai,i10,2000,115.2,1130,Diesel,Automatic,143851,21.3
+Hyundai,i20,2500,144.7,1350,Diesel,Automatic,64493,20.6
+Kia,Carens,2200,180.1,1895,Petrol,Manual,149221,18.5
+Toyota,Yaris,2500,186.8,1048,Petrol,Automatic,102666,17.8
+Ford,Aspire,1800,121.2,1229,Diesel,Automatic,113635,22.0
+Volkswagen,Taigun,1500,99.7,1357,Diesel,Manual,106776,22.6
+Volkswagen,Taigun,2000,166.1,1878,Diesel,Automatic,193131,22.3
+Kia,Seltos,1000,56.7,1126,Diesel,Automatic,110195,24.5
+Kia,Sonet,2000,176.0,1761,Diesel,Manual,105556,22.2
+Toyota,Innova,2200,172.1,988,Diesel,Manual,5192,20.4
+Nissan,Micra,1000,57.7,1738,Petrol,Automatic,30623,21.5
+Nissan,Micra,1200,109.0,1756,Petrol,Automatic,180077,22.6
+Kia,Carens,2500,161.5,1302,Petrol,Automatic,16050,16.7
+Hyundai,i10,1600,96.0,1096,Petrol,Manual,102634,21.5
+Hyundai,i10,1500,90.3,1729,Petrol,Manual,123478,21.8
+Hyundai,i10,2000,142.5,1441,Petrol,Manual,26402,20.9
+Ford,Ecosport,1500,125.5,1178,Petrol,Automatic,79279,21.2
+Honda,Jazz,1800,115.5,915,Diesel,Manual,155122,22.3
+Hyundai,Verna,1500,93.3,1761,Diesel,Manual,64494,22.4
+Nissan,Micra,2500,229.2,1662,Petrol,Automatic,155853,16.3
+Kia,Seltos,1500,114.7,1127,Diesel,Automatic,125071,22.8
+Nissan,Sunny,2500,215.7,1362,Petrol,Automatic,67165,18.0
+Toyota,Innova,1500,115.8,1420,Petrol,Automatic,134928,19.9
+Maruti Suzuki,Dzire,1800,126.5,1308,Diesel,Automatic,149322,20.3
+Toyota,Corolla,1600,89.4,1489,Diesel,Manual,124991,23.8
+Honda,WR-V,2500,176.6,1501,Diesel,Automatic,89754,20.6
+Volkswagen,Polo,1800,165.0,1837,Diesel,Manual,10714,23.0
+Hyundai,i10,1500,109.0,959,Petrol,Automatic,63827,21.3
+Volkswagen,Polo,1200,90.6,1806,Petrol,Manual,45249,23.0
+BMW,X1,1500,119.0,1424,Diesel,Manual,183948,23.3
+Hyundai,Creta,2500,141.5,1603,Petrol,Manual,53050,18.2
+Nissan,Sunny,1000,65.4,1132,Petrol,Automatic,43210,21.5
+Toyota,Corolla,2200,198.8,1805,Diesel,Automatic,67008,21.6
+Ford,Ecosport,1500,124.5,1351,Diesel,Manual,177882,23.6
+Hyundai,i10,2200,201.2,1453,Petrol,Automatic,62337,18.5
+Maruti Suzuki,Ciaz,2200,149.3,1120,Petrol,Manual,20296,18.9
+Volkswagen,Taigun,2200,133.2,880,Diesel,Manual,153625,21.7
+Toyota,Camry,2500,192.3,1449,Petrol,Automatic,174793,18.6
+Volkswagen,Polo,2200,159.7,1374,Petrol,Automatic,74035,19.4
+Ford,Ecosport,2500,224.1,875,Petrol,Manual,117116,18.2
+Toyota,Camry,1800,141.7,1173,Petrol,Automatic,151733,19.3
+Volkswagen,Polo,2500,220.3,1315,Petrol,Automatic,62798,19.6
+Ford,Freestyle,1500,138.7,1677,Diesel,Automatic,104328,23.4
+BMW,X1,2500,203.7,1527,Diesel,Automatic,48829,20.5
+Toyota,Innova,1000,72.8,1219,Petrol,Manual,73835,23.3
+Maruti Suzuki,Dzire,1600,139.5,1141,Diesel,Automatic,36954,21.1
+Volkswagen,Polo,1800,126.0,1009,Diesel,Manual,169278,22.8
+Hyundai,Venue,2200,143.3,1185,Diesel,Manual,35734,23.3
+Nissan,Kicks,1200,79.5,945,Petrol,Manual,16513,22.5
+Tata,Altroz,1000,73.1,1445,Petrol,Automatic,165135,23.4
+Toyota,Innova,2200,134.9,1239,Diesel,Automatic,143076,20.0
+Toyota,Innova,1500,113.4,1599,Diesel,Manual,57785,24.1
+BMW,X3,1600,144.0,1555,Petrol,Manual,79734,20.3
+Maruti Suzuki,Ciaz,1200,72.3,1736,Diesel,Automatic,114629,25.2
+Honda,Jazz,1500,96.9,1529,Diesel,Manual,18429,23.1
+Volkswagen,Polo,2500,209.0,1096,Diesel,Manual,4666,22.1
+Hyundai,i10,1000,55.7,1338,Diesel,Automatic,134022,23.8
+Honda,Jazz,2500,225.2,1442,Diesel,Automatic,184959,17.9
+Honda,Civic,1600,147.0,1145,Diesel,Automatic,19892,22.8
+Honda,Civic,2500,217.0,1136,Diesel,Manual,10243,21.5
+Kia,Carens,2000,110.7,956,Diesel,Manual,42222,22.7
+Kia,Seltos,1800,101.6,1253,Diesel,Manual,57866,23.0
+Hyundai,i10,1200,73.7,1373,Diesel,Manual,101633,23.6
+BMW,X1,2000,172.6,1600,Petrol,Automatic,135698,18.3
+Tata,Tiago,1200,78.1,1790,Diesel,Manual,116748,22.8
+Kia,Carens,1500,121.9,927,Petrol,Manual,27865,21.5
+Toyota,Corolla,2200,149.5,1302,Petrol,Automatic,112154,19.2
+Toyota,Yaris,1000,58.7,863,Diesel,Automatic,82652,23.2
+Ford,Ecosport,1200,87.4,1557,Diesel,Automatic,110309,23.4
+Tata,Nexon,2000,166.5,1556,Diesel,Manual,62915,22.2
+Kia,Sonet,2000,123.0,897,Diesel,Manual,179712,21.0
+Maruti Suzuki,Baleno,2000,131.7,1626,Diesel,Automatic,145660,20.8
+Tata,Harrier,1600,139.6,1866,Diesel,Automatic,62555,23.0
+Honda,Jazz,1200,104.5,1458,Diesel,Manual,199720,23.4
+Kia,Carens,1500,127.6,1463,Diesel,Manual,23477,21.6
+Tata,Harrier,2000,182.3,1353,Diesel,Manual,167190,23.0
+Maruti Suzuki,Swift,1600,137.9,1885,Petrol,Automatic,123288,19.2
+Ford,Figo,2200,153.7,1684,Petrol,Manual,21029,18.8
+Nissan,Sunny,1600,121.3,1175,Diesel,Manual,57328,22.6
+Maruti Suzuki,Baleno,1200,97.5,1089,Petrol,Automatic,77081,23.5
+Honda,Amaze,1500,128.1,1880,Petrol,Automatic,75244,19.8
+Ford,Ecosport,2000,177.0,1507,Petrol,Manual,139224,21.6
+Hyundai,i20,2200,124.0,1607,Petrol,Automatic,151836,18.4
+Tata,Nexon,1600,109.6,1312,Petrol,Automatic,152442,19.2
+Volkswagen,Taigun,2000,145.7,1540,Petrol,Automatic,103307,20.0
+Ford,Freestyle,1800,157.6,1151,Petrol,Automatic,160768,19.2
+Honda,WR-V,1200,93.5,1478,Petrol,Automatic,17551,22.0
+Kia,Seltos,1200,76.7,855,Petrol,Manual,52200,22.3
+Nissan,Micra,1500,132.6,1752,Petrol,Automatic,56695,21.8
+Toyota,Camry,1800,139.8,1476,Diesel,Automatic,12309,22.1
+BMW,X3,1600,150.5,1587,Diesel,Manual,95138,22.1
+Hyundai,i10,2000,118.1,1757,Petrol,Manual,41472,20.0
+Hyundai,Venue,2000,175.9,1808,Petrol,Automatic,191248,19.7
+Toyota,Glanza,1800,115.1,1579,Diesel,Automatic,116679,20.9
+BMW,320i,2200,185.3,1835,Petrol,Automatic,100676,18.1
+Nissan,Micra,1500,109.6,1267,Diesel,Manual,140467,23.3
+Hyundai,Verna,1000,71.1,1407,Diesel,Manual,197494,26.7
+Hyundai,Creta,2000,177.3,1092,Diesel,Automatic,84604,22.5
+Honda,WR-V,1600,146.0,1713,Diesel,Manual,176839,22.2
+Nissan,Micra,1500,116.3,1538,Petrol,Automatic,100092,19.2
+Hyundai,i20,1200,103.6,1372,Petrol,Automatic,144421,21.5
+Kia,Sonet,1000,72.8,929,Diesel,Manual,100301,24.1
+Honda,Civic,1800,169.9,1214,Diesel,Automatic,131410,22.9
+Kia,Seltos,2000,168.5,1786,Diesel,Automatic,29847,22.6
+Honda,Jazz,1200,99.7,1720,Petrol,Manual,88205,23.9
+Nissan,Kicks,2000,143.2,1058,Diesel,Manual,189404,22.7
+Hyundai,Creta,1000,59.3,1327,Petrol,Automatic,105398,21.8
+Volkswagen,Vento,1000,88.6,1699,Diesel,Automatic,61052,23.3
+Kia,Seltos,1800,159.1,1043,Petrol,Automatic,183906,20.0
+Ford,Aspire,2200,154.3,1443,Petrol,Manual,110140,19.0
+Ford,Freestyle,1500,87.9,1781,Petrol,Automatic,58358,22.3
+Honda,WR-V,1500,90.8,1079,Diesel,Manual,6090,23.6
+BMW,320i,1600,150.8,1422,Diesel,Manual,80028,23.7
+Honda,Jazz,2500,172.4,1197,Petrol,Automatic,116904,17.4
+Tata,Tiago,1500,126.1,1564,Diesel,Manual,91096,21.4
+Toyota,Glanza,1500,134.2,981,Petrol,Automatic,19850,20.9
+Toyota,Camry,1600,148.2,1460,Diesel,Automatic,115978,22.9
+Volkswagen,Vento,2500,164.1,1330,Petrol,Automatic,42977,18.1
+Volkswagen,Polo,1500,127.2,1778,Diesel,Automatic,163681,24.3
+Tata,Nexon,1200,100.6,1205,Petrol,Automatic,178380,21.5
+Kia,Carens,2500,155.5,1010,Diesel,Automatic,170405,17.5
+Ford,Aspire,2500,221.5,1182,Diesel,Manual,181647,20.8
+Hyundai,Verna,1500,141.0,1608,Diesel,Manual,195247,23.5
+Hyundai,Verna,2000,185.0,1297,Diesel,Automatic,174794,22.2
+Hyundai,Venue,1600,112.6,1797,Petrol,Automatic,133527,21.4
+BMW,520d,1600,143.8,1304,Petrol,Manual,122321,22.0
+Ford,Aspire,2500,179.6,1004,Diesel,Manual,50185,20.6
+Toyota,Yaris,1600,117.0,1071,Petrol,Manual,159376,20.8
+Maruti Suzuki,WagonR,2500,150.5,1470,Diesel,Manual,165611,19.7
+Volkswagen,Polo,1800,155.3,1636,Diesel,Automatic,95304,23.6
+Kia,Carens,1200,88.1,1235,Petrol,Manual,37545,22.3
+Honda,City,1600,127.8,1799,Petrol,Automatic,1550,19.9
+Kia,Sonet,1000,79.6,1582,Petrol,Automatic,91958,21.4
+Ford,Figo,1600,119.5,939,Diesel,Automatic,125273,22.0
+Ford,Ecosport,1600,136.2,1520,Diesel,Automatic,83358,22.9
+Volkswagen,Polo,1000,87.8,1208,Petrol,Automatic,5428,21.0
+BMW,320i,1600,131.7,1687,Petrol,Automatic,72819,19.3
+Hyundai,Verna,1000,77.7,1806,Petrol,Manual,178516,23.5
+Maruti Suzuki,Baleno,2500,140.9,1707,Petrol,Manual,79774,18.3
+Ford,Freestyle,1500,123.6,988,Diesel,Manual,71501,25.4
+Ford,Aspire,1200,91.7,1856,Petrol,Automatic,167358,23.0
+Ford,Freestyle,1600,142.0,1497,Petrol,Automatic,61876,21.2
+Honda,Jazz,1600,115.7,1639,Petrol,Manual,64765,22.0
+Honda,Jazz,1500,103.3,1390,Petrol,Automatic,7076,20.7
+Maruti Suzuki,WagonR,1200,69.4,1477,Diesel,Manual,188667,24.3
+Honda,WR-V,1200,97.9,1626,Diesel,Automatic,73662,22.1
+Ford,Figo,2200,147.3,1006,Petrol,Manual,188273,19.6
+Toyota,Innova,2000,162.2,1851,Diesel,Manual,29895,20.8
+Maruti Suzuki,Dzire,1000,58.4,1804,Petrol,Automatic,173994,23.0
+Tata,Harrier,1800,117.5,1602,Diesel,Automatic,120587,22.2
+Maruti Suzuki,Ciaz,1500,95.2,1224,Diesel,Manual,65445,24.1
+BMW,320i,2000,174.0,1402,Petrol,Automatic,10337,20.5
+Maruti Suzuki,Ciaz,1800,156.8,1196,Petrol,Automatic,164067,18.3
+Ford,Figo,2200,201.1,1390,Diesel,Automatic,191082,19.8
+Nissan,Micra,2000,120.3,1371,Diesel,Manual,187837,21.9
+Kia,Seltos,1800,107.5,1851,Diesel,Automatic,26621,21.8
+Honda,Amaze,1800,155.5,1592,Petrol,Manual,51152,21.2
+Honda,Jazz,1600,132.7,998,Petrol,Manual,104623,22.8
+Maruti Suzuki,WagonR,2000,173.1,1688,Diesel,Manual,27333,22.7
+Tata,Nexon,2500,177.5,863,Petrol,Manual,199923,20.1
+Ford,Freestyle,2000,166.6,1051,Petrol,Manual,171069,19.9
+Hyundai,Creta,2000,161.8,1534,Petrol,Manual,122287,20.2
+Maruti Suzuki,WagonR,1500,112.9,1568,Diesel,Manual,183669,23.3
+Kia,Carens,1500,92.9,1022,Petrol,Automatic,125023,20.6
+Ford,Aspire,1200,73.1,864,Diesel,Automatic,97978,22.8
+Honda,City,1500,129.5,971,Diesel,Manual,79765,24.0
+Maruti Suzuki,Ciaz,1600,143.2,1423,Petrol,Manual,4443,20.3
+Maruti Suzuki,Dzire,1600,150.1,1250,Diesel,Automatic,69343,23.9
+Honda,Jazz,2500,219.3,1240,Diesel,Manual,149348,20.6
+Hyundai,Verna,1800,153.9,1127,Petrol,Automatic,102120,20.2
+Volkswagen,Vento,2500,206.4,1656,Petrol,Manual,97822,19.3
+Nissan,Micra,1200,108.4,1166,Diesel,Automatic,20821,23.8
+Toyota,Camry,1000,86.2,1290,Diesel,Automatic,182856,26.3
+BMW,520d,2200,168.4,1004,Diesel,Automatic,116078,19.6
+Nissan,Kicks,2000,181.7,885,Diesel,Automatic,17399,21.0
+Toyota,Yaris,1500,122.6,1597,Petrol,Automatic,28034,21.5
+Maruti Suzuki,Dzire,2500,143.6,1032,Petrol,Manual,54678,19.8
+Toyota,Glanza,1200,76.5,1009,Petrol,Automatic,46991,21.9
+Tata,Altroz,1800,167.8,1697,Petrol,Automatic,25881,21.1
+Ford,Aspire,1600,117.7,1189,Petrol,Manual,63490,22.0
+Toyota,Innova,1600,123.3,1403,Petrol,Manual,196059,21.7
+Nissan,Micra,1200,89.2,1533,Diesel,Manual,95457,24.0
+Maruti Suzuki,Dzire,1500,123.1,993,Diesel,Manual,34490,22.6
+Volkswagen,Vento,2500,174.3,1488,Diesel,Manual,169883,20.0
+Maruti Suzuki,Dzire,2500,182.5,1205,Diesel,Automatic,191224,18.7
+Maruti Suzuki,Dzire,2000,128.6,1476,Petrol,Manual,14380,19.7
+Toyota,Camry,1200,73.4,1715,Petrol,Manual,22810,23.0
+Honda,WR-V,1200,99.9,1470,Diesel,Manual,55568,23.8
+BMW,320i,1600,102.4,1059,Petrol,Automatic,103886,21.4
+Volkswagen,Taigun,2200,205.8,1627,Petrol,Manual,55715,20.0
+Hyundai,Verna,1600,148.6,1707,Diesel,Automatic,98283,21.6
+Nissan,Micra,1500,97.6,1243,Petrol,Manual,110398,22.6
+Hyundai,i10,2000,125.3,1113,Diesel,Automatic,157915,19.9
+Toyota,Glanza,1800,154.9,1138,Petrol,Manual,187336,20.2
+Hyundai,Verna,2200,187.8,1142,Petrol,Manual,152041,19.8
+Maruti Suzuki,Swift,1500,89.2,1281,Petrol,Automatic,63135,21.5
+Nissan,Micra,2000,121.1,1457,Petrol,Automatic,15332,18.5
+Ford,Aspire,1600,140.0,1618,Diesel,Manual,17280,21.4
+Toyota,Yaris,2200,208.0,1316,Petrol,Manual,169274,20.9
+Volkswagen,Taigun,1800,108.7,1868,Diesel,Manual,148711,21.6
+Volkswagen,Taigun,1800,160.7,1227,Petrol,Automatic,24778,18.9
+Kia,Seltos,1000,56.8,1787,Petrol,Manual,130771,24.2
+Honda,Jazz,1500,102.7,1077,Diesel,Automatic,107272,22.5
+BMW,520d,1000,77.4,1094,Petrol,Manual,151906,23.6
+Tata,Harrier,2500,157.1,1213,Diesel,Automatic,60004,20.6
+Volkswagen,Vento,2200,188.3,1386,Petrol,Automatic,40655,18.0
+Toyota,Corolla,1500,99.2,1225,Petrol,Manual,81088,21.8
+Hyundai,Venue,1800,161.3,1569,Petrol,Manual,58398,20.1
+BMW,320i,1200,87.0,866,Petrol,Manual,170263,23.1
+Volkswagen,Taigun,2000,159.1,1561,Petrol,Automatic,169224,18.4
+Nissan,Kicks,1500,133.2,1707,Diesel,Automatic,54765,23.4
+Maruti Suzuki,Baleno,2200,187.6,1038,Diesel,Automatic,77544,20.3
+Hyundai,i10,1500,98.9,1442,Petrol,Manual,124398,21.7
+Tata,Harrier,2000,115.3,1086,Diesel,Manual,183697,21.8
+Ford,Figo,2500,225.3,949,Petrol,Manual,175822,18.0
+Honda,Civic,2200,194.8,1498,Diesel,Automatic,95712,20.6
+Hyundai,Venue,2500,142.3,1287,Petrol,Manual,64197,18.3
+Nissan,Kicks,1800,114.6,880,Diesel,Manual,75873,23.8
+Volkswagen,Vento,1000,71.9,1783,Petrol,Automatic,139536,22.4
+Nissan,Micra,2200,179.7,1222,Petrol,Manual,147336,20.4
+Ford,Aspire,1200,67.1,1460,Petrol,Automatic,174692,20.7
+Honda,City,1600,108.8,923,Diesel,Automatic,82673,22.5
+Honda,Civic,1800,123.7,1190,Petrol,Manual,59885,22.3
+BMW,520d,2000,128.7,1260,Petrol,Manual,22255,20.4
+Kia,Seltos,2200,146.7,1863,Diesel,Automatic,61485,21.6
+Hyundai,i10,2200,174.7,1390,Petrol,Automatic,192606,17.7
+Volkswagen,Vento,2200,169.4,985,Diesel,Automatic,23663,22.3
+Nissan,Micra,1000,92.9,1476,Petrol,Manual,154019,24.1
+Tata,Tiago,2500,223.5,1040,Petrol,Automatic,156767,18.1
+Maruti Suzuki,Baleno,1000,71.1,1351,Petrol,Automatic,181635,22.9
+Nissan,Kicks,1800,154.8,1561,Diesel,Automatic,179734,22.6
+Ford,Figo,1000,84.9,1463,Petrol,Automatic,172423,21.3
+Tata,Harrier,1600,120.5,890,Petrol,Manual,109083,22.6
+Honda,Jazz,1800,131.5,1364,Petrol,Manual,11791,19.7
+Hyundai,Venue,1000,69.8,1307,Diesel,Automatic,17696,24.4
+Honda,Amaze,1800,129.5,927,Diesel,Manual,85551,21.9
+Kia,Sonet,1500,112.3,1824,Diesel,Automatic,45388,21.3
+Kia,Carens,2500,165.7,1465,Petrol,Manual,55560,20.2
+Ford,Freestyle,1000,83.1,1774,Diesel,Manual,79478,23.6
+Kia,Seltos,2000,132.7,1106,Diesel,Automatic,115116,21.2
+Honda,Civic,2000,154.4,1119,Petrol,Manual,81128,21.7
+Hyundai,i20,1500,123.7,1895,Petrol,Manual,155386,22.0
+Ford,Ecosport,1200,103.8,1480,Diesel,Automatic,87874,24.6
+Tata,Tiago,1600,95.4,1309,Diesel,Manual,128765,22.3
+Toyota,Camry,1000,72.2,1452,Diesel,Automatic,100655,23.7
+Tata,Harrier,1500,87.9,1500,Petrol,Manual,145915,23.3
+Maruti Suzuki,WagonR,2500,235.9,1087,Diesel,Automatic,94369,18.3
+BMW,520d,2000,110.4,1376,Petrol,Manual,142252,19.3
+Toyota,Camry,1000,87.6,1412,Petrol,Manual,67072,23.9
+Nissan,Kicks,2200,208.4,917,Diesel,Automatic,166265,19.7
+Toyota,Innova,1600,124.7,1650,Petrol,Manual,168769,22.3
+Tata,Nexon,2200,161.1,1656,Petrol,Manual,11250,20.9
+Hyundai,Creta,1800,149.9,1217,Diesel,Automatic,176269,20.6
+Nissan,Sunny,1600,144.2,1373,Petrol,Automatic,25085,21.7
+Tata,Nexon,1500,127.5,899,Petrol,Manual,124947,22.6
+Nissan,Kicks,1000,76.8,1887,Diesel,Manual,180263,23.8
+Tata,Harrier,2500,213.1,1333,Petrol,Automatic,149589,18.1
+Ford,Ecosport,2200,124.1,1499,Diesel,Automatic,124753,19.8
+Volkswagen,Vento,2200,123.0,1161,Petrol,Automatic,118917,19.7
+Toyota,Innova,1600,102.5,1130,Diesel,Manual,5017,22.0
+Ford,Ecosport,1000,74.5,1016,Diesel,Automatic,52158,24.9
+Volkswagen,Vento,2200,140.3,1747,Diesel,Automatic,15746,21.5
+Nissan,Micra,1500,97.4,1813,Diesel,Manual,120342,25.2
+Kia,Sonet,1200,108.6,1826,Diesel,Automatic,13769,24.5
+Tata,Nexon,1600,124.8,1451,Petrol,Automatic,74712,19.6
+Honda,City,1200,92.6,1396,Diesel,Automatic,110061,24.4
+Nissan,Micra,2200,141.9,1855,Diesel,Manual,111808,19.7
+Hyundai,Verna,1600,104.9,1290,Diesel,Automatic,143172,21.9
+Honda,Civic,2500,227.8,1165,Petrol,Manual,91871,20.0
+Toyota,Yaris,1200,112.2,1696,Diesel,Automatic,44986,22.5
+Honda,Civic,1800,106.3,1141,Petrol,Manual,176426,22.4
+BMW,X3,1800,118.3,1233,Diesel,Manual,198981,21.8
+BMW,320i,2200,170.4,1165,Diesel,Manual,19804,22.7
+Maruti Suzuki,Ciaz,1200,89.8,1695,Petrol,Automatic,102710,22.6
+Honda,Amaze,2500,160.4,1846,Diesel,Automatic,163540,19.3
+Maruti Suzuki,Ciaz,1200,102.7,1836,Petrol,Manual,136323,24.1
+Honda,WR-V,1000,94.8,1103,Diesel,Manual,133291,24.3
+Kia,Seltos,2500,221.7,1450,Diesel,Manual,132977,21.0
+Kia,Sonet,1600,121.1,1207,Diesel,Manual,120402,22.8
+Nissan,Sunny,2500,221.3,1500,Diesel,Automatic,133800,20.5
+Tata,Nexon,2200,191.2,898,Diesel,Automatic,37040,21.2
+Ford,Freestyle,2200,181.0,1278,Petrol,Manual,37936,20.2
+BMW,X3,1200,74.9,1027,Petrol,Automatic,164206,20.8
+Tata,Nexon,2500,148.7,1109,Diesel,Manual,95408,19.4
+Tata,Altroz,1200,94.3,1571,Diesel,Manual,95770,24.2
+Tata,Tiago,1800,103.7,948,Petrol,Automatic,84818,20.5
+Honda,Civic,1600,105.5,1513,Petrol,Automatic,52277,21.4
+Ford,Freestyle,2000,149.6,1100,Petrol,Automatic,61712,17.7
+Tata,Tiago,1800,165.6,1071,Petrol,Automatic,97127,21.2
+Nissan,Micra,2500,175.6,1762,Petrol,Manual,21126,19.1
+Tata,Tiago,2500,140.6,1224,Diesel,Manual,54129,19.9
+Hyundai,i20,1600,99.1,1159,Diesel,Manual,37712,24.9
+Kia,Carens,1600,146.8,909,Petrol,Manual,40496,20.6
+Volkswagen,Polo,1000,67.3,1413,Petrol,Automatic,110311,21.7
+Volkswagen,Polo,1000,56.9,1317,Diesel,Manual,54843,25.3
+Toyota,Corolla,1000,80.4,993,Petrol,Automatic,62000,23.8
+Ford,Ecosport,2200,180.9,1177,Diesel,Manual,78366,20.8
+Toyota,Glanza,2500,203.1,1689,Diesel,Automatic,48857,19.9
+Hyundai,i10,2200,165.7,1581,Petrol,Automatic,10386,17.7
+Volkswagen,Vento,2200,186.9,1526,Petrol,Automatic,147185,17.8
+BMW,X1,1000,87.3,1617,Petrol,Automatic,114951,23.6
+Kia,Seltos,1000,66.2,1615,Petrol,Manual,78902,23.0
+Ford,Aspire,2500,165.4,1569,Petrol,Manual,141316,18.9
+Maruti Suzuki,Ciaz,1500,90.1,1101,Diesel,Manual,131485,22.2
+Hyundai,Verna,2000,159.9,1873,Petrol,Manual,40926,20.8
+Volkswagen,Polo,1200,101.5,1668,Petrol,Manual,176527,24.1
+BMW,X3,1600,143.7,1098,Petrol,Manual,97725,21.5
+Maruti Suzuki,Dzire,2000,124.2,1169,Petrol,Automatic,24928,17.7
+Honda,Amaze,1600,140.5,870,Diesel,Automatic,102644,21.9
+BMW,X3,2200,181.5,1784,Diesel,Automatic,178615,20.6
+BMW,X3,1800,165.1,1772,Petrol,Manual,198818,22.0
+BMW,X1,2000,140.6,1197,Diesel,Automatic,160640,20.6
+Toyota,Glanza,1000,65.2,1152,Diesel,Manual,178085,25.4
+Toyota,Yaris,1200,93.8,1880,Petrol,Automatic,96439,20.5
+Toyota,Camry,2000,146.4,1620,Diesel,Manual,53747,22.9
+Ford,Freestyle,2200,173.6,1557,Diesel,Automatic,156514,20.6
+Kia,Carens,2000,130.6,1494,Diesel,Manual,183577,23.2
+Tata,Tiago,1200,87.4,1592,Petrol,Manual,112582,21.3
+Kia,Seltos,2500,197.9,1643,Petrol,Manual,102725,19.2
+Tata,Altroz,1000,69.7,1200,Diesel,Automatic,47700,24.7
+Maruti Suzuki,Swift,2500,190.6,1724,Petrol,Manual,161606,18.1
+Ford,Aspire,1600,93.9,1810,Petrol,Manual,117088,20.9
+Maruti Suzuki,Baleno,2500,164.8,1045,Petrol,Automatic,60176,16.5
+Toyota,Camry,2500,185.9,1723,Petrol,Manual,88446,18.6
+Maruti Suzuki,WagonR,1500,88.2,1642,Diesel,Manual,107588,23.9
+BMW,X1,2000,172.9,1031,Diesel,Automatic,76321,21.3
+Toyota,Glanza,1500,83.6,1676,Diesel,Automatic,7245,23.9
+Maruti Suzuki,Swift,2500,142.3,1302,Diesel,Manual,127442,21.7
+Nissan,Sunny,1500,133.4,1566,Petrol,Automatic,101063,21.5
+BMW,X3,2500,186.8,1841,Diesel,Automatic,79661,19.6
+Ford,Aspire,1500,113.0,1661,Diesel,Automatic,162894,23.0
+Toyota,Glanza,2000,165.7,1106,Petrol,Automatic,132458,17.8
+Nissan,Sunny,1000,77.2,1590,Petrol,Automatic,80770,21.2
+Nissan,Kicks,1600,151.8,850,Diesel,Automatic,2375,24.4
+Toyota,Glanza,1200,66.3,1052,Diesel,Manual,28512,24.9
+Toyota,Camry,1800,149.3,1847,Diesel,Automatic,103081,21.7
+Honda,Civic,2200,125.9,1224,Diesel,Manual,51613,22.9
+Hyundai,i20,1200,102.3,1120,Petrol,Automatic,99116,21.3
+Nissan,Kicks,2500,169.9,1642,Petrol,Manual,113031,17.3
+Maruti Suzuki,Ciaz,1500,99.9,1436,Petrol,Automatic,12811,21.3
+Nissan,Micra,2000,165.1,959,Petrol,Manual,102202,20.3
+Honda,Civic,1600,131.8,1474,Diesel,Automatic,147714,21.3
+Volkswagen,Polo,1500,118.1,1874,Diesel,Automatic,8634,21.4
+BMW,520d,1500,107.8,1582,Diesel,Manual,91597,23.0
+Honda,Civic,1000,81.9,1081,Diesel,Manual,123130,25.4
+Toyota,Glanza,1200,100.8,1748,Diesel,Manual,124329,25.1
+Toyota,Camry,1600,111.4,1320,Petrol,Automatic,172041,21.8
+BMW,520d,1800,152.1,866,Diesel,Automatic,184531,23.3
+Nissan,Micra,2500,202.3,1582,Diesel,Manual,80653,21.2
+Ford,Freestyle,2500,163.8,1151,Petrol,Automatic,85601,17.3
+Ford,Figo,1800,149.7,1342,Diesel,Automatic,109961,20.6
+Tata,Harrier,2200,199.1,1292,Petrol,Automatic,143785,17.0
+BMW,X3,1800,122.9,1106,Diesel,Automatic,69487,20.6
+Ford,Ecosport,1800,135.6,1139,Diesel,Automatic,73875,20.3
+Hyundai,i10,1500,97.5,886,Petrol,Manual,151581,22.0
+Toyota,Yaris,2200,125.8,1543,Petrol,Manual,198866,19.2
+BMW,X1,1500,104.6,1331,Diesel,Manual,117282,23.5
+Ford,Ecosport,1200,81.2,1148,Diesel,Automatic,19866,25.7
+Hyundai,i10,1000,83.8,1812,Petrol,Manual,27215,23.9
+Maruti Suzuki,Baleno,1800,100.3,1848,Diesel,Automatic,129244,21.2
+Tata,Tiago,1000,93.6,937,Petrol,Automatic,127931,22.7
+Maruti Suzuki,Dzire,2000,118.1,1478,Diesel,Manual,102503,22.5
+Tata,Nexon,1000,65.0,1257,Diesel,Automatic,166187,25.0
+BMW,320i,1200,78.8,1571,Petrol,Automatic,100276,22.5
+Ford,Freestyle,2000,169.6,1864,Petrol,Automatic,152382,19.6
+Kia,Sonet,2500,209.1,1230,Petrol,Automatic,24647,16.8
+Ford,Aspire,1000,62.3,1386,Petrol,Manual,79280,24.7
+Volkswagen,Taigun,1800,134.6,1096,Diesel,Automatic,152143,21.4
+Hyundai,i20,1600,150.1,1400,Diesel,Automatic,171931,23.1
+Honda,Amaze,1800,115.2,1127,Petrol,Automatic,189351,19.5
+Honda,Civic,1000,72.9,988,Diesel,Manual,50509,24.3
+Hyundai,Creta,1000,73.5,1445,Diesel,Manual,64691,27.2
+Toyota,Glanza,1000,73.7,1090,Diesel,Automatic,7089,23.5
+Volkswagen,Taigun,2200,147.9,1496,Diesel,Automatic,61214,18.5
+Nissan,Kicks,2200,172.1,1233,Petrol,Manual,112082,18.3
+Ford,Figo,2200,174.2,926,Diesel,Manual,79666,20.7
+Honda,Amaze,1600,148.1,1519,Petrol,Manual,98127,21.6
+Hyundai,i20,1800,166.7,1621,Petrol,Automatic,150443,18.8
+Tata,Tiago,2000,167.9,1729,Diesel,Automatic,95070,22.2
+Honda,Jazz,2000,138.2,957,Diesel,Manual,137822,22.7
+Volkswagen,Polo,2000,135.5,1695,Petrol,Automatic,66606,18.9
+Nissan,Kicks,2500,141.4,1453,Petrol,Automatic,61670,16.1
+BMW,X3,2200,165.8,956,Diesel,Manual,64145,23.3
+Hyundai,i20,2200,147.7,1582,Petrol,Automatic,16803,18.3
+Honda,Civic,2200,195.4,1287,Petrol,Manual,23643,18.3
+Kia,Sonet,1200,69.9,1787,Petrol,Manual,137226,23.1
+Volkswagen,Taigun,1500,100.9,1036,Diesel,Manual,113678,23.2
+Toyota,Yaris,2200,124.8,1436,Diesel,Automatic,196764,20.4
+Hyundai,Creta,1800,142.9,1607,Diesel,Automatic,35506,21.8
+Toyota,Camry,2500,157.9,1507,Diesel,Manual,72206,21.1
+Toyota,Innova,2200,148.9,924,Diesel,Automatic,191598,21.5
+Maruti Suzuki,Ciaz,2000,130.2,1283,Petrol,Manual,99597,19.3
+Honda,City,1800,134.8,910,Diesel,Manual,106569,22.4
+BMW,X3,2000,135.8,1207,Diesel,Automatic,92707,20.6
+Tata,Tiago,2500,218.8,1688,Diesel,Automatic,128694,19.4
+Nissan,Kicks,1500,86.9,1071,Petrol,Manual,28948,21.8
+Honda,Civic,1200,72.7,1035,Petrol,Automatic,167158,22.3
+Honda,Civic,1500,89.1,960,Diesel,Automatic,47713,22.5
+Honda,WR-V,2500,165.7,1482,Petrol,Manual,118684,17.5
+BMW,X3,2200,181.3,1130,Petrol,Automatic,118524,19.7
+BMW,X1,2200,139.6,1298,Petrol,Automatic,66402,18.2
+Toyota,Glanza,1200,85.7,1258,Petrol,Automatic,31185,22.4
+Honda,City,1200,109.7,1844,Diesel,Manual,152135,23.0
+Ford,Aspire,1500,94.7,1594,Petrol,Automatic,13655,19.2
+Tata,Altroz,1800,109.8,1118,Diesel,Manual,9575,23.2
+Kia,Sonet,1200,90.5,1421,Diesel,Manual,121517,25.7
+Hyundai,Venue,1500,133.5,1567,Diesel,Manual,76257,24.8
+Hyundai,Verna,1200,103.5,1353,Petrol,Manual,102972,24.0
+Honda,City,1200,102.0,1681,Diesel,Manual,27200,24.4
+Tata,Harrier,1800,122.0,1736,Diesel,Manual,147629,22.7
+Honda,WR-V,1200,111.1,1128,Petrol,Automatic,180943,22.2
+Hyundai,i20,1800,144.3,1835,Diesel,Manual,68301,23.3
+Toyota,Corolla,2000,110.4,1674,Diesel,Manual,42274,22.0
+Maruti Suzuki,Ciaz,2200,180.2,1410,Diesel,Manual,115989,20.4
+BMW,320i,1200,72.3,1724,Petrol,Automatic,2021,21.2
+Toyota,Glanza,2200,198.9,1518,Diesel,Manual,8683,22.2
+BMW,320i,1800,116.2,1686,Petrol,Manual,86330,19.8
+BMW,320i,1600,137.1,1484,Petrol,Manual,187522,22.1
+BMW,X1,2500,183.1,1361,Petrol,Manual,130857,18.4
+Ford,Freestyle,1600,114.5,1313,Petrol,Manual,128938,21.0
+Volkswagen,Vento,1600,88.8,1276,Petrol,Automatic,156289,21.7
+Hyundai,Creta,1000,84.1,871,Petrol,Manual,106730,24.9
+Volkswagen,Vento,1200,70.2,1086,Petrol,Automatic,48208,21.9
+Maruti Suzuki,Baleno,2500,169.7,1582,Diesel,Automatic,166137,17.9
+Toyota,Camry,2500,189.6,1488,Diesel,Manual,29774,21.0
+Volkswagen,Taigun,1000,91.3,998,Diesel,Manual,187965,25.8
+Tata,Nexon,2000,167.1,942,Diesel,Automatic,9791,21.4
+Hyundai,i10,2500,174.0,917,Petrol,Automatic,150254,18.1
+Ford,Aspire,1600,128.3,1513,Petrol,Manual,26602,20.5
+Honda,WR-V,2500,233.6,1728,Petrol,Manual,54242,18.6
+Hyundai,Venue,1500,129.7,1012,Diesel,Manual,83460,23.1
+Ford,Freestyle,1500,115.2,985,Petrol,Automatic,99261,21.2
+BMW,520d,1500,117.2,1022,Petrol,Automatic,156394,21.4
+Hyundai,i10,1800,143.6,1807,Petrol,Automatic,58119,19.4
+Ford,Freestyle,2000,160.0,1670,Diesel,Manual,92904,22.8
+BMW,320i,1500,104.5,929,Petrol,Automatic,168471,22.0
+Nissan,Kicks,1500,118.7,1294,Diesel,Automatic,33166,23.1
+Maruti Suzuki,WagonR,1500,124.4,1798,Diesel,Automatic,56980,23.7
+Maruti Suzuki,Swift,1800,141.3,1881,Petrol,Automatic,199630,19.1
+Tata,Harrier,2500,221.3,1796,Petrol,Manual,32053,18.5
+Honda,Jazz,1500,84.4,1515,Petrol,Automatic,44072,20.3
+Honda,Amaze,2200,185.7,1326,Diesel,Automatic,112112,21.7
+Tata,Harrier,1000,83.0,1632,Petrol,Manual,26494,22.4
+Tata,Harrier,1800,117.3,1528,Diesel,Manual,19414,21.0
+Ford,Freestyle,1200,111.6,1579,Petrol,Automatic,38723,21.2
+Nissan,Micra,2200,199.9,1636,Diesel,Automatic,1501,22.1
+Toyota,Glanza,1600,138.2,1732,Diesel,Automatic,160987,23.3
+Volkswagen,Polo,1600,141.3,1253,Diesel,Automatic,75588,22.9
+Honda,Amaze,1200,95.5,1733,Petrol,Manual,95075,23.2
+Tata,Harrier,1500,124.3,1237,Diesel,Manual,57649,24.8
+Hyundai,i20,2000,124.3,1018,Petrol,Automatic,58651,18.8
+Volkswagen,Taigun,1500,129.9,859,Diesel,Automatic,136069,22.3
+Honda,Civic,1800,132.9,1850,Petrol,Automatic,95285,20.5
+Maruti Suzuki,Dzire,1000,78.2,1388,Petrol,Manual,131046,23.8
+Honda,WR-V,2200,123.5,1267,Petrol,Automatic,115020,19.5
+Tata,Nexon,2000,126.1,1030,Diesel,Automatic,36473,21.1
+Maruti Suzuki,Dzire,2200,146.3,1187,Petrol,Manual,194286,19.3
+Nissan,Sunny,1800,169.9,1011,Diesel,Manual,95747,21.2
+Toyota,Glanza,1800,146.3,996,Diesel,Automatic,196601,21.2
+Maruti Suzuki,Ciaz,2200,121.7,1619,Diesel,Automatic,186155,19.9
+Kia,Carens,1200,68.3,1069,Diesel,Automatic,131102,23.2
+Ford,Figo,1200,67.3,1295,Diesel,Automatic,113859,22.0
+Kia,Carens,1500,92.0,977,Petrol,Automatic,44849,22.2
+Volkswagen,Taigun,1500,114.0,999,Petrol,Manual,32243,23.3
+Kia,Sonet,2500,171.5,1369,Diesel,Manual,14367,21.7
+Ford,Freestyle,2200,199.8,1259,Petrol,Automatic,42194,16.9
+Hyundai,i10,1500,125.4,867,Diesel,Automatic,75150,23.9
+Ford,Aspire,1200,72.5,1550,Petrol,Automatic,158568,22.1
+Nissan,Kicks,1000,65.6,1469,Petrol,Manual,156918,23.5
+Kia,Seltos,1500,136.3,1362,Diesel,Manual,186617,24.9
+Hyundai,i10,1500,105.5,1549,Petrol,Manual,10789,22.0
+Hyundai,Venue,2000,129.5,1025,Petrol,Automatic,90338,20.2
+Tata,Harrier,1000,91.2,1801,Petrol,Manual,141775,24.1
+Hyundai,Creta,1500,104.0,1223,Petrol,Manual,184295,20.5
+Kia,Seltos,2200,166.4,1566,Petrol,Manual,37131,20.8
+BMW,520d,2000,145.8,927,Petrol,Automatic,34236,20.8
+Nissan,Sunny,1200,96.8,1179,Diesel,Automatic,173691,23.5
+Toyota,Yaris,1500,129.9,1377,Petrol,Automatic,112442,21.6
+Tata,Harrier,1200,98.1,1409,Diesel,Manual,101124,24.0
+Maruti Suzuki,Baleno,2000,151.9,1356,Diesel,Automatic,80376,20.8
+Tata,Nexon,1500,130.8,1638,Petrol,Automatic,149273,21.2
+Maruti Suzuki,Swift,1600,100.7,1819,Petrol,Manual,136877,21.7
+Maruti Suzuki,Dzire,1000,94.5,1077,Diesel,Manual,92181,24.0
+Nissan,Kicks,1600,128.7,1694,Diesel,Manual,140526,23.7
+Volkswagen,Taigun,1500,101.2,1761,Petrol,Manual,178836,21.0
+Kia,Sonet,1800,121.7,915,Diesel,Automatic,175562,21.1
+Hyundai,Venue,1800,110.8,1074,Petrol,Automatic,27357,18.8
+Maruti Suzuki,Ciaz,2200,181.8,1617,Diesel,Manual,70938,21.4
+Volkswagen,Polo,1800,107.1,1544,Diesel,Automatic,171954,23.3
+Tata,Nexon,1500,101.1,941,Petrol,Manual,7915,22.1
+Nissan,Kicks,1500,102.2,1572,Petrol,Manual,67911,21.5
+Tata,Nexon,1800,165.7,1894,Petrol,Manual,159183,22.1
+Hyundai,i20,1600,139.9,1664,Petrol,Automatic,30479,21.0
+Hyundai,i20,1200,101.1,1224,Petrol,Manual,1243,24.2
+Toyota,Yaris,2000,152.4,1713,Petrol,Automatic,101875,18.6
+Honda,WR-V,2500,231.0,1129,Diesel,Manual,51922,19.8
+Toyota,Camry,2500,155.1,1465,Petrol,Automatic,127130,16.6
+Kia,Seltos,1800,105.7,1260,Diesel,Automatic,79755,20.9
+Nissan,Micra,1500,104.8,1273,Diesel,Automatic,199432,22.5
+Maruti Suzuki,Swift,2500,214.4,1054,Petrol,Automatic,136674,16.7
+Ford,Figo,2500,148.8,966,Diesel,Manual,191936,19.8
+Kia,Seltos,2000,138.4,1128,Diesel,Manual,23144,21.0
+Hyundai,Verna,1500,104.2,1057,Diesel,Manual,95002,25.1
+BMW,X3,1600,121.8,1395,Petrol,Manual,190113,22.2
+Toyota,Corolla,1000,78.8,1661,Petrol,Manual,61373,23.8
+Nissan,Kicks,1000,81.9,944,Diesel,Manual,117359,25.9
+Ford,Ecosport,1500,103.1,1470,Diesel,Manual,108798,24.2
+Ford,Freestyle,1600,150.0,963,Diesel,Automatic,144279,23.1
+Maruti Suzuki,Swift,1200,83.0,1477,Petrol,Automatic,178472,20.8
+Kia,Carens,1600,125.5,1337,Petrol,Manual,127534,21.2
+Honda,Civic,1600,89.1,961,Diesel,Manual,83794,23.4
+Toyota,Innova,2500,210.9,1258,Petrol,Manual,15219,19.3
+Honda,WR-V,2000,148.9,1839,Diesel,Manual,187179,22.4
+BMW,X3,1800,101.9,1373,Petrol,Manual,34213,21.0
+Toyota,Innova,1800,133.9,1880,Diesel,Automatic,174772,22.7
+BMW,X1,1600,93.0,1287,Diesel,Automatic,146569,22.7
+Hyundai,i20,2500,179.5,1717,Diesel,Manual,157740,20.0
+Hyundai,Venue,1500,140.9,1392,Diesel,Automatic,25730,24.0
+Ford,Freestyle,1600,90.6,1092,Diesel,Automatic,26492,23.3
+Kia,Seltos,2500,203.6,1543,Diesel,Manual,17934,18.5
+Maruti Suzuki,Swift,1200,80.4,1538,Petrol,Manual,67064,23.9
+BMW,520d,2500,182.8,1689,Diesel,Manual,48929,19.2
+BMW,X1,1500,84.3,1208,Petrol,Manual,64393,22.8
+Maruti Suzuki,WagonR,2200,200.7,1862,Diesel,Manual,169408,20.7
+Honda,WR-V,1600,148.8,1571,Diesel,Automatic,154552,22.9
+Nissan,Sunny,1600,121.3,1878,Diesel,Automatic,172201,21.3
+Kia,Seltos,1200,85.0,1342,Petrol,Automatic,87173,20.2
+BMW,X1,1000,75.5,1563,Diesel,Manual,41970,24.8
+Maruti Suzuki,Dzire,1600,124.9,1099,Diesel,Automatic,134734,23.8
+Toyota,Camry,2200,191.0,1332,Petrol,Manual,18635,20.0
+Maruti Suzuki,Dzire,1000,57.1,1316,Petrol,Automatic,120818,23.1
+Volkswagen,Taigun,2200,174.2,956,Diesel,Automatic,197743,18.3
+Honda,WR-V,1500,135.0,1762,Petrol,Automatic,81658,22.3
+BMW,X3,1000,94.1,1501,Diesel,Manual,1797,26.1
+Hyundai,Creta,2500,226.3,1707,Petrol,Automatic,80950,16.4
+Ford,Freestyle,1500,115.1,1531,Diesel,Manual,106178,24.5
+Hyundai,Venue,1500,110.4,1338,Petrol,Manual,148734,20.7
+Hyundai,i10,2000,187.3,1576,Petrol,Automatic,97486,19.5
+Maruti Suzuki,WagonR,2200,147.4,1224,Diesel,Manual,21912,21.8
+Tata,Harrier,1200,97.2,1865,Petrol,Automatic,199503,23.1
+Kia,Sonet,1500,114.7,909,Petrol,Automatic,9764,22.4
+Maruti Suzuki,Swift,2200,169.1,1427,Petrol,Automatic,42478,19.3
+Toyota,Innova,1500,102.7,1364,Diesel,Automatic,139566,21.9
+Nissan,Sunny,2500,139.6,1766,Petrol,Manual,117356,19.4
+Volkswagen,Taigun,2500,170.3,1650,Diesel,Automatic,36013,19.5
+BMW,320i,2000,159.1,963,Diesel,Manual,173739,21.1
+Kia,Carens,1500,121.1,861,Petrol,Automatic,198321,20.8
+Nissan,Micra,2000,138.0,911,Petrol,Automatic,149077,18.1
+Tata,Nexon,1800,152.0,1705,Petrol,Automatic,158138,21.0
+Kia,Carens,2000,117.5,1397,Diesel,Automatic,27451,21.9
+Nissan,Micra,2200,208.8,992,Diesel,Automatic,197170,21.5
+Nissan,Sunny,1200,74.5,890,Diesel,Automatic,58201,24.4
+Honda,Jazz,1600,91.8,966,Diesel,Automatic,107588,21.6
+Ford,Ecosport,2500,203.7,1567,Diesel,Automatic,134211,17.6
+Toyota,Yaris,1000,60.0,1131,Petrol,Manual,96573,24.1
+Maruti Suzuki,Baleno,1800,116.4,1339,Petrol,Manual,120887,20.8
+BMW,X1,1600,108.2,1617,Petrol,Manual,126941,21.2
+BMW,X1,1500,101.4,874,Diesel,Automatic,85399,23.1
+Hyundai,Creta,2500,152.9,1495,Petrol,Automatic,185399,18.1
+BMW,520d,1500,100.8,1716,Diesel,Manual,135835,23.3
+Nissan,Sunny,2200,121.8,1223,Diesel,Manual,122134,23.3
+Toyota,Yaris,2200,145.3,1771,Diesel,Automatic,38483,18.8
+Kia,Sonet,1200,103.3,1273,Diesel,Manual,49211,24.9
+Honda,Civic,2500,141.1,1090,Diesel,Manual,139085,21.0
+Nissan,Micra,2500,146.6,1696,Diesel,Manual,115126,21.5
+Toyota,Yaris,1500,90.6,895,Petrol,Manual,25860,22.7
+Hyundai,Creta,2500,205.6,1104,Petrol,Automatic,12979,17.4
+Volkswagen,Vento,1500,122.8,1380,Diesel,Automatic,190678,22.2
+Nissan,Micra,1200,70.0,1252,Diesel,Manual,30549,25.7
+Maruti Suzuki,WagonR,2500,142.6,1360,Diesel,Manual,15914,20.5
+Nissan,Kicks,1500,126.8,1078,Diesel,Manual,87964,24.3
+Toyota,Innova,1500,132.9,1616,Petrol,Automatic,91471,20.6
+BMW,520d,2000,122.6,1175,Diesel,Automatic,121360,21.8
+Nissan,Sunny,1000,76.2,1496,Petrol,Automatic,190481,23.6
+Honda,WR-V,1000,72.0,1372,Diesel,Manual,130844,24.7
+Hyundai,i10,2000,137.5,1455,Diesel,Automatic,96005,21.0
+Honda,WR-V,1000,73.9,1494,Diesel,Automatic,69373,23.6
+Ford,Freestyle,1000,93.0,1313,Petrol,Automatic,147367,21.9
+Honda,Amaze,1200,81.7,1090,Petrol,Automatic,117634,21.7
+Maruti Suzuki,Baleno,2500,219.3,1382,Petrol,Manual,124248,19.4
+Kia,Seltos,2000,121.2,1045,Petrol,Manual,155244,19.8
+BMW,X1,1000,76.6,1525,Petrol,Automatic,60844,23.4
+Hyundai,Venue,1600,138.2,994,Diesel,Automatic,146621,24.6
+Ford,Aspire,2500,213.1,946,Diesel,Automatic,7710,18.6
+Hyundai,Venue,1500,135.5,1195,Petrol,Automatic,115958,21.8
+Hyundai,i10,2200,189.6,920,Petrol,Automatic,112304,18.4
+Honda,Civic,1000,59.8,1747,Petrol,Automatic,83830,23.5
+Tata,Altroz,1600,97.1,1446,Diesel,Automatic,166148,22.2
+Tata,Altroz,2000,162.7,995,Petrol,Manual,80206,21.2
+BMW,320i,1800,168.2,940,Diesel,Manual,41173,24.0
+Ford,Figo,1200,104.3,1883,Diesel,Manual,75207,23.4
+BMW,X1,2000,115.8,1337,Petrol,Automatic,170871,20.4
+BMW,320i,1800,135.8,1644,Petrol,Manual,40964,20.2
+Nissan,Micra,1800,146.3,1189,Petrol,Automatic,93528,21.2
+BMW,X1,1800,170.0,1212,Diesel,Manual,5492,23.6
+Toyota,Glanza,1000,71.5,1188,Diesel,Manual,59241,24.8
+Toyota,Camry,1600,103.0,858,Diesel,Automatic,55590,20.8
+Tata,Tiago,1200,84.6,1447,Petrol,Automatic,185012,21.5
+Hyundai,Verna,2000,142.2,935,Diesel,Manual,95347,23.4
+Honda,Amaze,1600,92.8,1271,Petrol,Manual,135221,20.6
+Kia,Sonet,1600,123.0,1847,Petrol,Automatic,18711,18.9
+Volkswagen,Polo,2200,149.8,1834,Petrol,Manual,151912,20.7
+Ford,Figo,2000,157.6,1306,Petrol,Manual,116612,21.4
+Volkswagen,Polo,1500,106.1,1009,Petrol,Manual,143121,21.4
+Honda,Jazz,1200,91.8,1325,Petrol,Automatic,38641,21.6
+Maruti Suzuki,Baleno,1200,69.1,1878,Petrol,Manual,83453,22.7
+BMW,320i,1200,97.6,1189,Petrol,Automatic,191598,20.6
+Ford,Figo,2500,209.5,1833,Petrol,Manual,185995,19.3
+Honda,WR-V,2200,199.0,937,Petrol,Automatic,14850,19.2
+Ford,Aspire,1000,84.8,1440,Diesel,Manual,101113,25.3
+Nissan,Kicks,1500,129.7,1165,Diesel,Manual,110496,23.3
+Honda,Civic,2500,231.3,1386,Diesel,Manual,608,20.0
+Ford,Freestyle,1800,124.1,1735,Petrol,Manual,8844,19.5
+Tata,Altroz,1000,81.8,988,Diesel,Manual,60588,26.2
+Toyota,Innova,2000,140.9,1635,Petrol,Manual,60614,18.8
+Hyundai,i20,2200,178.1,914,Petrol,Manual,50573,20.3
+Maruti Suzuki,Swift,1500,100.5,947,Diesel,Automatic,199920,24.1
+Honda,City,2500,158.4,954,Petrol,Automatic,4235,19.0
+Volkswagen,Polo,1500,135.8,1688,Diesel,Manual,138578,23.7
+Tata,Nexon,1800,103.4,1468,Petrol,Automatic,129928,19.7
+Ford,Figo,1000,88.5,1016,Petrol,Automatic,117075,22.8
+Hyundai,Venue,2000,137.9,1155,Diesel,Manual,128698,21.0
+Toyota,Yaris,1200,91.7,1180,Diesel,Automatic,192222,22.9
+BMW,320i,1000,61.3,1557,Petrol,Automatic,60221,23.3
+Nissan,Kicks,1600,117.5,936,Petrol,Automatic,95451,20.5
+Hyundai,Venue,1500,85.4,1787,Petrol,Automatic,74134,21.5
+Volkswagen,Polo,2200,145.1,1494,Diesel,Manual,39456,20.6
+Nissan,Micra,1600,107.4,904,Petrol,Manual,161129,20.4
+Ford,Figo,2200,204.2,1308,Petrol,Automatic,85552,19.1
+Ford,Figo,2000,166.7,1787,Petrol,Automatic,141841,20.3
+Ford,Ecosport,2000,138.9,1784,Petrol,Automatic,56501,20.3
+Maruti Suzuki,Dzire,1500,86.8,1247,Petrol,Automatic,166186,20.0
+Honda,Civic,1600,115.0,1770,Diesel,Manual,194198,22.8
+Tata,Altroz,2200,138.7,890,Petrol,Automatic,80960,18.7
+Ford,Figo,1200,109.4,1252,Petrol,Automatic,55193,21.7
+Toyota,Glanza,1800,139.1,1134,Diesel,Automatic,120849,19.8
+Ford,Figo,2000,179.4,1744,Petrol,Manual,144228,19.8
+Kia,Seltos,2500,190.4,1176,Diesel,Manual,55200,20.1
+Nissan,Sunny,2000,168.5,1335,Diesel,Manual,147482,20.8
+BMW,320i,2500,231.0,1828,Diesel,Manual,39936,21.1
+Honda,Amaze,2000,164.7,1143,Diesel,Automatic,12118,19.8
+Kia,Sonet,1600,151.4,1308,Petrol,Automatic,155900,20.7
+BMW,X3,1600,96.1,1508,Petrol,Manual,126635,21.5
+Tata,Nexon,1000,86.8,1610,Petrol,Manual,170605,22.7
+BMW,X1,2500,208.4,921,Diesel,Automatic,29598,18.9
+BMW,520d,1600,118.6,1022,Petrol,Automatic,143904,21.4
+Toyota,Yaris,2200,153.5,1235,Diesel,Automatic,24606,20.3
+Honda,Civic,2000,152.8,1108,Diesel,Automatic,18061,21.9
+Nissan,Sunny,2500,180.8,1524,Petrol,Automatic,92848,17.8
+Maruti Suzuki,Baleno,1000,61.6,1291,Petrol,Automatic,138604,21.8
+Nissan,Kicks,2200,121.5,898,Petrol,Manual,150353,19.9
+BMW,X1,1500,93.4,1258,Diesel,Manual,151953,22.6
+Ford,Ecosport,2200,186.0,1786,Petrol,Automatic,89507,19.2
+Tata,Nexon,1800,163.4,1606,Diesel,Automatic,84377,21.9
+Nissan,Micra,1200,108.4,1273,Petrol,Automatic,126463,22.0
+Kia,Carens,1600,96.2,1865,Diesel,Manual,111995,22.6
+Toyota,Yaris,1500,85.9,1175,Petrol,Manual,94210,23.2
+Honda,Amaze,1600,142.8,1378,Diesel,Automatic,188173,24.5
+Tata,Harrier,2200,137.9,1658,Petrol,Automatic,59548,18.0
+Ford,Aspire,1600,134.2,1207,Diesel,Automatic,49917,22.8
+Toyota,Glanza,1000,71.5,941,Diesel,Manual,125378,24.4
+Kia,Sonet,1000,94.8,1354,Diesel,Automatic,142215,25.2
+Tata,Nexon,1800,108.3,1478,Petrol,Manual,126748,20.7
+Tata,Harrier,1200,71.2,1750,Petrol,Manual,141563,21.5
+Honda,Jazz,1500,114.5,1582,Petrol,Automatic,21490,20.9
+Ford,Figo,2500,180.8,1842,Diesel,Automatic,60024,18.9
+Tata,Nexon,1600,95.4,1194,Diesel,Manual,186349,21.9
+Honda,City,2200,149.8,1083,Diesel,Manual,197880,22.7
+Ford,Aspire,2500,164.4,1193,Diesel,Manual,36926,19.4
+Maruti Suzuki,Dzire,1600,135.2,1838,Petrol,Automatic,133093,21.8
+Nissan,Sunny,1600,141.7,1002,Diesel,Automatic,111940,22.3
+Honda,WR-V,2000,116.7,1174,Diesel,Automatic,173407,21.2
+Hyundai,i20,1600,144.5,1608,Petrol,Automatic,84481,19.5
+BMW,520d,2200,164.9,1826,Diesel,Manual,178531,22.5
+Volkswagen,Taigun,2500,201.2,1318,Petrol,Automatic,15923,18.9
+Ford,Freestyle,1000,69.7,1620,Diesel,Manual,190376,26.3
+Toyota,Innova,1800,144.0,1694,Diesel,Manual,72813,22.8
+Kia,Carens,1600,137.7,1383,Petrol,Automatic,84515,22.0
+Honda,Amaze,2200,164.3,1563,Petrol,Manual,3466,19.0
+Toyota,Corolla,1200,111.3,1304,Diesel,Automatic,51982,22.5
+Kia,Seltos,2200,203.3,1835,Petrol,Manual,195013,18.8
+Maruti Suzuki,Ciaz,2000,158.1,1685,Petrol,Automatic,132534,18.4
+Ford,Aspire,2200,194.4,1044,Diesel,Manual,47250,22.0
+Nissan,Micra,1000,63.9,1204,Diesel,Manual,189519,26.3
+Kia,Seltos,2500,190.2,1372,Petrol,Manual,97712,17.9
+Tata,Altroz,2000,174.7,1042,Petrol,Automatic,62049,20.8
+Maruti Suzuki,Ciaz,2200,172.6,989,Petrol,Automatic,65310,17.4
+Honda,WR-V,2200,160.7,1426,Diesel,Automatic,173040,20.9
+Nissan,Sunny,2000,152.2,1628,Petrol,Manual,182979,21.4
+Kia,Seltos,1600,116.3,1776,Petrol,Automatic,188540,20.7
+Honda,Jazz,1500,95.6,1844,Petrol,Automatic,90369,21.2
+Hyundai,i10,2000,188.6,1621,Diesel,Automatic,18652,19.5
+Maruti Suzuki,Swift,2200,198.4,1228,Petrol,Manual,160906,20.1
+BMW,520d,2000,169.3,1463,Diesel,Manual,151222,22.0
+Tata,Tiago,1000,78.4,1468,Petrol,Manual,140109,23.0
+Honda,Jazz,1500,112.5,1195,Diesel,Automatic,175522,21.3
+Nissan,Sunny,1500,140.3,1652,Diesel,Automatic,8561,21.6
+Toyota,Yaris,1500,123.3,1064,Diesel,Manual,152637,21.7
+Toyota,Yaris,2200,189.7,1640,Diesel,Automatic,180533,18.1
+Honda,City,2200,205.5,1700,Diesel,Manual,121384,21.7
+Kia,Sonet,1500,93.7,1666,Petrol,Manual,194810,22.3
+Honda,WR-V,2500,183.1,896,Diesel,Automatic,143395,18.4
+Honda,WR-V,1200,87.5,926,Diesel,Manual,128361,25.1
+Ford,Freestyle,2200,159.0,1121,Petrol,Automatic,95612,19.5
+Toyota,Innova,2500,222.9,1329,Diesel,Manual,10512,19.1
+Hyundai,Verna,1600,140.6,1819,Petrol,Automatic,171919,19.3
+Volkswagen,Vento,1600,139.7,943,Diesel,Automatic,54982,22.2
+Kia,Carens,2500,147.6,1665,Diesel,Automatic,144435,18.3
+Ford,Ecosport,2200,135.1,995,Petrol,Automatic,144689,17.0
+Honda,WR-V,2500,228.0,1382,Diesel,Manual,65934,20.0
+Volkswagen,Polo,1200,93.7,1598,Diesel,Automatic,28267,23.1
+Honda,Civic,1000,73.0,989,Diesel,Manual,131106,25.7
+BMW,320i,1600,135.5,1508,Petrol,Manual,129159,22.3
+Nissan,Micra,1800,143.6,1514,Diesel,Manual,173436,23.5
+Honda,City,1500,119.0,935,Diesel,Automatic,34137,23.7
+Honda,Jazz,1600,133.8,1464,Petrol,Manual,51374,22.3
+Toyota,Yaris,1600,123.6,1456,Diesel,Automatic,128677,22.7
+BMW,X3,1000,82.8,892,Petrol,Manual,162055,24.9
+Hyundai,Verna,1500,124.2,1312,Petrol,Manual,61158,21.2
+Maruti Suzuki,Dzire,1000,68.9,1777,Diesel,Manual,172178,25.0
+Volkswagen,Taigun,1800,143.3,1769,Diesel,Automatic,143388,20.3
+Kia,Carens,2200,158.2,1329,Petrol,Manual,151383,18.3
+Ford,Freestyle,1800,147.1,1200,Petrol,Manual,25616,20.8
+Hyundai,Creta,1000,71.9,1220,Diesel,Manual,22682,25.0
+Maruti Suzuki,Baleno,1800,148.5,1235,Petrol,Automatic,47001,20.6
+Tata,Harrier,1800,108.6,1721,Diesel,Automatic,30208,19.2
+Tata,Tiago,2000,171.3,1127,Diesel,Automatic,75771,22.0
+Nissan,Kicks,1200,97.8,1721,Diesel,Manual,175719,24.4
+Kia,Sonet,2200,131.2,1357,Petrol,Automatic,164018,17.8
+Honda,WR-V,1800,102.6,1578,Petrol,Manual,95591,20.8
+Ford,Aspire,2000,114.6,1818,Petrol,Automatic,73983,19.1
+Ford,Freestyle,1500,122.4,1862,Petrol,Automatic,183148,20.0
+Honda,Jazz,2200,181.0,977,Diesel,Automatic,166133,21.1
+Tata,Tiago,2500,166.5,1557,Diesel,Automatic,136451,20.1
+Maruti Suzuki,Ciaz,1000,58.7,1695,Diesel,Automatic,180616,22.2
+Kia,Sonet,1000,82.9,1021,Petrol,Automatic,4471,23.2
+Kia,Carens,2500,211.1,1150,Petrol,Automatic,99270,17.5
+Maruti Suzuki,Baleno,1200,105.9,1791,Petrol,Automatic,170048,22.9
+Maruti Suzuki,Dzire,2200,178.8,1788,Petrol,Manual,73186,19.2
+Hyundai,i20,1800,158.6,1556,Diesel,Automatic,10814,21.8
+Honda,Civic,2200,141.3,1100,Diesel,Automatic,130049,18.5
+BMW,X1,2500,162.7,1680,Diesel,Manual,67160,19.8
+Maruti Suzuki,Ciaz,1500,92.2,915,Petrol,Manual,28770,23.3
+Toyota,Innova,1600,125.5,1348,Petrol,Manual,66052,22.2
+Volkswagen,Taigun,1600,103.8,1794,Diesel,Automatic,31239,20.1
+BMW,520d,1600,125.5,1125,Diesel,Automatic,34652,21.4
+Toyota,Glanza,1000,57.1,1600,Diesel,Manual,187602,25.4
+Tata,Tiago,2000,118.9,1809,Diesel,Automatic,142134,22.4
+Ford,Figo,1500,105.0,1725,Diesel,Automatic,111806,23.1
+Toyota,Yaris,1200,102.0,1598,Diesel,Automatic,194047,24.3
+Volkswagen,Taigun,1200,108.6,1692,Petrol,Automatic,74478,22.8
+Nissan,Micra,1000,73.3,936,Petrol,Manual,6998,24.8
+Tata,Harrier,1200,108.7,1310,Diesel,Manual,121309,26.1
+BMW,320i,1500,111.2,1660,Diesel,Manual,175118,22.0
+Hyundai,Venue,1600,122.4,1607,Diesel,Automatic,88477,23.4
+Volkswagen,Taigun,2500,200.2,1876,Petrol,Manual,134084,18.2
+Hyundai,i20,1200,108.8,1649,Diesel,Manual,132760,26.3
+Maruti Suzuki,Baleno,1800,105.9,926,Petrol,Automatic,182356,21.2
+Toyota,Innova,2200,166.5,1061,Diesel,Automatic,184187,21.1
+Toyota,Innova,2200,196.2,922,Diesel,Automatic,157500,21.8
+Tata,Tiago,1600,105.3,1132,Diesel,Automatic,61846,20.2
+Volkswagen,Taigun,1200,103.5,1148,Petrol,Automatic,179867,23.7
+Hyundai,Verna,2200,188.4,1137,Diesel,Manual,188012,20.5
+Kia,Carens,1200,78.8,1324,Diesel,Manual,189084,24.1
+Nissan,Kicks,1800,146.4,1654,Diesel,Automatic,111930,23.2
+Ford,Ecosport,1000,82.1,1538,Diesel,Automatic,96282,26.1
+Maruti Suzuki,Ciaz,2200,144.7,1098,Diesel,Manual,170657,21.5
+Tata,Tiago,1800,140.4,1294,Diesel,Manual,70315,23.3
+Toyota,Glanza,1800,110.5,1765,Petrol,Manual,38141,22.1
+Kia,Seltos,2000,178.8,1700,Petrol,Manual,106834,20.8
+Maruti Suzuki,Dzire,1800,146.3,1830,Petrol,Automatic,43005,18.1
+Tata,Nexon,1800,136.0,1612,Petrol,Manual,120316,20.6
+Toyota,Camry,1800,116.0,988,Diesel,Automatic,139569,19.8
+Nissan,Kicks,2200,140.9,1023,Diesel,Manual,164459,22.4
+Hyundai,i10,1600,93.1,1008,Diesel,Automatic,82104,20.9
+Kia,Sonet,1200,111.0,1599,Petrol,Automatic,80164,21.6
+Toyota,Yaris,1000,94.3,1432,Petrol,Automatic,106531,22.6
+Nissan,Micra,1000,84.0,1449,Diesel,Manual,165659,23.4
+Ford,Freestyle,1200,110.8,1187,Diesel,Manual,137901,24.8
+Tata,Tiago,1200,69.6,1765,Petrol,Manual,27004,23.3
+Volkswagen,Taigun,2200,148.5,1665,Petrol,Manual,44742,20.0
+Tata,Tiago,2500,151.4,1865,Diesel,Automatic,151486,20.4
+Maruti Suzuki,Baleno,1800,124.9,1643,Petrol,Manual,176376,19.5
+Volkswagen,Polo,1200,94.5,1745,Petrol,Manual,17996,24.2
+BMW,X3,1200,110.1,1584,Diesel,Manual,56949,24.3
+Hyundai,i10,1500,88.0,1713,Petrol,Automatic,81267,19.9
+Maruti Suzuki,Baleno,2200,147.5,905,Petrol,Manual,28816,19.7
+Hyundai,i10,2000,182.0,1117,Petrol,Automatic,168164,19.5
+Honda,Civic,1600,150.9,1546,Petrol,Automatic,53246,19.5
+Maruti Suzuki,WagonR,1600,120.6,1402,Petrol,Manual,70102,22.0
+Hyundai,Verna,1600,126.2,1249,Diesel,Manual,64556,23.7
+Maruti Suzuki,Dzire,2000,152.3,1553,Diesel,Automatic,91754,20.2
+Volkswagen,Polo,2200,121.2,1223,Petrol,Automatic,89074,18.9
+Nissan,Kicks,1200,104.0,917,Petrol,Manual,122069,23.8
+Ford,Ecosport,1200,76.0,1232,Petrol,Manual,67448,22.1
+BMW,X1,1800,131.4,1552,Petrol,Automatic,77467,19.6
+Tata,Harrier,1600,111.6,1498,Diesel,Automatic,144882,22.9
+Honda,Amaze,2200,172.6,949,Diesel,Automatic,144320,18.9
+Maruti Suzuki,WagonR,1000,82.6,1787,Diesel,Manual,177059,24.5
+Nissan,Sunny,2000,147.1,1147,Diesel,Manual,81808,23.1
+Volkswagen,Taigun,2500,223.6,1353,Diesel,Manual,105209,21.7
+Kia,Seltos,1200,68.8,1454,Diesel,Automatic,129830,24.3
+Kia,Sonet,1200,103.6,1104,Diesel,Manual,69234,25.6
+Ford,Aspire,1200,71.1,1263,Diesel,Manual,28676,23.1
+Hyundai,i10,2000,177.7,935,Petrol,Manual,112372,21.3
+Kia,Seltos,1000,80.2,1627,Petrol,Manual,67868,23.5
+Volkswagen,Taigun,2000,188.8,1601,Diesel,Automatic,108384,19.6
+Tata,Altroz,2200,160.1,1879,Diesel,Automatic,108591,21.7
+Nissan,Kicks,1000,87.5,1822,Diesel,Manual,41262,23.6
+Volkswagen,Taigun,2000,172.7,1496,Petrol,Automatic,41549,19.9
+Nissan,Micra,2000,170.6,1140,Petrol,Automatic,63964,20.0
+Ford,Aspire,2500,223.0,1607,Diesel,Automatic,109809,20.0
+Honda,City,1200,72.5,1465,Diesel,Manual,146707,25.8
+Hyundai,i10,1200,113.4,1436,Diesel,Automatic,120068,22.8
+Tata,Nexon,2000,171.8,1074,Diesel,Manual,133107,23.7
+BMW,520d,1000,74.8,997,Petrol,Manual,79176,24.8
+Honda,City,1000,71.4,1147,Petrol,Manual,40397,22.8
+BMW,X1,1600,90.8,1266,Petrol,Manual,38421,20.7
+Hyundai,i20,1600,124.6,1618,Diesel,Manual,112550,22.5
+Volkswagen,Polo,2500,142.9,1245,Petrol,Manual,82563,19.4
+Tata,Tiago,1200,78.6,1268,Petrol,Manual,76646,23.1
+Honda,Amaze,2000,166.6,1143,Petrol,Manual,18069,21.7
+Tata,Altroz,1200,113.1,1784,Petrol,Manual,119297,23.6
+Volkswagen,Taigun,1200,95.1,1664,Diesel,Automatic,184644,24.2
+Ford,Ecosport,1000,59.9,1681,Petrol,Manual,104981,24.3
+BMW,520d,2200,199.8,1324,Diesel,Automatic,28131,22.0
+Nissan,Micra,1500,136.8,940,Diesel,Automatic,161369,22.8
+Nissan,Sunny,1000,81.8,1055,Petrol,Manual,138899,23.7
+BMW,X3,1000,80.3,1124,Diesel,Manual,105495,24.9
+Maruti Suzuki,Baleno,1500,102.5,1182,Diesel,Manual,190576,23.9
+Ford,Figo,1800,170.3,1801,Diesel,Manual,167848,23.4
+Honda,Civic,1600,147.4,1455,Diesel,Automatic,138527,20.7
+Nissan,Sunny,1000,63.2,1412,Diesel,Manual,27675,25.7
+Volkswagen,Vento,1800,153.5,1795,Diesel,Automatic,46137,21.5
+Kia,Seltos,1200,80.2,1368,Petrol,Automatic,10525,21.2
+Ford,Ecosport,1200,82.1,1744,Petrol,Automatic,64932,22.4
+Volkswagen,Vento,1000,66.9,1800,Petrol,Manual,61384,24.4
+Ford,Aspire,1500,91.0,1665,Petrol,Manual,98094,21.2
+Maruti Suzuki,Baleno,1200,96.7,1705,Petrol,Automatic,83728,20.9
+Ford,Aspire,2200,123.5,1225,Petrol,Automatic,146391,19.1
+Volkswagen,Polo,1000,69.5,1461,Petrol,Manual,92020,23.4
+Kia,Seltos,1000,62.9,1830,Diesel,Automatic,139975,24.8
+Hyundai,Creta,1000,55.5,964,Diesel,Manual,78987,25.3
+Hyundai,Creta,2200,144.9,1474,Diesel,Manual,78358,22.6
+Kia,Sonet,2500,223.6,1287,Petrol,Manual,8437,19.0
+Hyundai,Creta,1800,113.6,1174,Petrol,Manual,54733,20.1
+Ford,Freestyle,2500,203.4,1474,Petrol,Manual,194069,20.2
+Volkswagen,Polo,2200,180.9,1182,Petrol,Automatic,179190,18.4
+Maruti Suzuki,Baleno,2200,122.8,1424,Petrol,Automatic,197202,17.5
+Maruti Suzuki,Ciaz,2500,185.0,1683,Diesel,Automatic,151900,19.7
+Maruti Suzuki,Ciaz,2000,131.1,1128,Diesel,Manual,51786,22.7
+Ford,Aspire,2000,117.5,1178,Petrol,Automatic,21255,19.0
+Nissan,Sunny,2200,145.1,1838,Petrol,Manual,59472,20.0
+Ford,Figo,1200,72.1,868,Petrol,Manual,24261,22.1
+Nissan,Sunny,2500,219.7,970,Diesel,Automatic,134872,18.2
+Kia,Seltos,1500,129.6,1136,Petrol,Automatic,127820,21.6
+Maruti Suzuki,Ciaz,1800,119.6,1667,Diesel,Manual,74257,20.8
+Hyundai,Verna,1800,157.8,1526,Diesel,Manual,82269,22.0
+Maruti Suzuki,WagonR,2500,167.2,1459,Diesel,Automatic,98005,19.3
+Volkswagen,Vento,2200,137.2,1382,Petrol,Manual,174323,20.2
+Volkswagen,Polo,2500,215.9,857,Petrol,Automatic,108576,19.2
+Volkswagen,Vento,2000,121.2,1164,Petrol,Automatic,101440,19.9
+BMW,X3,1600,136.6,1416,Diesel,Automatic,29332,22.0
+Kia,Seltos,1000,62.2,1885,Petrol,Automatic,125411,23.6
+Toyota,Corolla,1200,100.3,1361,Diesel,Manual,78981,23.3
+BMW,320i,1600,109.0,1370,Diesel,Automatic,125316,20.8
+Volkswagen,Taigun,1000,61.3,1511,Diesel,Manual,11599,26.0
+Ford,Ecosport,1000,71.0,1522,Diesel,Manual,175174,26.1
+Maruti Suzuki,Ciaz,1800,133.6,1426,Diesel,Automatic,182295,20.0
+Nissan,Kicks,1500,111.8,948,Diesel,Manual,15871,24.1
+Honda,City,1200,77.4,1758,Diesel,Manual,122183,25.3
+Volkswagen,Vento,1500,114.4,1706,Diesel,Manual,180200,25.3
+Toyota,Corolla,2200,208.5,909,Diesel,Automatic,121932,21.6
+Toyota,Glanza,1500,121.3,1700,Diesel,Manual,199603,24.0
+Ford,Freestyle,2500,167.6,1125,Petrol,Automatic,135822,17.6
+Tata,Nexon,2000,163.1,1285,Diesel,Manual,93338,20.4
+Volkswagen,Taigun,1000,79.5,981,Diesel,Automatic,181580,22.6
+Toyota,Yaris,1000,74.6,1699,Petrol,Automatic,154035,22.3
+BMW,X3,2000,122.6,1806,Petrol,Automatic,154751,17.7
+Hyundai,i10,1000,91.1,1182,Petrol,Manual,112261,24.0
+Tata,Harrier,2500,138.2,1521,Diesel,Manual,34452,19.7
+Nissan,Micra,2500,168.5,1194,Petrol,Automatic,180862,16.8
+Hyundai,Creta,1600,150.6,1013,Petrol,Automatic,58179,20.1
+Toyota,Innova,1800,166.3,1722,Diesel,Automatic,63588,23.4
+Nissan,Kicks,1200,66.8,1561,Petrol,Manual,81552,22.0
+Honda,Amaze,1600,127.7,1346,Diesel,Manual,62007,22.4
+BMW,320i,1600,104.0,1802,Petrol,Manual,147621,22.9
+Nissan,Micra,1000,94.7,928,Diesel,Manual,134819,25.4
+Toyota,Camry,1200,100.2,1241,Diesel,Automatic,110917,24.2
+Maruti Suzuki,Dzire,1600,104.2,1733,Petrol,Manual,110638,20.5
+Maruti Suzuki,Baleno,1800,167.8,1753,Diesel,Automatic,80975,21.0
+Honda,Jazz,2000,144.3,893,Diesel,Manual,151179,23.3
+Kia,Seltos,2500,202.4,1700,Petrol,Manual,156109,18.4
+Volkswagen,Polo,1800,156.6,1572,Diesel,Automatic,58081,21.7
+Ford,Figo,1000,76.5,1786,Diesel,Automatic,197129,25.3
+Toyota,Glanza,1800,125.0,885,Petrol,Automatic,146356,19.7
+Maruti Suzuki,Ciaz,1200,74.3,887,Petrol,Manual,58392,22.6
+Honda,Civic,2500,172.8,1126,Petrol,Manual,90830,18.4
+BMW,X3,2000,188.2,1348,Diesel,Manual,112171,21.2
+Toyota,Yaris,1200,79.2,1525,Diesel,Manual,71560,25.4
+Hyundai,i10,2500,160.2,1043,Diesel,Manual,30147,21.2
+Tata,Nexon,2200,195.8,1502,Diesel,Automatic,97950,20.8
+Maruti Suzuki,Dzire,1200,82.0,1370,Petrol,Manual,199558,21.8
+Maruti Suzuki,Dzire,1600,129.1,1360,Diesel,Automatic,73044,23.5
+Ford,Ecosport,1800,107.0,1031,Diesel,Manual,20097,22.7
+Volkswagen,Vento,2200,163.1,1722,Diesel,Manual,87789,20.1
+Honda,Jazz,2500,167.4,862,Petrol,Automatic,15107,18.8
+Hyundai,Verna,1200,84.0,1283,Petrol,Manual,41384,22.8
+Kia,Sonet,1000,78.5,1174,Petrol,Automatic,74647,22.7
+BMW,X3,1600,148.8,1636,Petrol,Automatic,82782,19.6
+Maruti Suzuki,WagonR,1500,125.8,1046,Petrol,Manual,169355,20.5
+Toyota,Yaris,2200,179.0,1377,Petrol,Manual,4322,19.0
+Maruti Suzuki,Baleno,1600,113.3,1435,Petrol,Automatic,189590,19.4
+Volkswagen,Taigun,2000,126.9,1410,Petrol,Manual,139192,19.7
+Nissan,Sunny,2000,164.8,1083,Diesel,Manual,69834,20.5
+Nissan,Sunny,1800,116.2,1621,Petrol,Manual,3354,21.7
+BMW,X3,1200,66.4,911,Diesel,Manual,170160,24.7
+Toyota,Glanza,1500,125.1,1124,Petrol,Automatic,126675,20.5
+Nissan,Sunny,1600,122.8,857,Petrol,Automatic,170451,20.7
+Honda,Jazz,1800,129.8,1075,Diesel,Manual,136894,24.1
+Maruti Suzuki,Dzire,1000,72.5,1774,Diesel,Manual,79730,24.5
+Volkswagen,Polo,1500,83.2,1367,Petrol,Automatic,91142,21.3
+Kia,Sonet,1500,108.4,986,Petrol,Automatic,86133,22.3
+BMW,520d,1800,101.2,1229,Diesel,Manual,16818,21.6
+Honda,Civic,1200,113.8,1054,Diesel,Automatic,187528,23.1
+BMW,X3,1800,162.7,1616,Diesel,Manual,5830,23.4
+Maruti Suzuki,Swift,2500,139.5,1498,Diesel,Automatic,84592,19.4
+Nissan,Kicks,1600,121.9,1466,Petrol,Automatic,16156,19.3
+Toyota,Glanza,2000,110.7,899,Petrol,Manual,181753,21.0
+Nissan,Kicks,1600,90.4,1569,Diesel,Automatic,153210,23.3
+Nissan,Micra,1200,93.0,1690,Diesel,Manual,16370,24.7
+Hyundai,i20,1800,151.6,1774,Petrol,Manual,115197,20.3
+Volkswagen,Taigun,2200,202.8,1460,Diesel,Manual,508,22.4
+Kia,Sonet,1200,105.6,929,Petrol,Automatic,148771,22.2
+Volkswagen,Polo,1000,56.1,1267,Diesel,Manual,81680,25.9
+BMW,X1,2500,172.8,1338,Petrol,Automatic,34563,16.1
+Kia,Carens,1800,126.9,891,Diesel,Automatic,83221,22.2
+Toyota,Innova,2200,195.5,1238,Diesel,Automatic,35083,20.7
+Toyota,Innova,2000,188.8,1167,Diesel,Manual,6611,20.6
+Maruti Suzuki,Ciaz,2000,173.7,1815,Petrol,Manual,184664,19.2
+Ford,Figo,2500,218.4,1850,Petrol,Manual,59380,18.2
+Nissan,Micra,1000,73.0,1039,Diesel,Manual,165324,26.0
+Toyota,Yaris,2500,159.3,1675,Diesel,Manual,142109,19.6
+Toyota,Glanza,1600,143.4,1012,Diesel,Manual,167771,22.1
+Ford,Figo,1000,61.1,905,Petrol,Automatic,131490,21.6
+Ford,Figo,2000,126.7,930,Diesel,Automatic,59440,20.1
+Ford,Freestyle,2500,169.9,1707,Petrol,Manual,168927,17.5
+Volkswagen,Polo,1800,165.3,1776,Diesel,Manual,177979,22.6
+BMW,520d,2000,130.3,1858,Petrol,Manual,27075,21.0
+Honda,Amaze,1200,80.3,902,Diesel,Manual,166669,25.1
+Toyota,Yaris,1600,88.8,1543,Diesel,Automatic,152540,22.3
+Ford,Aspire,2500,190.5,1182,Diesel,Automatic,29781,20.3
+Kia,Carens,1000,79.9,861,Diesel,Manual,82137,25.9
+Maruti Suzuki,Dzire,1800,149.4,1185,Petrol,Automatic,22322,20.9
+Tata,Altroz,1800,103.0,872,Diesel,Automatic,30177,22.0
+Tata,Harrier,2000,154.9,1593,Diesel,Automatic,97807,21.4
+Toyota,Corolla,1000,89.9,1179,Petrol,Manual,28624,22.1
+Toyota,Corolla,2500,227.5,1019,Diesel,Automatic,86887,19.2
+Maruti Suzuki,Ciaz,1200,109.1,1336,Diesel,Manual,132559,24.4
+Volkswagen,Vento,1800,108.1,1625,Petrol,Manual,153787,21.8
+Honda,Jazz,2000,111.4,1488,Diesel,Automatic,54667,20.7
+Nissan,Micra,1500,132.2,956,Diesel,Automatic,121929,24.9
+BMW,X1,1600,141.5,897,Petrol,Manual,58855,21.5
+Toyota,Innova,1500,118.3,1253,Diesel,Manual,25531,23.8
+Ford,Figo,1200,99.6,1023,Petrol,Manual,88626,23.3
+Volkswagen,Polo,2000,160.1,1062,Diesel,Automatic,145806,20.1
+Ford,Figo,1000,85.5,1095,Petrol,Manual,87067,23.4
+Hyundai,i20,1800,156.5,874,Petrol,Manual,56374,20.9
+Honda,Amaze,1800,111.3,1668,Petrol,Automatic,171391,18.8
+BMW,320i,1800,116.8,1235,Diesel,Automatic,15601,21.1
+Kia,Sonet,2000,169.3,889,Petrol,Automatic,107676,18.0
+Nissan,Sunny,1600,104.2,1788,Diesel,Manual,18859,23.8
+Toyota,Innova,1600,110.3,1228,Diesel,Manual,37091,23.5
+Honda,WR-V,1800,144.8,1344,Diesel,Automatic,46700,23.3
+Maruti Suzuki,Ciaz,1500,138.5,1315,Petrol,Manual,108545,20.6
+Ford,Figo,1800,136.1,1530,Diesel,Automatic,45640,22.7
+Nissan,Kicks,2200,148.8,930,Diesel,Automatic,119822,20.4
+BMW,X1,1800,138.9,1745,Diesel,Automatic,177971,20.5
+Hyundai,Venue,2200,198.3,1025,Petrol,Automatic,36068,17.9
+Ford,Aspire,1800,156.1,986,Petrol,Automatic,134210,19.3
+Hyundai,i20,1200,84.1,1692,Diesel,Manual,156579,25.4
+Volkswagen,Taigun,1200,86.5,899,Diesel,Automatic,82705,23.7
+BMW,X3,1800,125.7,1155,Petrol,Manual,113738,20.3
+Nissan,Micra,1000,69.5,1841,Diesel,Manual,163914,24.6
+Nissan,Sunny,1800,165.3,1493,Petrol,Manual,51428,19.6
+Toyota,Yaris,2200,146.7,1425,Petrol,Automatic,76292,17.7
+BMW,X1,2500,155.7,1781,Petrol,Automatic,192123,17.3
+Maruti Suzuki,Dzire,1200,89.2,1576,Petrol,Manual,104595,21.9
+Honda,WR-V,1200,102.5,1543,Diesel,Manual,171772,25.7
+Kia,Carens,1800,111.6,1039,Petrol,Manual,161084,19.6
+Volkswagen,Taigun,2000,118.7,1874,Petrol,Automatic,39964,18.0
+Tata,Tiago,1600,89.0,1517,Petrol,Manual,126746,20.2
+BMW,X1,2200,154.6,1526,Petrol,Automatic,70986,18.1
+Nissan,Kicks,2500,174.4,904,Diesel,Automatic,33146,18.9
+Volkswagen,Vento,2000,189.0,1243,Diesel,Automatic,141958,21.5
+Maruti Suzuki,Swift,2500,141.4,1594,Diesel,Manual,7432,19.5
+Hyundai,i20,2000,149.7,1365,Petrol,Manual,26455,19.3
+Ford,Ecosport,1200,85.9,987,Diesel,Manual,72776,24.0
+Ford,Ecosport,1000,73.6,1412,Petrol,Automatic,142045,21.5
+Kia,Seltos,2000,146.3,1334,Petrol,Automatic,155998,20.5
+Maruti Suzuki,Baleno,1200,92.4,1711,Petrol,Automatic,107617,22.2
+Volkswagen,Polo,1000,58.7,1734,Petrol,Manual,165558,24.2
+Nissan,Micra,1600,113.0,1639,Diesel,Automatic,111565,21.7
+Tata,Harrier,1800,155.8,1239,Petrol,Automatic,154267,19.7
+Toyota,Glanza,2200,184.8,1010,Diesel,Manual,135578,23.4
+BMW,520d,1000,59.6,1531,Diesel,Manual,178099,25.0
+Tata,Altroz,1000,92.6,1599,Petrol,Automatic,99527,21.4
+BMW,520d,1800,118.5,1348,Petrol,Automatic,60424,20.3
+Volkswagen,Taigun,1500,118.1,1343,Petrol,Manual,178471,21.9
+Maruti Suzuki,Dzire,1200,110.7,1632,Petrol,Automatic,132902,21.8
+Ford,Aspire,1600,141.5,1734,Diesel,Automatic,138764,21.5
+Hyundai,Venue,1800,132.8,1204,Diesel,Manual,12239,22.5
+Ford,Freestyle,2500,206.7,1385,Petrol,Automatic,45337,17.5
+Hyundai,i10,1500,104.6,1694,Petrol,Manual,24602,21.3
+Toyota,Innova,2200,139.9,1386,Petrol,Automatic,180979,18.2
+Toyota,Innova,1800,123.5,1367,Diesel,Manual,173339,21.8
+Maruti Suzuki,Ciaz,1800,154.6,1837,Petrol,Manual,136796,20.7
+Honda,WR-V,1600,124.1,1681,Diesel,Manual,108091,22.7
+Tata,Tiago,2500,181.7,1301,Diesel,Manual,159729,21.1
+Hyundai,Creta,2500,234.0,1200,Diesel,Manual,102357,20.0
+Honda,Amaze,2200,158.1,1867,Petrol,Manual,55354,18.2
+Honda,Civic,2200,125.3,923,Petrol,Automatic,126400,18.7
+Nissan,Kicks,1800,124.3,1557,Petrol,Manual,189649,21.5
+Tata,Altroz,2000,132.3,1442,Petrol,Automatic,133748,20.4
+Maruti Suzuki,Dzire,2200,155.7,1095,Diesel,Manual,178965,21.1
+Tata,Harrier,1200,75.7,1382,Diesel,Manual,25385,25.0
+Volkswagen,Vento,1200,90.4,1738,Diesel,Automatic,23502,21.7
+Ford,Aspire,2500,223.4,1470,Diesel,Automatic,85866,20.0
+BMW,X3,2200,182.4,1007,Diesel,Manual,68702,20.8
+Tata,Harrier,1200,96.9,1614,Petrol,Manual,85817,22.4
+Honda,Civic,1800,117.2,1431,Diesel,Manual,190984,22.3
+Toyota,Camry,1000,87.1,1861,Petrol,Automatic,42684,21.5
+BMW,X1,1500,93.4,1324,Petrol,Manual,132280,22.1
+Hyundai,i20,2500,163.0,867,Diesel,Automatic,36361,21.1
+Tata,Altroz,1600,100.6,938,Diesel,Automatic,7549,22.7
+Toyota,Corolla,1500,109.9,898,Diesel,Automatic,35982,24.0
+Honda,Civic,2000,153.1,1038,Petrol,Automatic,173633,18.6
+BMW,X1,2000,113.8,1631,Diesel,Manual,187290,21.3
+BMW,520d,1600,100.4,1525,Diesel,Manual,128957,23.0
+Maruti Suzuki,WagonR,2500,192.8,1133,Petrol,Manual,150768,18.0
+BMW,X3,1600,93.6,1084,Diesel,Automatic,7527,22.0
+Ford,Freestyle,2500,221.9,1606,Diesel,Automatic,5572,18.9
+Toyota,Yaris,2200,174.1,1248,Petrol,Automatic,17561,18.8
+Nissan,Kicks,2000,165.9,912,Petrol,Manual,135698,21.1
+BMW,X1,2500,164.6,1878,Diesel,Automatic,123623,19.2
+Toyota,Innova,2200,187.0,1442,Petrol,Manual,26370,20.8
+Ford,Freestyle,2200,141.9,1375,Petrol,Manual,70718,20.5
+Honda,Civic,2200,192.4,1853,Diesel,Automatic,42151,20.2
+BMW,X1,1000,86.7,1762,Diesel,Automatic,4399,23.3
+Kia,Carens,1000,71.8,1668,Petrol,Automatic,76202,22.4
+Honda,City,2500,177.0,1391,Petrol,Automatic,139569,19.0
+BMW,520d,1200,113.7,1129,Petrol,Automatic,65067,23.4
+Volkswagen,Polo,1500,95.7,1376,Petrol,Manual,82460,22.6
+Honda,Civic,1800,143.6,1339,Diesel,Automatic,67100,20.2
+Hyundai,Verna,1200,90.8,1557,Petrol,Automatic,64906,21.1
+Volkswagen,Polo,2200,142.1,1360,Diesel,Automatic,17467,21.1
+Ford,Figo,1200,79.6,1625,Petrol,Automatic,186938,22.5
+Tata,Altroz,1800,110.5,1266,Petrol,Manual,81315,21.5
+Maruti Suzuki,Dzire,2200,176.1,1364,Diesel,Automatic,125834,20.8
+Nissan,Sunny,2000,186.3,1849,Petrol,Manual,183877,18.9
+Tata,Altroz,2500,219.3,1783,Diesel,Manual,18877,20.1
+Toyota,Corolla,1000,69.9,1685,Diesel,Automatic,167148,25.0
+Kia,Seltos,1200,86.8,1442,Petrol,Manual,71834,21.3
+BMW,320i,2200,176.1,1345,Petrol,Manual,160192,21.0
+Volkswagen,Polo,1200,76.2,1106,Diesel,Automatic,92843,25.0
+Toyota,Innova,2000,139.0,1743,Petrol,Automatic,69583,18.4
+Tata,Tiago,1000,69.2,1657,Diesel,Manual,55818,25.6
+BMW,520d,2500,226.0,892,Petrol,Manual,60325,19.9
+Nissan,Kicks,1000,65.5,1127,Petrol,Automatic,171744,24.1
+Ford,Ecosport,2500,222.0,1816,Diesel,Automatic,82735,19.1
+Kia,Carens,2000,153.4,1625,Diesel,Manual,117660,22.4
+Volkswagen,Taigun,1600,119.4,891,Petrol,Automatic,136869,21.7
+Nissan,Kicks,2000,173.6,1731,Diesel,Manual,23460,20.7
+Honda,Jazz,1200,99.0,1332,Diesel,Manual,3193,24.1
+Honda,Jazz,2000,183.5,1309,Petrol,Manual,138636,20.8
+Tata,Altroz,1200,80.3,1300,Petrol,Automatic,130561,21.1
+Hyundai,i10,2200,159.8,933,Petrol,Automatic,29017,19.2
+Volkswagen,Vento,2000,144.8,1349,Petrol,Manual,101419,20.8
+BMW,X3,2000,169.1,1417,Petrol,Manual,195534,20.5
+Maruti Suzuki,Ciaz,1600,151.4,1671,Diesel,Automatic,27879,23.6
+Kia,Seltos,2000,150.1,1240,Diesel,Manual,27473,20.8
+BMW,X3,2000,141.5,1359,Petrol,Automatic,11579,20.1
+Nissan,Micra,2200,187.7,1213,Petrol,Manual,112301,21.0
+Volkswagen,Taigun,1200,96.0,1003,Diesel,Automatic,47486,22.8
+Kia,Carens,2500,174.6,1754,Petrol,Manual,123538,19.8
+Hyundai,i20,2000,138.2,1641,Diesel,Manual,32719,22.8
+BMW,X1,2000,123.5,1745,Petrol,Manual,167087,20.5
+Honda,Amaze,2200,145.9,1827,Petrol,Automatic,48854,19.4
+Hyundai,i10,2200,162.4,1004,Petrol,Manual,98396,20.7
+Volkswagen,Taigun,1800,133.3,878,Petrol,Automatic,187251,19.6
+Ford,Aspire,1800,108.1,1478,Diesel,Manual,85678,21.2
+Tata,Harrier,1200,95.6,1656,Diesel,Manual,135440,23.1
+Ford,Freestyle,1800,134.7,1794,Diesel,Automatic,133588,22.2
+Kia,Sonet,1500,127.1,1563,Petrol,Manual,26726,21.0
+Honda,WR-V,2000,167.9,1465,Petrol,Automatic,82123,18.8
+BMW,X3,1600,99.3,1521,Diesel,Automatic,181260,22.5
+Volkswagen,Taigun,2200,149.4,1571,Petrol,Manual,172866,20.7
+Toyota,Yaris,1200,84.0,1310,Diesel,Automatic,193098,24.7
+Nissan,Kicks,1800,100.9,937,Diesel,Manual,175314,23.6
+Volkswagen,Polo,2500,187.5,954,Diesel,Manual,61444,18.8
+Honda,Jazz,2200,207.1,1611,Diesel,Automatic,74991,20.9
+Kia,Sonet,2500,164.9,1764,Diesel,Manual,130495,21.9
+Tata,Tiago,1600,100.6,1330,Diesel,Manual,100685,24.5
+Honda,Civic,1500,126.8,1407,Petrol,Automatic,97750,22.6
+Nissan,Kicks,2500,153.7,1247,Petrol,Manual,188155,18.8
+Volkswagen,Polo,1800,109.9,1153,Diesel,Automatic,185681,22.3
+BMW,X1,1000,68.5,1008,Petrol,Manual,66459,23.4
+Kia,Seltos,1600,149.2,991,Diesel,Automatic,179945,22.8
+Kia,Sonet,2200,162.8,1431,Diesel,Manual,7636,21.3
+Kia,Carens,2500,188.8,1525,Diesel,Manual,123309,19.7
+Kia,Carens,2000,159.0,1762,Petrol,Manual,80689,20.9
+Ford,Ecosport,1600,109.1,1313,Diesel,Automatic,63879,21.0
+Kia,Carens,2500,201.6,1628,Diesel,Manual,176761,20.0
+Maruti Suzuki,Ciaz,1600,99.5,1872,Diesel,Automatic,155397,22.1
+Kia,Seltos,2000,183.6,1253,Petrol,Automatic,183972,18.0
+Kia,Seltos,1800,101.8,1461,Petrol,Automatic,133815,18.6
+Maruti Suzuki,Baleno,2200,146.9,1631,Diesel,Automatic,81657,18.9
+Volkswagen,Vento,1000,63.4,1546,Diesel,Manual,167598,25.0
+Hyundai,i20,1000,70.0,858,Diesel,Manual,143055,26.2
+Volkswagen,Vento,1000,71.4,859,Diesel,Manual,33741,23.5
+Ford,Ecosport,2500,220.8,1610,Petrol,Automatic,196753,18.0
+Ford,Ecosport,1000,80.2,1091,Diesel,Automatic,54951,24.2
+Toyota,Innova,1500,112.7,1701,Petrol,Automatic,154766,21.2
+Nissan,Sunny,1800,170.4,1059,Petrol,Automatic,181808,20.3
+Maruti Suzuki,Swift,1600,88.2,1170,Diesel,Manual,65040,23.4
+Volkswagen,Taigun,1000,78.3,1406,Petrol,Manual,136523,21.9
+Volkswagen,Polo,2000,165.7,1662,Diesel,Automatic,191404,21.1
+BMW,X1,1600,150.2,1408,Diesel,Manual,195495,22.5
+BMW,X1,1200,109.6,1192,Diesel,Automatic,174471,21.9
+Toyota,Corolla,2000,116.0,1247,Diesel,Manual,83571,23.5
+Honda,Amaze,2000,174.8,1884,Petrol,Automatic,92262,19.4
+BMW,520d,2200,124.7,1600,Diesel,Automatic,73301,20.1
+Tata,Nexon,1200,112.5,1300,Diesel,Manual,33880,24.9
+Hyundai,Creta,2500,198.2,1622,Diesel,Automatic,33218,18.0
+Hyundai,Venue,2200,203.4,1877,Petrol,Automatic,58921,19.0
+Honda,Jazz,2000,182.5,1751,Diesel,Automatic,11360,20.3
+Ford,Figo,1500,131.1,1186,Diesel,Manual,67746,25.4
+Honda,City,2000,153.3,1615,Petrol,Manual,41207,21.0
+Volkswagen,Polo,1600,102.6,1627,Diesel,Automatic,89915,22.5
+BMW,X3,1800,125.5,1102,Petrol,Manual,183880,21.5
+Toyota,Corolla,2200,146.3,1850,Diesel,Automatic,14851,20.9
+Maruti Suzuki,Ciaz,1200,74.4,1084,Petrol,Manual,193497,23.5
+Toyota,Innova,1800,129.6,1675,Diesel,Manual,19807,22.6
+Toyota,Innova,1800,165.8,1837,Petrol,Automatic,122695,19.3
+Volkswagen,Vento,1800,117.0,1123,Diesel,Automatic,116399,23.5
+BMW,320i,1500,130.8,1120,Diesel,Automatic,45125,22.7
+Maruti Suzuki,WagonR,1500,131.5,1496,Diesel,Manual,170846,24.1
+Hyundai,i20,1800,158.8,902,Diesel,Automatic,184634,20.8
+Hyundai,Creta,2200,175.6,1429,Petrol,Automatic,25767,19.0
+Maruti Suzuki,Baleno,1200,91.0,1287,Diesel,Automatic,87020,24.2
+Hyundai,Creta,1500,132.4,1797,Diesel,Automatic,73118,22.8
+Toyota,Yaris,1200,90.2,887,Diesel,Automatic,98156,24.1
+Nissan,Micra,1600,145.9,1454,Petrol,Automatic,68904,21.3
+Toyota,Camry,1800,131.6,1359,Petrol,Automatic,197922,21.2
+BMW,520d,1800,106.5,873,Diesel,Automatic,79788,22.5
+Maruti Suzuki,Ciaz,1600,102.0,1712,Diesel,Automatic,96691,22.8
+Honda,Jazz,1000,59.3,1167,Diesel,Manual,9724,24.7
+Maruti Suzuki,Swift,2500,167.4,1814,Diesel,Manual,95598,21.1
+Ford,Aspire,2500,169.7,971,Diesel,Manual,61765,19.2
+Hyundai,Venue,1200,72.6,1167,Petrol,Automatic,178083,21.8
+Ford,Freestyle,1800,153.9,1295,Diesel,Automatic,102695,23.5
+Maruti Suzuki,Baleno,1600,145.2,1860,Petrol,Automatic,29083,20.4
+Nissan,Sunny,1200,87.2,1519,Petrol,Automatic,194695,22.3
+Maruti Suzuki,Ciaz,1000,92.3,1150,Diesel,Automatic,58233,22.9
+Honda,WR-V,2000,131.6,1012,Petrol,Manual,185271,19.3
+Maruti Suzuki,Baleno,1600,97.9,1627,Diesel,Manual,144465,22.1
+Nissan,Kicks,1600,94.0,1846,Petrol,Automatic,92090,20.1
+Kia,Seltos,1200,111.3,943,Petrol,Automatic,171431,21.1
+BMW,320i,2500,205.9,1327,Petrol,Manual,86769,18.3
+Kia,Seltos,2000,176.3,958,Petrol,Automatic,35826,19.2
+Kia,Sonet,2000,111.8,1298,Petrol,Automatic,100900,20.5
+Hyundai,Verna,2000,160.1,1850,Petrol,Manual,169724,21.3
+Tata,Tiago,1600,117.9,968,Petrol,Automatic,33636,21.2
+Volkswagen,Vento,2000,115.0,1194,Petrol,Automatic,142836,20.2
+Hyundai,i10,1200,96.2,1711,Diesel,Manual,76897,23.7
+Volkswagen,Taigun,1600,89.8,1228,Petrol,Automatic,43060,21.7
+Maruti Suzuki,Swift,1500,109.4,1349,Diesel,Automatic,27065,20.7
+Maruti Suzuki,Dzire,1500,138.6,1861,Diesel,Manual,46913,23.1
+Honda,Civic,1000,68.4,1815,Petrol,Automatic,42485,23.8
+Hyundai,Verna,1600,110.9,1150,Petrol,Manual,35891,21.5
+Ford,Figo,1200,99.8,1401,Petrol,Automatic,124148,22.3
+Hyundai,Verna,1000,85.7,1225,Diesel,Automatic,88492,24.9
+Nissan,Sunny,1000,66.9,1209,Diesel,Manual,67295,26.5
+Maruti Suzuki,Baleno,2500,172.0,1811,Petrol,Manual,60026,19.4
+Ford,Figo,1800,101.3,1712,Diesel,Automatic,115806,21.5
+Kia,Sonet,2200,173.5,1240,Diesel,Manual,63505,22.1
+Ford,Freestyle,1600,137.8,1505,Petrol,Automatic,99488,21.9
+Hyundai,Creta,1200,77.7,1556,Diesel,Manual,58498,22.5
+Volkswagen,Vento,2200,166.1,1285,Diesel,Manual,119999,21.9
+Tata,Nexon,2000,181.4,1839,Petrol,Manual,152408,20.2
+Honda,City,2000,120.3,1634,Petrol,Automatic,123489,21.0
+Ford,Figo,1500,120.4,1208,Diesel,Manual,113814,23.6
+Volkswagen,Taigun,2000,187.4,1009,Diesel,Manual,59754,20.9
+Honda,WR-V,2000,157.2,1703,Petrol,Manual,64275,21.1
+Honda,Amaze,2000,120.8,1504,Diesel,Manual,16966,20.2
+Volkswagen,Taigun,2200,141.2,1752,Diesel,Manual,178655,20.8
+Maruti Suzuki,Swift,1800,158.8,1719,Petrol,Manual,178067,21.1
+Ford,Aspire,2200,153.4,1441,Petrol,Automatic,60118,17.7
+BMW,320i,2200,129.9,1529,Petrol,Automatic,27744,18.3
+Ford,Freestyle,1500,94.4,1482,Petrol,Manual,187218,22.9
+Toyota,Camry,1200,105.3,1744,Diesel,Automatic,145467,23.6
+Tata,Nexon,1500,124.7,1131,Petrol,Manual,87449,22.0
+Maruti Suzuki,Baleno,1500,91.2,1034,Petrol,Automatic,92203,21.5
+Toyota,Glanza,2000,139.0,1752,Diesel,Automatic,23549,20.3
+Toyota,Glanza,1500,112.0,1053,Diesel,Manual,164122,23.3
+Hyundai,Venue,1000,58.8,1687,Petrol,Manual,63661,24.2
+Toyota,Glanza,1200,89.5,1134,Petrol,Manual,29560,24.1
+Honda,Amaze,2200,159.6,1050,Diesel,Manual,126923,22.3
+Honda,Civic,1600,148.8,917,Diesel,Automatic,187603,23.7
+Toyota,Camry,2500,154.3,1334,Petrol,Manual,167605,19.0
+Toyota,Innova,2000,153.8,894,Diesel,Manual,48648,21.6
+Maruti Suzuki,Baleno,2000,134.2,1307,Petrol,Manual,173869,19.1
+Honda,City,2200,139.7,1397,Diesel,Automatic,7970,19.7
+BMW,X1,1200,92.0,1662,Diesel,Automatic,58670,23.7
+BMW,X3,1000,56.5,1476,Diesel,Manual,3808,24.4
+Ford,Ecosport,1200,81.1,1527,Petrol,Automatic,99566,23.1
+Volkswagen,Taigun,1600,133.8,1001,Petrol,Automatic,136627,20.2
+Hyundai,i10,2500,168.0,1303,Petrol,Automatic,84976,17.1
+Maruti Suzuki,Baleno,2500,207.0,1418,Petrol,Automatic,64347,19.5
+Kia,Seltos,1500,137.9,1837,Petrol,Manual,91016,22.2
+Ford,Aspire,2000,174.1,1800,Petrol,Automatic,131224,20.0
+Volkswagen,Polo,1800,128.1,1726,Petrol,Manual,58057,21.5
+Hyundai,Venue,1800,159.9,1052,Diesel,Automatic,103653,21.4
+Hyundai,Creta,1500,122.0,1473,Petrol,Manual,104655,22.3
+BMW,520d,1500,100.2,1860,Petrol,Automatic,45163,20.8
+Toyota,Glanza,1500,91.8,1093,Petrol,Manual,3844,20.9
+Ford,Ecosport,1000,56.4,1587,Petrol,Automatic,175881,23.0
+Tata,Tiago,2500,138.9,1577,Diesel,Automatic,124299,19.6
+Maruti Suzuki,Swift,2500,161.9,1382,Diesel,Manual,90936,20.1
+Maruti Suzuki,WagonR,2200,206.2,1171,Petrol,Manual,82925,18.7
+Ford,Ecosport,1500,84.4,1151,Petrol,Manual,162417,23.4
+Tata,Harrier,2500,218.7,980,Petrol,Automatic,49348,16.7
+BMW,520d,2200,148.8,1847,Petrol,Automatic,162205,18.2
+Maruti Suzuki,Baleno,1600,94.0,1545,Petrol,Manual,134611,20.8
+Toyota,Camry,2200,151.7,1567,Petrol,Manual,189750,19.9
+Maruti Suzuki,WagonR,2000,133.0,906,Petrol,Manual,142723,19.3
+Maruti Suzuki,WagonR,1500,116.7,1405,Diesel,Manual,112882,24.5
+Hyundai,Creta,2500,222.9,1355,Petrol,Manual,24716,18.4
+BMW,X3,1500,126.6,1180,Petrol,Manual,56817,22.0
+Hyundai,i10,2000,134.7,1725,Petrol,Manual,116564,20.9
+Volkswagen,Taigun,1600,138.4,1590,Petrol,Manual,99586,22.4
+Volkswagen,Polo,1000,63.0,1824,Diesel,Automatic,166834,26.0
+Maruti Suzuki,Baleno,1800,150.7,1813,Diesel,Automatic,158992,23.6
+Volkswagen,Vento,1600,94.6,1198,Diesel,Automatic,180403,24.0
+BMW,520d,2500,152.0,1039,Diesel,Automatic,163936,20.4
+Tata,Nexon,1000,93.7,1801,Petrol,Automatic,99383,21.0
+Volkswagen,Taigun,1000,70.7,1273,Petrol,Automatic,37129,20.6
+Volkswagen,Polo,2000,110.5,1207,Diesel,Manual,16109,20.9
+Toyota,Camry,1200,87.7,881,Diesel,Manual,54927,24.6
+Hyundai,Creta,2200,158.2,1368,Petrol,Automatic,153116,19.1
+Ford,Figo,2200,171.2,1542,Petrol,Manual,9010,18.2
+Kia,Seltos,1000,77.7,903,Diesel,Automatic,188749,23.8
+Tata,Harrier,1800,102.2,981,Petrol,Manual,148721,21.3
+Kia,Seltos,1200,77.0,924,Petrol,Automatic,95890,21.9
+BMW,320i,1000,79.3,1099,Diesel,Automatic,166063,24.4
+Hyundai,Verna,1200,81.1,1449,Petrol,Automatic,190463,22.3
+Maruti Suzuki,Swift,2500,165.4,1814,Petrol,Manual,175243,18.1
+Maruti Suzuki,WagonR,1500,120.8,1822,Diesel,Manual,47449,22.9
+Hyundai,i20,1800,164.6,1202,Diesel,Automatic,155073,21.2
+Kia,Sonet,2200,201.6,1174,Diesel,Manual,35839,22.7
+Maruti Suzuki,Dzire,2500,146.9,1799,Petrol,Automatic,54385,17.8
+Tata,Harrier,1600,151.6,978,Diesel,Manual,96704,23.6
+Toyota,Camry,1000,66.6,1121,Petrol,Manual,26837,23.9
+Kia,Sonet,2200,150.3,1505,Diesel,Manual,199522,22.1
+Maruti Suzuki,Dzire,2500,230.8,951,Diesel,Manual,37154,20.4
+Honda,Amaze,1200,69.2,1759,Petrol,Manual,166871,21.6
+Kia,Sonet,1000,66.2,1272,Diesel,Automatic,94189,25.9
+Tata,Nexon,1200,70.4,1784,Diesel,Manual,21212,23.7
+BMW,320i,1600,92.0,1883,Diesel,Automatic,119632,20.9
+Tata,Nexon,2500,176.5,940,Diesel,Automatic,78383,19.4
+Tata,Harrier,1500,109.8,1877,Diesel,Manual,54453,23.3
+Tata,Harrier,2200,138.7,1825,Petrol,Manual,61771,20.2
+Volkswagen,Vento,1500,86.5,950,Petrol,Manual,181404,21.1
+Honda,City,2200,165.3,1728,Diesel,Automatic,99844,20.7
+Tata,Harrier,2500,203.3,1235,Diesel,Automatic,33860,21.1
+Ford,Freestyle,1000,74.9,1580,Petrol,Manual,81910,24.4
+Nissan,Sunny,2500,164.9,1598,Diesel,Automatic,121613,17.6
+BMW,X3,2500,176.8,1269,Diesel,Manual,177320,20.3
+Maruti Suzuki,Ciaz,2500,235.1,958,Diesel,Manual,164755,19.9
+Ford,Freestyle,1600,140.9,1416,Diesel,Automatic,86077,22.7
+Hyundai,Venue,2500,235.1,1454,Petrol,Automatic,12323,17.5
+Hyundai,Creta,2500,230.4,1491,Diesel,Manual,29944,21.0
+Hyundai,Verna,1500,127.6,1218,Diesel,Manual,118669,25.1
+Kia,Carens,2000,172.3,942,Petrol,Automatic,52020,18.9
+Ford,Freestyle,1600,114.8,1835,Petrol,Manual,46830,20.2
+Kia,Seltos,2000,119.4,1685,Diesel,Automatic,102131,20.5
+Nissan,Kicks,2000,186.8,1765,Diesel,Automatic,167647,21.7
+Hyundai,Venue,1600,88.1,917,Diesel,Automatic,56811,23.2
+Kia,Seltos,1000,84.3,1525,Diesel,Automatic,69987,24.6
+Tata,Altroz,2000,152.7,916,Petrol,Automatic,26363,19.0
+Kia,Carens,1000,64.2,1727,Diesel,Automatic,149859,23.9
+Ford,Ecosport,2000,137.2,1604,Petrol,Manual,91488,21.7
+Kia,Seltos,2000,176.8,1127,Diesel,Manual,95481,21.1
+Maruti Suzuki,WagonR,2200,151.8,1899,Petrol,Automatic,194537,18.4
+Tata,Nexon,2000,110.5,1365,Petrol,Manual,135199,19.3
+Honda,City,2200,160.7,1702,Diesel,Manual,22006,22.0
+Ford,Ecosport,2000,126.8,1685,Petrol,Manual,197955,18.8
+Maruti Suzuki,Baleno,1500,115.8,1123,Petrol,Manual,70349,21.7
+Nissan,Kicks,1200,88.9,1835,Petrol,Manual,41760,22.7
+Volkswagen,Vento,1200,110.5,1781,Petrol,Automatic,122685,23.0
+Toyota,Yaris,2200,159.4,1244,Petrol,Manual,53350,19.9
+Toyota,Yaris,1000,79.8,1261,Petrol,Automatic,72061,22.5
+Toyota,Camry,1500,96.6,1401,Petrol,Manual,98674,21.8
+Honda,Amaze,2000,125.9,1477,Petrol,Manual,151000,19.7
+BMW,320i,2000,147.1,1851,Petrol,Manual,55685,20.9
+BMW,X1,2200,191.8,1408,Diesel,Manual,105780,21.0
+Volkswagen,Vento,1800,133.0,1225,Diesel,Automatic,182925,20.3
+Tata,Nexon,1200,80.9,1000,Petrol,Manual,10499,23.1
+Nissan,Sunny,2000,112.0,1745,Diesel,Automatic,145664,20.9
+Ford,Figo,1000,68.5,863,Diesel,Manual,50280,25.7
+Volkswagen,Vento,2000,133.8,1452,Diesel,Automatic,158486,21.1
+Tata,Nexon,1200,90.9,1429,Petrol,Automatic,177331,23.2
+BMW,320i,2000,118.0,897,Petrol,Automatic,153589,18.2
+Ford,Figo,2500,211.0,1677,Petrol,Manual,101943,18.7
+Hyundai,i10,2500,207.2,1186,Diesel,Automatic,128077,20.6
+Hyundai,Creta,1500,138.6,1229,Petrol,Automatic,136890,20.9
+Kia,Sonet,1500,90.7,1350,Diesel,Automatic,178463,22.2
+Toyota,Corolla,2200,137.1,1524,Diesel,Automatic,87792,19.1
+Honda,City,2200,166.9,1374,Petrol,Manual,124660,20.5
+Kia,Carens,2000,188.0,1483,Petrol,Automatic,26054,18.3
+Kia,Carens,2000,124.5,1090,Petrol,Automatic,185927,20.2
+BMW,X3,1000,62.8,1248,Diesel,Manual,85644,25.6
+BMW,X3,1500,122.8,1187,Diesel,Manual,118755,23.7
+Tata,Harrier,1200,92.4,1079,Diesel,Manual,105396,25.9
+BMW,320i,1000,89.4,1624,Diesel,Manual,79059,24.3
+Ford,Figo,2000,185.8,1759,Petrol,Automatic,174248,18.9
+Ford,Aspire,1000,75.0,1229,Diesel,Automatic,96491,22.4
+Nissan,Sunny,2000,144.6,902,Petrol,Automatic,172700,18.8
+Ford,Aspire,1600,94.6,1188,Diesel,Manual,56110,23.6
+Toyota,Yaris,1800,106.9,1840,Petrol,Manual,45761,22.2
+BMW,520d,1800,126.0,938,Petrol,Manual,182674,22.0
+Hyundai,Verna,1200,87.9,952,Petrol,Manual,69613,23.0
+Volkswagen,Polo,2500,157.8,1379,Petrol,Manual,70740,17.8
+Toyota,Glanza,2200,128.6,954,Diesel,Automatic,14347,19.4
+Toyota,Camry,1500,127.4,1880,Petrol,Manual,139277,20.7
+Toyota,Glanza,1200,76.6,1229,Diesel,Manual,154326,25.6
+Hyundai,i20,2200,144.0,1201,Diesel,Automatic,194366,19.6
+Toyota,Corolla,1600,110.3,1297,Petrol,Automatic,7855,20.9
+BMW,520d,2200,188.8,1484,Petrol,Manual,27868,19.3
+Nissan,Sunny,2000,124.6,1376,Diesel,Automatic,197234,22.4
+Hyundai,i10,1000,57.3,1259,Diesel,Automatic,3975,23.1
+Tata,Nexon,1800,129.0,1714,Diesel,Manual,42821,21.0
+Hyundai,Creta,2000,157.1,1442,Diesel,Automatic,46732,19.6
+Honda,Amaze,2200,161.7,1264,Petrol,Automatic,18381,18.0
+Maruti Suzuki,Ciaz,1000,55.6,1073,Petrol,Automatic,37539,23.6
+Ford,Freestyle,2200,162.1,935,Petrol,Automatic,194496,19.1
+Kia,Carens,2500,211.2,1068,Diesel,Manual,164812,19.0
+Kia,Carens,2000,166.0,996,Diesel,Automatic,124974,21.7
+Kia,Sonet,2200,179.8,1495,Diesel,Manual,3467,22.2
+Ford,Freestyle,1500,111.1,1627,Petrol,Manual,164454,21.8
+Nissan,Kicks,1200,76.1,936,Diesel,Automatic,37396,23.6
+Honda,Jazz,1600,150.0,958,Diesel,Automatic,107720,23.7
+Maruti Suzuki,Ciaz,1500,133.9,1400,Diesel,Automatic,169744,21.5
+BMW,320i,1000,58.0,1150,Diesel,Manual,153070,26.0
+Toyota,Glanza,2000,146.7,901,Petrol,Manual,90394,20.5
+Volkswagen,Taigun,2500,201.3,1158,Petrol,Automatic,135754,18.4
+Hyundai,Creta,1000,65.0,1274,Diesel,Automatic,96518,23.6
+Tata,Nexon,1800,120.2,1261,Diesel,Manual,135212,24.3
+Nissan,Kicks,2200,142.9,968,Diesel,Automatic,86879,20.0
+Nissan,Sunny,2200,158.6,1220,Petrol,Automatic,191218,19.7
+Volkswagen,Polo,2000,189.7,1638,Petrol,Automatic,48572,18.4
+Toyota,Corolla,2200,132.9,1030,Diesel,Manual,36889,20.8
+BMW,520d,2500,147.0,1644,Petrol,Automatic,74906,18.8
+Kia,Carens,2200,144.1,1369,Diesel,Manual,195946,19.4
+Maruti Suzuki,Baleno,2000,185.5,1036,Petrol,Manual,81865,20.6
+Kia,Carens,1800,166.4,1006,Diesel,Manual,40655,21.6
+Maruti Suzuki,Ciaz,1200,85.0,1298,Diesel,Manual,28568,25.3
+Nissan,Micra,1800,162.8,1810,Petrol,Automatic,33829,18.2
+Volkswagen,Polo,1600,112.4,1739,Petrol,Manual,168041,20.6
+Tata,Altroz,2500,232.9,1342,Diesel,Automatic,195465,20.2
+BMW,520d,2200,196.0,1706,Diesel,Manual,152810,20.0
+Tata,Harrier,1600,129.9,1090,Diesel,Automatic,78831,21.3
+Volkswagen,Taigun,1600,144.4,982,Petrol,Automatic,61020,20.9
+Kia,Sonet,2200,137.7,1299,Petrol,Manual,71888,18.8
+Tata,Altroz,1000,87.5,979,Petrol,Manual,77767,23.4
+Kia,Seltos,2000,158.2,1377,Diesel,Automatic,106026,21.4
+Toyota,Yaris,2500,211.2,1695,Diesel,Automatic,38660,19.1
+Ford,Aspire,1500,95.8,1598,Diesel,Automatic,150645,21.9
+Maruti Suzuki,Baleno,1000,75.2,888,Diesel,Automatic,177873,24.9
+Honda,Amaze,1600,112.4,1092,Petrol,Automatic,138863,19.6
+Hyundai,i10,1800,107.0,1758,Diesel,Manual,191282,22.0
+Volkswagen,Vento,2000,155.5,1716,Petrol,Manual,116387,19.5
+Ford,Figo,2000,187.3,1578,Petrol,Manual,135123,21.4
+Honda,Jazz,1200,97.2,1892,Diesel,Manual,136433,24.9
+Maruti Suzuki,Swift,2200,142.9,1186,Diesel,Manual,18464,21.9
+BMW,520d,1800,134.2,1794,Petrol,Automatic,32508,19.2
+Ford,Freestyle,1000,92.1,1750,Petrol,Manual,119379,24.2
+Kia,Carens,1600,146.7,1608,Petrol,Automatic,10721,19.5
+Maruti Suzuki,WagonR,1200,78.2,1286,Petrol,Automatic,2315,23.7
+Hyundai,Verna,2200,163.4,1080,Diesel,Automatic,36279,20.5
